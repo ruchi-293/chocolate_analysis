@@ -1,0 +1,1201 @@
+InventoryID,ProductID,ProductName,WarehouseLocation,StockQuantity,ReorderLevel,LastRestockedDate,StockStatus
+INV-000001,CHC-00636,Single Origin Dark Chocolate Bar,North America Distribution Center,445,114,2026-06-12,In Stock
+INV-000002,CHC-00058,Value Pack Compound Chocolate Pralines,Europe Distribution Center,215,47,2026-06-30,In Stock
+INV-000003,CHC-00707,Classic Milk Chocolate Bar,Europe Distribution Center,310,106,2026-06-21,In Stock
+INV-000004,CHC-01194,Coconut Sugar Vegan Dark Chocolate Truffle Box,Latin America Distribution Center,667,133,2026-07-14,In Stock
+INV-000005,CHC-00095,70% Intense Dark Chocolate Truffle Box,Asia Pacific Distribution Center,443,75,2026-07-22,In Stock
+INV-000006,CHC-00560,Organic Fair-Trade Chocolate Gift Box,Latin America Distribution Center,194,42,2026-06-11,In Stock
+INV-000007,CHC-00042,Gianduja Style Hazelnut Chocolate Filled Bar,North America Distribution Center,81,23,2026-07-14,In Stock
+INV-000008,CHC-00877,Sea Salt Milk Chocolate Bar,Middle East & Africa Distribution Center,262,56,2026-07-06,In Stock
+INV-000009,CHC-00110,Salted Butter Caramel Chocolate Truffle Box,Asia Pacific Distribution Center,990,300,2026-07-13,In Stock
+INV-000010,CHC-01267,Espresso Infused Dark Chocolate Coated Nuts,Latin America Distribution Center,1122,326,2026-07-08,In Stock
+INV-000011,CHC-00163,Honeycomb Milk Chocolate Coated Nuts,Latin America Distribution Center,868,146,2026-06-26,In Stock
+INV-000012,CHC-00787,Coconut White Chocolate Pralines,Europe Distribution Center,271,70,2026-07-12,In Stock
+INV-000013,CHC-01099,Raspberry Swirl White Chocolate Drops,Europe Distribution Center,775,268,2026-07-25,In Stock
+INV-000014,CHC-00661,Sea Salt Caramel Chocolate Truffle Box,Latin America Distribution Center,206,52,2026-07-22,In Stock
+INV-000015,CHC-00621,Classic Milk Chocolate Gift Box,Middle East & Africa Distribution Center,298,47,2026-07-02,In Stock
+INV-000016,CHC-00457,Almond Crunch Chocolate Bar,Asia Pacific Distribution Center,725,137,2026-07-24,In Stock
+INV-000017,CHC-00854,Salted Butter Caramel Chocolate Pralines,Asia Pacific Distribution Center,338,103,2026-07-19,In Stock
+INV-000018,CHC-01153,Classic Sugar-Free Chocolate Pralines,Middle East & Africa Distribution Center,332,52,2026-07-10,In Stock
+INV-000019,CHC-00331,70% Intense Dark Chocolate Drops,Asia Pacific Distribution Center,894,260,2026-06-15,In Stock
+INV-000020,CHC-01203,Whole Hazelnut Chocolate Bar,Latin America Distribution Center,604,178,2026-07-28,In Stock
+INV-000021,CHC-00972,Single Origin Dark Chocolate Wafer Bar,Europe Distribution Center,747,252,2026-07-17,In Stock
+INV-000022,CHC-00788,Organic Raw Cacao Chocolate Squares,Asia Pacific Distribution Center,842,155,2026-06-07,In Stock
+INV-000023,CHC-00636,Single Origin Dark Chocolate Bar,Middle East & Africa Distribution Center,603,128,2026-07-06,In Stock
+INV-000024,CHC-00244,Organic Raw Cacao Chocolate Gift Box,Middle East & Africa Distribution Center,350,70,2026-07-30,In Stock
+INV-000025,CHC-00350,Tropical Mix Fruit & Nut Chocolate Drops,Asia Pacific Distribution Center,96,16,2026-07-25,In Stock
+INV-000026,CHC-00174,Honeycomb Milk Chocolate Pralines,Latin America Distribution Center,276,76,2026-06-14,In Stock
+INV-000027,CHC-01297,Sea Salt Milk Chocolate Pralines,Europe Distribution Center,1404,387,2026-06-11,In Stock
+INV-000028,CHC-00688,Raspberry Swirl White Chocolate Bar,North America Distribution Center,843,158,2026-07-29,In Stock
+INV-000029,CHC-01399,Single Origin Dark Chocolate Coated Nuts,Europe Distribution Center,157,53,2026-07-27,In Stock
+INV-000030,CHC-00355,Raspberry Swirl White Chocolate Pralines,North America Distribution Center,714,125,2026-06-18,In Stock
+INV-000031,CHC-00638,Raisin & Almond Fruit & Nut Chocolate Truffle Box,Latin America Distribution Center,2437,842,2026-06-08,In Stock
+INV-000032,CHC-00804,Single Origin Dark Chocolate Wafer Bar,North America Distribution Center,397,129,2026-07-27,In Stock
+INV-000033,CHC-00424,85% Extra Bold Dark Chocolate Drops,Europe Distribution Center,245,45,2026-06-16,In Stock
+INV-000034,CHC-00245,Sea Salt Milk Chocolate Wafer Bar,Middle East & Africa Distribution Center,473,113,2026-07-07,In Stock
+INV-000035,CHC-00360,Classic Milk Chocolate Filled Bar,Middle East & Africa Distribution Center,362,98,2026-06-16,In Stock
+INV-000036,CHC-00546,Raisin & Almond Fruit & Nut Chocolate Chips (Baking),Middle East & Africa Distribution Center,562,90,2026-07-07,In Stock
+INV-000037,CHC-01223,70% Intense Dark Chocolate Pralines,Middle East & Africa Distribution Center,327,92,2026-06-23,In Stock
+INV-000038,CHC-00593,Soft Caramel Core Chocolate Wafer Bar,Asia Pacific Distribution Center,323,80,2026-07-04,In Stock
+INV-000039,CHC-00045,Organic Single Origin Chocolate Truffle Box,Middle East & Africa Distribution Center,846,292,2026-06-05,In Stock
+INV-000040,CHC-00587,Marzipan Style Almond Chocolate Gift Box,North America Distribution Center,97,18,2026-06-11,In Stock
+INV-000041,CHC-00906,Coconut White Chocolate Coated Nuts,Europe Distribution Center,348,77,2026-06-10,In Stock
+INV-000042,CHC-01352,Marzipan Style Almond Chocolate Coated Nuts,Europe Distribution Center,361,109,2026-07-10,In Stock
+INV-000043,CHC-01281,Value Pack Compound Chocolate Squares,Asia Pacific Distribution Center,856,152,2026-07-23,In Stock
+INV-000044,CHC-00719,Coconut White Chocolate Truffle Box,Europe Distribution Center,311,69,2026-07-09,In Stock
+INV-000045,CHC-00677,Tropical Mix Fruit & Nut Chocolate Drops,Europe Distribution Center,602,118,2026-07-09,In Stock
+INV-000046,CHC-00793,Coconut White Chocolate Drops,North America Distribution Center,487,92,2026-07-07,In Stock
+INV-000047,CHC-00243,Coconut Sugar Vegan Dark Chocolate Coated Nuts,Asia Pacific Distribution Center,1183,227,2026-06-19,In Stock
+INV-000048,CHC-00384,Bakers Classic Compound Chocolate Gift Box,Asia Pacific Distribution Center,226,56,2026-07-03,In Stock
+INV-000049,CHC-00606,Lemon Zest White Chocolate Drops,Latin America Distribution Center,196,40,2026-06-25,In Stock
+INV-000050,CHC-00437,Biscuit Milk Chocolate Truffle Box,Latin America Distribution Center,1107,174,2026-07-18,In Stock
+INV-000051,CHC-00665,Single Origin Dark Chocolate Bar,Latin America Distribution Center,740,169,2026-07-05,In Stock
+INV-000052,CHC-00247,Oat Milk Blend Vegan Dark Chocolate Bar,North America Distribution Center,1212,333,2026-07-05,In Stock
+INV-000053,CHC-00605,Raisin & Almond Fruit & Nut Chocolate Coated Nuts,Europe Distribution Center,239,47,2026-07-12,In Stock
+INV-000054,CHC-00696,85% Extra Bold Dark Chocolate Coated Nuts,Europe Distribution Center,478,81,2026-06-15,In Stock
+INV-000055,CHC-00172,Marzipan Style Almond Chocolate Squares,Asia Pacific Distribution Center,239,40,2026-06-25,In Stock
+INV-000056,CHC-01220,Biscuit Milk Chocolate Gift Box,Europe Distribution Center,825,217,2026-06-30,In Stock
+INV-000057,CHC-00523,Coconut White Chocolate Filled Bar,Middle East & Africa Distribution Center,239,83,2026-07-19,In Stock
+INV-000058,CHC-00130,Praline Hazelnut Chocolate Gift Box,Latin America Distribution Center,375,80,2026-07-02,In Stock
+INV-000059,CHC-00744,Organic Raw Cacao Chocolate Coated Nuts,Europe Distribution Center,747,140,2026-07-01,In Stock
+INV-000060,CHC-00361,Honeycomb Milk Chocolate Truffle Box,Europe Distribution Center,480,89,2026-07-07,In Stock
+INV-000061,CHC-00931,70% Intense Dark Chocolate Filled Bar,North America Distribution Center,148,48,2026-06-08,In Stock
+INV-000062,CHC-00420,Roasted Almond Chocolate Drops,Middle East & Africa Distribution Center,411,103,2026-08-02,In Stock
+INV-000063,CHC-00919,Raisin & Almond Fruit & Nut Chocolate Coated Nuts,Asia Pacific Distribution Center,201,38,2026-06-25,In Stock
+INV-000064,CHC-01469,Soft Caramel Core Chocolate Drops,Europe Distribution Center,805,138,2026-06-09,In Stock
+INV-000065,CHC-01167,Bakers Classic Compound Chocolate Coated Nuts,Europe Distribution Center,1060,362,2026-06-22,In Stock
+INV-000066,CHC-00073,Classic Milk Chocolate Gift Box,Middle East & Africa Distribution Center,136,27,2026-06-18,In Stock
+INV-000067,CHC-01294,Oat Milk Blend Vegan Dark Chocolate Truffle Box,Europe Distribution Center,351,70,2026-07-07,In Stock
+INV-000068,CHC-01394,Citrus Ruby Chocolate Squares,Europe Distribution Center,485,120,2026-07-26,In Stock
+INV-000069,CHC-00560,Organic Fair-Trade Chocolate Gift Box,Asia Pacific Distribution Center,288,59,2026-06-11,In Stock
+INV-000070,CHC-00928,Raspberry Swirl White Chocolate Filled Bar,Asia Pacific Distribution Center,375,95,2026-06-21,In Stock
+INV-000071,CHC-00675,Raspberry Swirl White Chocolate Truffle Box,Middle East & Africa Distribution Center,619,177,2026-08-01,In Stock
+INV-000072,CHC-00803,Oat Milk Blend Vegan Dark Chocolate Coated Nuts,Europe Distribution Center,206,42,2026-06-19,In Stock
+INV-000073,CHC-00539,Salted Butter Caramel Chocolate Filled Bar,Europe Distribution Center,432,126,2026-07-14,In Stock
+INV-000074,CHC-00211,Single Origin Dark Chocolate Squares,Europe Distribution Center,112,29,2026-07-09,In Stock
+INV-000075,CHC-00726,Sea Salt Caramel Chocolate Pralines,Asia Pacific Distribution Center,455,138,2026-07-19,In Stock
+INV-000076,CHC-00881,Praline Hazelnut Chocolate Wafer Bar,Europe Distribution Center,394,96,2026-06-17,In Stock
+INV-000077,CHC-00816,Salted Butter Caramel Chocolate Coated Nuts,Europe Distribution Center,601,164,2026-07-13,In Stock
+INV-000078,CHC-01063,Espresso Infused Dark Chocolate Coated Nuts,Latin America Distribution Center,394,114,2026-07-28,In Stock
+INV-000079,CHC-00283,70% Intense Dark Chocolate Coated Nuts,Asia Pacific Distribution Center,377,98,2026-06-23,In Stock
+INV-000080,CHC-00075,Salted Butter Caramel Chocolate Gift Box,Latin America Distribution Center,149,38,2026-06-13,In Stock
+INV-000081,CHC-00985,Praline Hazelnut Chocolate Filled Bar,Asia Pacific Distribution Center,218,34,2026-07-13,In Stock
+INV-000082,CHC-01097,70% Intense Dark Chocolate Truffle Box,Middle East & Africa Distribution Center,154,34,2026-07-17,In Stock
+INV-000083,CHC-01020,Sea Salt Caramel Chocolate Pralines,Europe Distribution Center,426,93,2026-06-17,In Stock
+INV-000084,CHC-00838,Whole Hazelnut Chocolate Filled Bar,Europe Distribution Center,559,166,2026-06-07,In Stock
+INV-000085,CHC-01414,Salted Butter Caramel Chocolate Truffle Box,Latin America Distribution Center,99,19,2026-07-24,In Stock
+INV-000086,CHC-00736,Roasted Almond Chocolate Bar,Europe Distribution Center,606,160,2026-07-12,In Stock
+INV-000087,CHC-01435,85% Extra Bold Dark Chocolate Pralines,Europe Distribution Center,425,102,2026-07-07,In Stock
+INV-000088,CHC-00321,Stevia Sweetened Sugar-Free Chocolate Chips (Baking),Middle East & Africa Distribution Center,1058,168,2026-06-18,In Stock
+INV-000089,CHC-01197,Espresso Infused Dark Chocolate Wafer Bar,North America Distribution Center,1296,387,2026-07-23,In Stock
+INV-000090,CHC-01276,Almond Crunch Chocolate Wafer Bar,Latin America Distribution Center,1413,334,2026-07-16,In Stock
+INV-000091,CHC-00157,Raspberry Swirl White Chocolate Wafer Bar,Asia Pacific Distribution Center,300,103,2026-07-26,In Stock
+INV-000092,CHC-00662,Espresso Infused Dark Chocolate Drops,Latin America Distribution Center,602,142,2026-07-28,In Stock
+INV-000093,CHC-01327,Sea Salt Milk Chocolate Drops,Middle East & Africa Distribution Center,561,99,2026-06-10,In Stock
+INV-000094,CHC-01438,Tropical Mix Fruit & Nut Chocolate Filled Bar,Asia Pacific Distribution Center,146,50,2026-07-09,In Stock
+INV-000095,CHC-01232,Classic Milk Chocolate Squares,Middle East & Africa Distribution Center,333,84,2026-06-22,In Stock
+INV-000096,CHC-00016,Classic Milk Chocolate Coated Nuts,Asia Pacific Distribution Center,1278,242,2026-06-16,In Stock
+INV-000097,CHC-01047,Praline Hazelnut Chocolate Squares,Latin America Distribution Center,215,44,2026-06-11,In Stock
+INV-000098,CHC-01427,Coconut Sugar Vegan Dark Chocolate Pralines,Asia Pacific Distribution Center,368,111,2026-06-16,In Stock
+INV-000099,CHC-01203,Whole Hazelnut Chocolate Bar,Europe Distribution Center,542,129,2026-06-07,In Stock
+INV-000100,CHC-00333,Salted Butter Caramel Chocolate Wafer Bar,Europe Distribution Center,145,46,2026-06-12,In Stock
+INV-000101,CHC-00395,Espresso Infused Dark Chocolate Gift Box,Asia Pacific Distribution Center,448,126,2026-06-09,In Stock
+INV-000102,CHC-00819,Gianduja Style Hazelnut Chocolate Drops,Latin America Distribution Center,553,102,2026-07-12,In Stock
+INV-000103,CHC-00201,Salted Butter Caramel Chocolate Chips (Baking),Middle East & Africa Distribution Center,109,35,2026-07-14,In Stock
+INV-000104,CHC-00858,85% Extra Bold Dark Chocolate Wafer Bar,Middle East & Africa Distribution Center,195,31,2026-07-18,In Stock
+INV-000105,CHC-00646,Biscuit Milk Chocolate Gift Box,Latin America Distribution Center,260,46,2026-06-25,In Stock
+INV-000106,CHC-00726,Sea Salt Caramel Chocolate Pralines,Europe Distribution Center,230,67,2026-08-01,In Stock
+INV-000107,CHC-00478,Value Pack Compound Chocolate Squares,Europe Distribution Center,654,189,2026-07-24,In Stock
+INV-000108,CHC-01275,Honeycomb Milk Chocolate Drops,Latin America Distribution Center,176,34,2026-06-12,In Stock
+INV-000109,CHC-00378,Biscuit Milk Chocolate Bar,North America Distribution Center,614,213,2026-07-31,In Stock
+INV-000110,CHC-00505,Sea Salt Caramel Chocolate Gift Box,North America Distribution Center,822,247,2026-06-16,In Stock
+INV-000111,CHC-00258,Sea Salt Milk Chocolate Wafer Bar,Middle East & Africa Distribution Center,176,27,2026-07-01,In Stock
+INV-000112,CHC-01156,Single Origin Dark Chocolate Coated Nuts,Europe Distribution Center,466,71,2026-07-19,In Stock
+INV-000113,CHC-00530,Cranberry Walnut Fruit & Nut Chocolate Chips (Baking),Europe Distribution Center,583,129,2026-06-22,In Stock
+INV-000114,CHC-00766,Whole Hazelnut Chocolate Wafer Bar,Europe Distribution Center,241,49,2026-07-18,In Stock
+INV-000115,CHC-01484,Almond Crunch Chocolate Truffle Box,Latin America Distribution Center,1195,378,2026-07-17,In Stock
+INV-000116,CHC-01302,Vanilla Bean White Chocolate Chips (Baking),Europe Distribution Center,171,36,2026-06-21,In Stock
+INV-000117,CHC-01060,85% Extra Bold Dark Chocolate Drops,North America Distribution Center,835,145,2026-06-07,In Stock
+INV-000118,CHC-00963,Honeycomb Milk Chocolate Truffle Box,Europe Distribution Center,573,95,2026-06-11,In Stock
+INV-000119,CHC-00126,Almond Crunch Chocolate Bar,Latin America Distribution Center,235,40,2026-07-23,In Stock
+INV-000120,CHC-00171,Honeycomb Milk Chocolate Drops,Europe Distribution Center,707,238,2026-07-10,In Stock
+INV-000121,CHC-00935,Organic Raw Cacao Chocolate Wafer Bar,Asia Pacific Distribution Center,448,108,2026-06-09,In Stock
+INV-000122,CHC-00452,Sea Salt Milk Chocolate Bar,Asia Pacific Distribution Center,941,278,2026-06-24,In Stock
+INV-000123,CHC-00566,Honeycomb Milk Chocolate Squares,Europe Distribution Center,572,186,2026-07-02,In Stock
+INV-000124,CHC-00210,Diabetic Friendly Sugar-Free Chocolate Squares,North America Distribution Center,79,23,2026-07-09,In Stock
+INV-000125,CHC-01022,85% Extra Bold Dark Chocolate Truffle Box,Middle East & Africa Distribution Center,484,140,2026-07-24,In Stock
+INV-000126,CHC-00404,Vanilla Bean White Chocolate Squares,Latin America Distribution Center,134,34,2026-06-05,In Stock
+INV-000127,CHC-01179,Single Origin Dark Chocolate Filled Bar,Europe Distribution Center,665,197,2026-06-12,In Stock
+INV-000128,CHC-01443,Plant-Based Classic Vegan Dark Chocolate Drops,Asia Pacific Distribution Center,1482,478,2026-06-28,In Stock
+INV-000129,CHC-01208,Biscuit Milk Chocolate Drops,Europe Distribution Center,739,257,2026-06-21,In Stock
+INV-000130,CHC-00898,Single Origin Dark Chocolate Coated Nuts,Europe Distribution Center,1237,242,2026-07-27,In Stock
+INV-000131,CHC-01183,Raisin & Almond Fruit & Nut Chocolate Pralines,Middle East & Africa Distribution Center,634,187,2026-07-06,In Stock
+INV-000132,CHC-01426,Cranberry Walnut Fruit & Nut Chocolate Gift Box,North America Distribution Center,762,184,2026-07-15,In Stock
+INV-000133,CHC-01201,85% Extra Bold Dark Chocolate Gift Box,North America Distribution Center,308,57,2026-07-31,In Stock
+INV-000134,CHC-01168,Sea Salt Caramel Chocolate Drops,North America Distribution Center,2705,913,2026-07-08,In Stock
+INV-000135,CHC-00381,Whole Hazelnut Chocolate Filled Bar,North America Distribution Center,332,85,2026-06-15,In Stock
+INV-000136,CHC-01106,Original Ruby Chocolate Drops,Europe Distribution Center,588,92,2026-07-27,In Stock
+INV-000137,CHC-00469,Roasted Almond Chocolate Filled Bar,Middle East & Africa Distribution Center,236,76,2026-06-25,In Stock
+INV-000138,CHC-00222,Berry Burst Ruby Chocolate Wafer Bar,North America Distribution Center,1134,367,2026-06-14,In Stock
+INV-000139,CHC-00213,Citrus Ruby Chocolate Bar,Asia Pacific Distribution Center,635,193,2026-06-06,In Stock
+INV-000140,CHC-00895,Citrus Ruby Chocolate Filled Bar,Europe Distribution Center,325,70,2026-06-13,In Stock
+INV-000141,CHC-00669,Plant-Based Classic Vegan Dark Chocolate Bar,North America Distribution Center,208,35,2026-06-19,In Stock
+INV-000142,CHC-01087,Biscuit Milk Chocolate Drops,Latin America Distribution Center,297,99,2026-07-10,In Stock
+INV-000143,CHC-00787,Coconut White Chocolate Pralines,Middle East & Africa Distribution Center,148,22,2026-06-30,In Stock
+INV-000144,CHC-00501,70% Intense Dark Chocolate Bar,Asia Pacific Distribution Center,570,107,2026-07-28,In Stock
+INV-000145,CHC-00626,Coconut White Chocolate Wafer Bar,Europe Distribution Center,1028,180,2026-06-30,In Stock
+INV-000146,CHC-00778,Praline Hazelnut Chocolate Drops,Europe Distribution Center,970,290,2026-06-16,In Stock
+INV-000147,CHC-00775,Sea Salt Caramel Chocolate Chips (Baking),North America Distribution Center,272,48,2026-07-27,In Stock
+INV-000148,CHC-00212,Gianduja Style Hazelnut Chocolate Gift Box,Latin America Distribution Center,275,84,2026-07-20,In Stock
+INV-000149,CHC-01490,Confectionery Grade Compound Chocolate Truffle Box,Latin America Distribution Center,613,149,2026-07-26,In Stock
+INV-000150,CHC-01293,Coconut White Chocolate Pralines,Europe Distribution Center,1038,338,2026-06-30,In Stock
+INV-000151,CHC-00504,Soft Caramel Core Chocolate Wafer Bar,Middle East & Africa Distribution Center,273,83,2026-07-09,In Stock
+INV-000152,CHC-01115,Biscuit Milk Chocolate Drops,Asia Pacific Distribution Center,77,17,2026-07-22,In Stock
+INV-000153,CHC-01322,Honeycomb Milk Chocolate Filled Bar,Asia Pacific Distribution Center,317,72,2026-06-19,In Stock
+INV-000154,CHC-00595,Single Origin Dark Chocolate Gift Box,North America Distribution Center,243,64,2026-07-31,In Stock
+INV-000155,CHC-01027,Single Origin Dark Chocolate Coated Nuts,Asia Pacific Distribution Center,1128,199,2026-06-13,In Stock
+INV-000156,CHC-00269,Organic Fair-Trade Chocolate Drops,Asia Pacific Distribution Center,95,25,2026-07-28,In Stock
+INV-000157,CHC-00823,Salted Butter Caramel Chocolate Wafer Bar,Europe Distribution Center,1272,270,2026-06-11,In Stock
+INV-000158,CHC-00024,Coconut White Chocolate Truffle Box,Asia Pacific Distribution Center,1815,507,2026-06-08,In Stock
+INV-000159,CHC-00047,Espresso Infused Dark Chocolate Bar,North America Distribution Center,269,87,2026-07-27,In Stock
+INV-000160,CHC-01183,Raisin & Almond Fruit & Nut Chocolate Pralines,Middle East & Africa Distribution Center,839,231,2026-06-11,In Stock
+INV-000161,CHC-00566,Honeycomb Milk Chocolate Squares,Europe Distribution Center,243,83,2026-06-20,In Stock
+INV-000162,CHC-00191,Classic Sugar-Free Chocolate Filled Bar,Latin America Distribution Center,990,283,2026-07-19,In Stock
+INV-000163,CHC-01391,Single Origin Dark Chocolate Wafer Bar,Europe Distribution Center,122,24,2026-06-08,In Stock
+INV-000164,CHC-00675,Raspberry Swirl White Chocolate Truffle Box,Asia Pacific Distribution Center,188,62,2026-07-23,In Stock
+INV-000165,CHC-01471,Lemon Zest White Chocolate Wafer Bar,Europe Distribution Center,963,233,2026-07-21,In Stock
+INV-000166,CHC-01278,Organic Single Origin Chocolate Truffle Box,Asia Pacific Distribution Center,1338,319,2026-06-09,In Stock
+INV-000167,CHC-01235,Stevia Sweetened Sugar-Free Chocolate Pralines,Latin America Distribution Center,407,92,2026-07-31,In Stock
+INV-000168,CHC-00043,Soft Caramel Core Chocolate Coated Nuts,Asia Pacific Distribution Center,640,136,2026-06-27,In Stock
+INV-000169,CHC-00783,Organic Single Origin Chocolate Coated Nuts,Europe Distribution Center,157,25,2026-07-27,In Stock
+INV-000170,CHC-00071,85% Extra Bold Dark Chocolate Filled Bar,Europe Distribution Center,1106,287,2026-07-11,In Stock
+INV-000171,CHC-01369,Classic Milk Chocolate Drops,Europe Distribution Center,591,187,2026-07-25,In Stock
+INV-000172,CHC-00214,Sea Salt Milk Chocolate Pralines,Europe Distribution Center,836,231,2026-06-30,In Stock
+INV-000173,CHC-00550,70% Intense Dark Chocolate Coated Nuts,North America Distribution Center,377,89,2026-06-19,In Stock
+INV-000174,CHC-00960,70% Intense Dark Chocolate Filled Bar,Asia Pacific Distribution Center,235,74,2026-06-17,In Stock
+INV-000175,CHC-00761,70% Intense Dark Chocolate Coated Nuts,Latin America Distribution Center,704,231,2026-07-02,In Stock
+INV-000176,CHC-00878,Almond Crunch Chocolate Bar,Middle East & Africa Distribution Center,214,44,2026-07-31,In Stock
+INV-000177,CHC-01284,Coconut Sugar Vegan Dark Chocolate Chips (Baking),Asia Pacific Distribution Center,372,109,2026-06-19,In Stock
+INV-000178,CHC-01032,Plant-Based Classic Vegan Dark Chocolate Chips (Baking),Latin America Distribution Center,86,25,2026-06-25,In Stock
+INV-000179,CHC-00603,70% Intense Dark Chocolate Gift Box,Europe Distribution Center,1041,339,2026-06-21,In Stock
+INV-000180,CHC-00828,Soft Caramel Core Chocolate Squares,Latin America Distribution Center,610,106,2026-07-29,In Stock
+INV-000181,CHC-00555,Single Origin Dark Chocolate Pralines,Asia Pacific Distribution Center,477,77,2026-07-17,In Stock
+INV-000182,CHC-01263,Sea Salt Caramel Chocolate Pralines,Middle East & Africa Distribution Center,973,151,2026-07-08,In Stock
+INV-000183,CHC-00211,Single Origin Dark Chocolate Squares,Asia Pacific Distribution Center,913,158,2026-06-20,In Stock
+INV-000184,CHC-00784,Roasted Almond Chocolate Gift Box,Europe Distribution Center,361,100,2026-07-04,In Stock
+INV-000185,CHC-01106,Original Ruby Chocolate Drops,Europe Distribution Center,370,114,2026-06-09,In Stock
+INV-000186,CHC-00164,Diabetic Friendly Sugar-Free Chocolate Coated Nuts,Europe Distribution Center,259,68,2026-07-25,In Stock
+INV-000187,CHC-00240,Coconut Sugar Vegan Dark Chocolate Bar,North America Distribution Center,449,145,2026-07-11,In Stock
+INV-000188,CHC-01494,Cranberry Walnut Fruit & Nut Chocolate Pralines,North America Distribution Center,255,77,2026-07-14,In Stock
+INV-000189,CHC-01266,Soft Caramel Core Chocolate Gift Box,Middle East & Africa Distribution Center,310,47,2026-06-11,In Stock
+INV-000190,CHC-00078,Tropical Mix Fruit & Nut Chocolate Coated Nuts,Europe Distribution Center,320,57,2026-07-26,In Stock
+INV-000191,CHC-01297,Sea Salt Milk Chocolate Pralines,Asia Pacific Distribution Center,771,198,2026-07-26,In Stock
+INV-000192,CHC-00019,Biscuit Milk Chocolate Gift Box,Europe Distribution Center,1034,278,2026-06-14,In Stock
+INV-000193,CHC-00883,Honeycomb Milk Chocolate Squares,Europe Distribution Center,429,77,2026-07-08,In Stock
+INV-000194,CHC-00312,Honeycomb Milk Chocolate Wafer Bar,Europe Distribution Center,1047,304,2026-06-25,In Stock
+INV-000195,CHC-00291,Salted Butter Caramel Chocolate Truffle Box,North America Distribution Center,254,66,2026-07-23,In Stock
+INV-000196,CHC-01389,Berry Burst Ruby Chocolate Bar,Europe Distribution Center,1107,218,2026-07-21,In Stock
+INV-000197,CHC-01249,Gianduja Style Hazelnut Chocolate Drops,Middle East & Africa Distribution Center,306,93,2026-06-23,In Stock
+INV-000198,CHC-01084,Plant-Based Classic Vegan Dark Chocolate Truffle Box,Middle East & Africa Distribution Center,596,103,2026-07-27,In Stock
+INV-000199,CHC-00812,85% Extra Bold Dark Chocolate Pralines,Europe Distribution Center,202,39,2026-07-25,In Stock
+INV-000200,CHC-00400,Bakers Classic Compound Chocolate Pralines,Middle East & Africa Distribution Center,849,217,2026-07-13,In Stock
+INV-000201,CHC-00568,Classic Milk Chocolate Filled Bar,Europe Distribution Center,564,107,2026-07-03,In Stock
+INV-000202,CHC-00750,Coconut White Chocolate Truffle Box,Europe Distribution Center,691,211,2026-07-06,In Stock
+INV-000203,CHC-00647,Soft Caramel Core Chocolate Drops,Europe Distribution Center,457,129,2026-07-23,In Stock
+INV-000204,CHC-01225,Marzipan Style Almond Chocolate Drops,Europe Distribution Center,707,232,2026-06-09,In Stock
+INV-000205,CHC-00498,Original Ruby Chocolate Chips (Baking),Asia Pacific Distribution Center,629,148,2026-06-10,In Stock
+INV-000206,CHC-01419,Plant-Based Classic Vegan Dark Chocolate Truffle Box,Latin America Distribution Center,68,12,2026-07-19,In Stock
+INV-000207,CHC-01052,Single Origin Dark Chocolate Drops,Middle East & Africa Distribution Center,458,112,2026-06-22,In Stock
+INV-000208,CHC-01323,Raisin & Almond Fruit & Nut Chocolate Filled Bar,Middle East & Africa Distribution Center,205,41,2026-06-13,In Stock
+INV-000209,CHC-00039,Almond Crunch Chocolate Truffle Box,Europe Distribution Center,469,79,2026-08-02,In Stock
+INV-000210,CHC-01375,Bakers Classic Compound Chocolate Drops,Europe Distribution Center,1547,326,2026-07-18,In Stock
+INV-000211,CHC-00134,Whole Hazelnut Chocolate Pralines,Asia Pacific Distribution Center,266,42,2026-07-12,In Stock
+INV-000212,CHC-00867,Whole Hazelnut Chocolate Filled Bar,Latin America Distribution Center,481,132,2026-07-01,In Stock
+INV-000213,CHC-00898,Single Origin Dark Chocolate Coated Nuts,Latin America Distribution Center,374,121,2026-07-07,In Stock
+INV-000214,CHC-00365,Whole Hazelnut Chocolate Wafer Bar,Europe Distribution Center,530,173,2026-07-27,In Stock
+INV-000215,CHC-00470,Confectionery Grade Compound Chocolate Coated Nuts,Europe Distribution Center,320,70,2026-07-23,In Stock
+INV-000216,CHC-00674,Espresso Infused Dark Chocolate Filled Bar,Europe Distribution Center,15,10,2026-07-17,In Stock
+INV-000217,CHC-00032,Espresso Infused Dark Chocolate Truffle Box,Latin America Distribution Center,503,84,2026-07-25,In Stock
+INV-000218,CHC-01180,Diabetic Friendly Sugar-Free Chocolate Bar,Latin America Distribution Center,555,89,2026-07-22,In Stock
+INV-000219,CHC-01494,Cranberry Walnut Fruit & Nut Chocolate Pralines,Asia Pacific Distribution Center,102,29,2026-07-26,In Stock
+INV-000220,CHC-00954,Whole Hazelnut Chocolate Wafer Bar,Europe Distribution Center,1856,363,2026-07-27,In Stock
+INV-000221,CHC-01214,Stevia Sweetened Sugar-Free Chocolate Gift Box,Latin America Distribution Center,467,89,2026-07-01,In Stock
+INV-000222,CHC-01137,Classic Sugar-Free Chocolate Drops,Europe Distribution Center,801,231,2026-07-13,In Stock
+INV-000223,CHC-01293,Coconut White Chocolate Pralines,Europe Distribution Center,99,20,2026-06-07,In Stock
+INV-000224,CHC-00250,Sea Salt Caramel Chocolate Coated Nuts,Latin America Distribution Center,776,262,2026-06-09,In Stock
+INV-000225,CHC-01181,Whole Hazelnut Chocolate Chips (Baking),Europe Distribution Center,195,61,2026-07-26,In Stock
+INV-000226,CHC-00674,Espresso Infused Dark Chocolate Filled Bar,Asia Pacific Distribution Center,477,127,2026-07-12,In Stock
+INV-000227,CHC-00333,Salted Butter Caramel Chocolate Wafer Bar,North America Distribution Center,251,58,2026-07-04,In Stock
+INV-000228,CHC-00120,Oat Milk Blend Vegan Dark Chocolate Gift Box,Asia Pacific Distribution Center,776,265,2026-06-18,In Stock
+INV-000229,CHC-00951,Sea Salt Milk Chocolate Pralines,North America Distribution Center,823,285,2026-06-21,In Stock
+INV-000230,CHC-00085,Classic Milk Chocolate Bar,Europe Distribution Center,541,101,2026-06-26,In Stock
+INV-000231,CHC-01378,Whole Hazelnut Chocolate Squares,Asia Pacific Distribution Center,332,65,2026-07-13,In Stock
+INV-000232,CHC-00139,Coconut White Chocolate Wafer Bar,Middle East & Africa Distribution Center,216,54,2026-07-21,In Stock
+INV-000233,CHC-01167,Bakers Classic Compound Chocolate Coated Nuts,Middle East & Africa Distribution Center,286,47,2026-06-11,In Stock
+INV-000234,CHC-01286,Espresso Infused Dark Chocolate Drops,Asia Pacific Distribution Center,331,74,2026-06-12,In Stock
+INV-000235,CHC-00071,85% Extra Bold Dark Chocolate Filled Bar,Middle East & Africa Distribution Center,314,95,2026-07-13,In Stock
+INV-000236,CHC-00732,70% Intense Dark Chocolate Pralines,Middle East & Africa Distribution Center,148,36,2026-06-16,In Stock
+INV-000237,CHC-00742,Whole Hazelnut Chocolate Chips (Baking),Asia Pacific Distribution Center,1814,570,2026-07-02,In Stock
+INV-000238,CHC-00640,Salted Butter Caramel Chocolate Drops,Asia Pacific Distribution Center,224,65,2026-07-14,In Stock
+INV-000239,CHC-00475,Coconut White Chocolate Filled Bar,Latin America Distribution Center,530,157,2026-07-13,In Stock
+INV-000240,CHC-00967,Raspberry Swirl White Chocolate Pralines,Middle East & Africa Distribution Center,142,37,2026-06-21,In Stock
+INV-000241,CHC-00093,85% Extra Bold Dark Chocolate Truffle Box,Asia Pacific Distribution Center,540,115,2026-07-23,In Stock
+INV-000242,CHC-00854,Salted Butter Caramel Chocolate Pralines,Europe Distribution Center,180,43,2026-06-06,In Stock
+INV-000243,CHC-00977,Single Origin Dark Chocolate Chips (Baking),Europe Distribution Center,692,171,2026-07-08,In Stock
+INV-000244,CHC-00787,Coconut White Chocolate Pralines,Asia Pacific Distribution Center,228,65,2026-06-29,In Stock
+INV-000245,CHC-00073,Classic Milk Chocolate Gift Box,Europe Distribution Center,270,59,2026-06-15,In Stock
+INV-000246,CHC-00274,Classic Sugar-Free Chocolate Wafer Bar,Middle East & Africa Distribution Center,424,105,2026-07-03,In Stock
+INV-000247,CHC-00230,Sea Salt Caramel Chocolate Squares,Latin America Distribution Center,248,77,2026-06-25,In Stock
+INV-000248,CHC-01161,70% Intense Dark Chocolate Coated Nuts,Latin America Distribution Center,674,132,2026-07-21,In Stock
+INV-000249,CHC-01282,Soft Caramel Core Chocolate Gift Box,Middle East & Africa Distribution Center,216,48,2026-06-06,In Stock
+INV-000250,CHC-00176,85% Extra Bold Dark Chocolate Drops,Latin America Distribution Center,213,32,2026-06-19,In Stock
+INV-000251,CHC-00307,Bakers Classic Compound Chocolate Wafer Bar,Middle East & Africa Distribution Center,519,125,2026-07-07,In Stock
+INV-000252,CHC-01085,Tropical Mix Fruit & Nut Chocolate Bar,Latin America Distribution Center,1082,199,2026-07-12,In Stock
+INV-000253,CHC-00552,Whole Hazelnut Chocolate Truffle Box,North America Distribution Center,1047,260,2026-06-25,In Stock
+INV-000254,CHC-00447,Espresso Infused Dark Chocolate Gift Box,Latin America Distribution Center,124,40,2026-07-20,In Stock
+INV-000255,CHC-00441,Lemon Zest White Chocolate Coated Nuts,Latin America Distribution Center,1726,520,2026-07-30,In Stock
+INV-000256,CHC-01370,Espresso Infused Dark Chocolate Chips (Baking),Middle East & Africa Distribution Center,590,115,2026-07-25,In Stock
+INV-000257,CHC-01352,Marzipan Style Almond Chocolate Coated Nuts,Europe Distribution Center,745,210,2026-06-07,In Stock
+INV-000258,CHC-01357,Single Origin Dark Chocolate Gift Box,Middle East & Africa Distribution Center,594,98,2026-07-15,In Stock
+INV-000259,CHC-00367,Raspberry Swirl White Chocolate Squares,Europe Distribution Center,273,50,2026-07-27,In Stock
+INV-000260,CHC-01152,Honeycomb Milk Chocolate Bar,Europe Distribution Center,150,25,2026-07-21,In Stock
+INV-000261,CHC-01373,Cranberry Walnut Fruit & Nut Chocolate Chips (Baking),Europe Distribution Center,1627,371,2026-07-30,In Stock
+INV-000262,CHC-01158,Almond Crunch Chocolate Chips (Baking),Latin America Distribution Center,331,62,2026-07-19,In Stock
+INV-000263,CHC-00560,Organic Fair-Trade Chocolate Gift Box,Latin America Distribution Center,2746,848,2026-07-06,In Stock
+INV-000264,CHC-01246,Bakers Classic Compound Chocolate Wafer Bar,Latin America Distribution Center,1015,346,2026-06-17,In Stock
+INV-000265,CHC-00795,Organic Single Origin Chocolate Coated Nuts,Asia Pacific Distribution Center,324,91,2026-06-10,In Stock
+INV-000266,CHC-00145,Single Origin Dark Chocolate Truffle Box,Europe Distribution Center,925,179,2026-06-08,In Stock
+INV-000267,CHC-00904,Marzipan Style Almond Chocolate Pralines,North America Distribution Center,197,53,2026-07-18,In Stock
+INV-000268,CHC-00670,85% Extra Bold Dark Chocolate Coated Nuts,North America Distribution Center,631,202,2026-07-13,In Stock
+INV-000269,CHC-01236,Organic Raw Cacao Chocolate Filled Bar,Middle East & Africa Distribution Center,224,60,2026-06-25,In Stock
+INV-000270,CHC-00982,70% Intense Dark Chocolate Truffle Box,Middle East & Africa Distribution Center,376,119,2026-07-18,In Stock
+INV-000271,CHC-00394,Classic Milk Chocolate Bar,Europe Distribution Center,381,100,2026-07-28,In Stock
+INV-000272,CHC-01000,Citrus Ruby Chocolate Filled Bar,Middle East & Africa Distribution Center,575,158,2026-07-04,In Stock
+INV-000273,CHC-00743,Citrus Ruby Chocolate Filled Bar,Latin America Distribution Center,508,76,2026-07-26,In Stock
+INV-000274,CHC-00476,Bakers Classic Compound Chocolate Wafer Bar,Middle East & Africa Distribution Center,219,45,2026-06-11,In Stock
+INV-000275,CHC-00848,Single Origin Dark Chocolate Pralines,Middle East & Africa Distribution Center,731,115,2026-06-17,In Stock
+INV-000276,CHC-01024,Plant-Based Classic Vegan Dark Chocolate Drops,Asia Pacific Distribution Center,1368,331,2026-07-25,In Stock
+INV-000277,CHC-00002,Raspberry Swirl White Chocolate Coated Nuts,Europe Distribution Center,199,61,2026-06-16,In Stock
+INV-000278,CHC-00673,Sea Salt Caramel Chocolate Filled Bar,Middle East & Africa Distribution Center,176,47,2026-06-14,In Stock
+INV-000279,CHC-00628,Gianduja Style Hazelnut Chocolate Squares,Latin America Distribution Center,50,12,2026-06-10,In Stock
+INV-000280,CHC-00260,Honeycomb Milk Chocolate Drops,Latin America Distribution Center,394,73,2026-06-05,In Stock
+INV-000281,CHC-00522,Biscuit Milk Chocolate Chips (Baking),Middle East & Africa Distribution Center,768,223,2026-06-22,In Stock
+INV-000282,CHC-00246,Plant-Based Classic Vegan Dark Chocolate Truffle Box,North America Distribution Center,162,36,2026-07-13,In Stock
+INV-000283,CHC-00075,Salted Butter Caramel Chocolate Gift Box,Asia Pacific Distribution Center,146,22,2026-06-23,In Stock
+INV-000284,CHC-01428,Lemon Zest White Chocolate Coated Nuts,Europe Distribution Center,894,296,2026-06-08,In Stock
+INV-000285,CHC-01094,Gianduja Style Hazelnut Chocolate Pralines,Europe Distribution Center,1027,234,2026-08-01,In Stock
+INV-000286,CHC-00601,Coconut White Chocolate Wafer Bar,Latin America Distribution Center,289,58,2026-06-13,In Stock
+INV-000287,CHC-00586,Bakers Classic Compound Chocolate Pralines,Latin America Distribution Center,316,71,2026-06-14,In Stock
+INV-000288,CHC-00932,Diabetic Friendly Sugar-Free Chocolate Coated Nuts,Middle East & Africa Distribution Center,1182,396,2026-07-12,In Stock
+INV-000289,CHC-01475,Biscuit Milk Chocolate Drops,Europe Distribution Center,796,176,2026-06-10,In Stock
+INV-000290,CHC-00306,Organic Single Origin Chocolate Filled Bar,North America Distribution Center,735,202,2026-07-29,In Stock
+INV-000291,CHC-01053,Berry Burst Ruby Chocolate Gift Box,Europe Distribution Center,2156,585,2026-06-29,In Stock
+INV-000292,CHC-00831,Citrus Ruby Chocolate Bar,Asia Pacific Distribution Center,916,255,2026-07-30,In Stock
+INV-000293,CHC-00083,Coconut White Chocolate Coated Nuts,Middle East & Africa Distribution Center,274,77,2026-06-05,In Stock
+INV-000294,CHC-01398,Sea Salt Milk Chocolate Coated Nuts,Asia Pacific Distribution Center,1015,235,2026-07-17,In Stock
+INV-000295,CHC-00864,Plant-Based Classic Vegan Dark Chocolate Chips (Baking),Europe Distribution Center,697,208,2026-07-21,In Stock
+INV-000296,CHC-01082,Lemon Zest White Chocolate Chips (Baking),Europe Distribution Center,766,241,2026-08-01,In Stock
+INV-000297,CHC-00476,Bakers Classic Compound Chocolate Wafer Bar,Europe Distribution Center,239,67,2026-07-02,In Stock
+INV-000298,CHC-00387,Original Ruby Chocolate Bar,Europe Distribution Center,1142,175,2026-07-23,In Stock
+INV-000299,CHC-00505,Sea Salt Caramel Chocolate Gift Box,Asia Pacific Distribution Center,2066,664,2026-07-14,In Stock
+INV-000300,CHC-00424,85% Extra Bold Dark Chocolate Drops,Latin America Distribution Center,1323,348,2026-07-13,In Stock
+INV-000301,CHC-01125,Plant-Based Classic Vegan Dark Chocolate Filled Bar,Middle East & Africa Distribution Center,633,212,2026-07-23,In Stock
+INV-000302,CHC-01200,Gianduja Style Hazelnut Chocolate Pralines,Middle East & Africa Distribution Center,353,114,2026-06-30,In Stock
+INV-000303,CHC-00162,Biscuit Milk Chocolate Filled Bar,Asia Pacific Distribution Center,352,72,2026-07-04,In Stock
+INV-000304,CHC-00348,Almond Crunch Chocolate Chips (Baking),Asia Pacific Distribution Center,755,113,2026-07-03,In Stock
+INV-000305,CHC-00164,Diabetic Friendly Sugar-Free Chocolate Coated Nuts,North America Distribution Center,82,14,2026-07-11,In Stock
+INV-000306,CHC-01493,Bakers Classic Compound Chocolate Wafer Bar,Middle East & Africa Distribution Center,434,119,2026-06-29,In Stock
+INV-000307,CHC-00836,Classic Sugar-Free Chocolate Pralines,Europe Distribution Center,143,45,2026-07-19,In Stock
+INV-000308,CHC-01286,Espresso Infused Dark Chocolate Drops,Asia Pacific Distribution Center,1954,616,2026-07-02,In Stock
+INV-000309,CHC-00368,Praline Hazelnut Chocolate Squares,Middle East & Africa Distribution Center,176,47,2026-06-20,In Stock
+INV-000310,CHC-01256,Sea Salt Caramel Chocolate Pralines,Europe Distribution Center,818,226,2026-06-30,In Stock
+INV-000311,CHC-00808,Raspberry Swirl White Chocolate Filled Bar,Latin America Distribution Center,196,59,2026-06-05,In Stock
+INV-000312,CHC-00020,Lemon Zest White Chocolate Chips (Baking),Asia Pacific Distribution Center,979,295,2026-06-12,In Stock
+INV-000313,CHC-01466,Value Pack Compound Chocolate Gift Box,Middle East & Africa Distribution Center,443,113,2026-07-09,In Stock
+INV-000314,CHC-00111,Bakers Classic Compound Chocolate Wafer Bar,Middle East & Africa Distribution Center,1321,384,2026-08-01,In Stock
+INV-000315,CHC-00010,70% Intense Dark Chocolate Gift Box,Europe Distribution Center,318,110,2026-06-26,In Stock
+INV-000316,CHC-00735,Raspberry Swirl White Chocolate Squares,Latin America Distribution Center,284,42,2026-06-10,In Stock
+INV-000317,CHC-01419,Plant-Based Classic Vegan Dark Chocolate Truffle Box,Middle East & Africa Distribution Center,1914,425,2026-06-13,In Stock
+INV-000318,CHC-00183,Almond Crunch Chocolate Squares,Europe Distribution Center,1011,185,2026-06-21,In Stock
+INV-000319,CHC-01175,Honeycomb Milk Chocolate Coated Nuts,Middle East & Africa Distribution Center,190,49,2026-08-01,In Stock
+INV-000320,CHC-00600,Diabetic Friendly Sugar-Free Chocolate Pralines,Europe Distribution Center,480,98,2026-06-17,In Stock
+INV-000321,CHC-00933,Cranberry Walnut Fruit & Nut Chocolate Wafer Bar,Asia Pacific Distribution Center,158,36,2026-07-11,In Stock
+INV-000322,CHC-00279,Lemon Zest White Chocolate Coated Nuts,North America Distribution Center,110,38,2026-07-17,In Stock
+INV-000323,CHC-00596,Sea Salt Caramel Chocolate Filled Bar,Latin America Distribution Center,120,24,2026-06-08,In Stock
+INV-000324,CHC-00901,Single Origin Dark Chocolate Drops,Europe Distribution Center,482,157,2026-07-02,In Stock
+INV-000325,CHC-01109,Soft Caramel Core Chocolate Truffle Box,Middle East & Africa Distribution Center,308,54,2026-06-27,In Stock
+INV-000326,CHC-00932,Diabetic Friendly Sugar-Free Chocolate Coated Nuts,Europe Distribution Center,758,130,2026-06-24,In Stock
+INV-000327,CHC-01323,Raisin & Almond Fruit & Nut Chocolate Filled Bar,Europe Distribution Center,904,139,2026-07-10,In Stock
+INV-000328,CHC-00727,Classic Sugar-Free Chocolate Coated Nuts,Middle East & Africa Distribution Center,216,34,2026-07-26,In Stock
+INV-000329,CHC-00687,Diabetic Friendly Sugar-Free Chocolate Chips (Baking),North America Distribution Center,1948,636,2026-07-31,In Stock
+INV-000330,CHC-00903,Bakers Classic Compound Chocolate Chips (Baking),Latin America Distribution Center,493,127,2026-07-26,In Stock
+INV-000331,CHC-00242,Whole Hazelnut Chocolate Truffle Box,Middle East & Africa Distribution Center,1262,254,2026-07-26,In Stock
+INV-000332,CHC-00990,Value Pack Compound Chocolate Pralines,Latin America Distribution Center,734,206,2026-07-23,In Stock
+INV-000333,CHC-00840,Single Origin Dark Chocolate Chips (Baking),Europe Distribution Center,184,61,2026-06-05,In Stock
+INV-000334,CHC-01270,Espresso Infused Dark Chocolate Pralines,Middle East & Africa Distribution Center,677,118,2026-06-15,In Stock
+INV-000335,CHC-00083,Coconut White Chocolate Coated Nuts,Middle East & Africa Distribution Center,620,211,2026-06-29,In Stock
+INV-000336,CHC-01076,85% Extra Bold Dark Chocolate Coated Nuts,Middle East & Africa Distribution Center,822,247,2026-07-02,In Stock
+INV-000337,CHC-00734,Sea Salt Caramel Chocolate Bar,Asia Pacific Distribution Center,218,36,2026-07-07,In Stock
+INV-000338,CHC-01195,Classic Milk Chocolate Truffle Box,Latin America Distribution Center,774,209,2026-07-19,In Stock
+INV-000339,CHC-00770,Stevia Sweetened Sugar-Free Chocolate Squares,Europe Distribution Center,299,86,2026-06-21,In Stock
+INV-000340,CHC-01156,Single Origin Dark Chocolate Coated Nuts,Asia Pacific Distribution Center,257,59,2026-06-13,In Stock
+INV-000341,CHC-01212,Raisin & Almond Fruit & Nut Chocolate Gift Box,Asia Pacific Distribution Center,1295,337,2026-07-07,In Stock
+INV-000342,CHC-00682,Soft Caramel Core Chocolate Drops,Europe Distribution Center,797,206,2026-07-06,In Stock
+INV-000343,CHC-01030,70% Intense Dark Chocolate Wafer Bar,North America Distribution Center,129,19,2026-06-17,In Stock
+INV-000344,CHC-00660,Honeycomb Milk Chocolate Filled Bar,Europe Distribution Center,1148,312,2026-06-24,In Stock
+INV-000345,CHC-01402,Plant-Based Classic Vegan Dark Chocolate Filled Bar,Latin America Distribution Center,269,45,2026-07-29,In Stock
+INV-000346,CHC-01392,Organic Single Origin Chocolate Wafer Bar,Latin America Distribution Center,1204,406,2026-07-14,In Stock
+INV-000347,CHC-00384,Bakers Classic Compound Chocolate Gift Box,Latin America Distribution Center,695,241,2026-06-18,In Stock
+INV-000348,CHC-01433,Sea Salt Milk Chocolate Chips (Baking),Middle East & Africa Distribution Center,4064,1107,2026-06-26,In Stock
+INV-000349,CHC-00162,Biscuit Milk Chocolate Filled Bar,Latin America Distribution Center,71,14,2026-07-02,In Stock
+INV-000350,CHC-01309,Vanilla Bean White Chocolate Truffle Box,Asia Pacific Distribution Center,328,113,2026-07-02,In Stock
+INV-000351,CHC-00215,Organic Raw Cacao Chocolate Pralines,Middle East & Africa Distribution Center,483,97,2026-06-13,In Stock
+INV-000352,CHC-00531,Bakers Classic Compound Chocolate Bar,Asia Pacific Distribution Center,1804,600,2026-06-14,In Stock
+INV-000353,CHC-00972,Single Origin Dark Chocolate Wafer Bar,Middle East & Africa Distribution Center,1675,580,2026-07-06,In Stock
+INV-000354,CHC-01237,Organic Raw Cacao Chocolate Truffle Box,Asia Pacific Distribution Center,111,31,2026-06-18,In Stock
+INV-000355,CHC-00930,Marzipan Style Almond Chocolate Gift Box,Latin America Distribution Center,452,107,2026-07-12,In Stock
+INV-000356,CHC-00344,Espresso Infused Dark Chocolate Squares,Asia Pacific Distribution Center,581,105,2026-08-02,In Stock
+INV-000357,CHC-00340,Bakers Classic Compound Chocolate Chips (Baking),Latin America Distribution Center,137,40,2026-07-09,In Stock
+INV-000358,CHC-00558,70% Intense Dark Chocolate Pralines,Asia Pacific Distribution Center,339,53,2026-07-16,In Stock
+INV-000359,CHC-00767,70% Intense Dark Chocolate Bar,North America Distribution Center,111,26,2026-06-30,In Stock
+INV-000360,CHC-01385,Classic Milk Chocolate Squares,North America Distribution Center,116,17,2026-07-29,In Stock
+INV-000361,CHC-00177,Berry Burst Ruby Chocolate Coated Nuts,Europe Distribution Center,568,136,2026-06-17,In Stock
+INV-000362,CHC-01054,Classic Milk Chocolate Chips (Baking),Asia Pacific Distribution Center,562,172,2026-07-24,In Stock
+INV-000363,CHC-01201,85% Extra Bold Dark Chocolate Gift Box,Europe Distribution Center,1268,313,2026-07-30,In Stock
+INV-000364,CHC-01230,Sea Salt Milk Chocolate Chips (Baking),Europe Distribution Center,443,84,2026-08-02,In Stock
+INV-000365,CHC-01377,Classic Milk Chocolate Bar,Asia Pacific Distribution Center,397,89,2026-07-05,In Stock
+INV-000366,CHC-01384,85% Extra Bold Dark Chocolate Chips (Baking),Europe Distribution Center,161,48,2026-06-21,In Stock
+INV-000367,CHC-01455,Tropical Mix Fruit & Nut Chocolate Truffle Box,Asia Pacific Distribution Center,332,106,2026-07-28,In Stock
+INV-000368,CHC-00847,Salted Butter Caramel Chocolate Gift Box,Latin America Distribution Center,118,41,2026-06-28,In Stock
+INV-000369,CHC-00375,Soft Caramel Core Chocolate Chips (Baking),Middle East & Africa Distribution Center,438,86,2026-07-21,In Stock
+INV-000370,CHC-00249,Tropical Mix Fruit & Nut Chocolate Drops,Latin America Distribution Center,815,279,2026-07-25,In Stock
+INV-000371,CHC-00093,85% Extra Bold Dark Chocolate Truffle Box,Latin America Distribution Center,174,55,2026-07-11,In Stock
+INV-000372,CHC-00907,Roasted Almond Chocolate Squares,Asia Pacific Distribution Center,377,61,2026-06-09,In Stock
+INV-000373,CHC-00596,Sea Salt Caramel Chocolate Filled Bar,North America Distribution Center,580,171,2026-07-28,In Stock
+INV-000374,CHC-00078,Tropical Mix Fruit & Nut Chocolate Coated Nuts,Europe Distribution Center,306,58,2026-06-08,In Stock
+INV-000375,CHC-00376,Vanilla Bean White Chocolate Filled Bar,Asia Pacific Distribution Center,232,39,2026-06-24,In Stock
+INV-000376,CHC-00986,Whole Hazelnut Chocolate Bar,Europe Distribution Center,402,96,2026-06-15,In Stock
+INV-000377,CHC-00780,Cranberry Walnut Fruit & Nut Chocolate Chips (Baking),North America Distribution Center,247,59,2026-07-18,In Stock
+INV-000378,CHC-00117,Sea Salt Caramel Chocolate Filled Bar,Europe Distribution Center,202,56,2026-06-21,In Stock
+INV-000379,CHC-00794,Soft Caramel Core Chocolate Gift Box,Europe Distribution Center,140,31,2026-06-05,In Stock
+INV-000380,CHC-00375,Soft Caramel Core Chocolate Chips (Baking),North America Distribution Center,367,125,2026-06-17,In Stock
+INV-000381,CHC-01213,Praline Hazelnut Chocolate Wafer Bar,Latin America Distribution Center,831,241,2026-06-13,In Stock
+INV-000382,CHC-01469,Soft Caramel Core Chocolate Drops,Latin America Distribution Center,217,41,2026-06-07,In Stock
+INV-000383,CHC-01309,Vanilla Bean White Chocolate Truffle Box,Asia Pacific Distribution Center,183,63,2026-07-10,In Stock
+INV-000384,CHC-00464,Raspberry Swirl White Chocolate Squares,North America Distribution Center,587,157,2026-06-14,In Stock
+INV-000385,CHC-00170,Sea Salt Caramel Chocolate Pralines,Latin America Distribution Center,429,133,2026-07-22,In Stock
+INV-000386,CHC-00650,Gianduja Style Hazelnut Chocolate Chips (Baking),Asia Pacific Distribution Center,408,132,2026-07-21,In Stock
+INV-000387,CHC-01169,Sea Salt Caramel Chocolate Gift Box,Latin America Distribution Center,448,134,2026-07-26,In Stock
+INV-000388,CHC-01271,Roasted Almond Chocolate Drops,Latin America Distribution Center,507,156,2026-07-04,In Stock
+INV-000389,CHC-00595,Single Origin Dark Chocolate Gift Box,Latin America Distribution Center,1576,248,2026-06-28,In Stock
+INV-000390,CHC-00611,Biscuit Milk Chocolate Wafer Bar,Europe Distribution Center,906,181,2026-07-06,In Stock
+INV-000391,CHC-00456,85% Extra Bold Dark Chocolate Bar,Europe Distribution Center,857,191,2026-06-24,In Stock
+INV-000392,CHC-00675,Raspberry Swirl White Chocolate Truffle Box,Asia Pacific Distribution Center,1133,379,2026-06-05,In Stock
+INV-000393,CHC-00395,Espresso Infused Dark Chocolate Gift Box,Asia Pacific Distribution Center,601,142,2026-06-17,In Stock
+INV-000394,CHC-00557,Honeycomb Milk Chocolate Truffle Box,North America Distribution Center,112,16,2026-07-11,In Stock
+INV-000395,CHC-00856,Sea Salt Caramel Chocolate Truffle Box,North America Distribution Center,254,76,2026-07-20,In Stock
+INV-000396,CHC-00127,Marzipan Style Almond Chocolate Gift Box,Asia Pacific Distribution Center,718,249,2026-07-16,In Stock
+INV-000397,CHC-00581,Honeycomb Milk Chocolate Filled Bar,North America Distribution Center,417,144,2026-06-17,In Stock
+INV-000398,CHC-00279,Lemon Zest White Chocolate Coated Nuts,Middle East & Africa Distribution Center,370,102,2026-06-26,In Stock
+INV-000399,CHC-00433,Citrus Ruby Chocolate Pralines,Europe Distribution Center,155,41,2026-06-17,In Stock
+INV-000400,CHC-01071,Bakers Classic Compound Chocolate Bar,North America Distribution Center,180,59,2026-06-15,In Stock
+INV-000401,CHC-00359,Plant-Based Classic Vegan Dark Chocolate Bar,Europe Distribution Center,133,43,2026-07-06,In Stock
+INV-000402,CHC-01338,Almond Crunch Chocolate Coated Nuts,Latin America Distribution Center,476,84,2026-07-04,In Stock
+INV-000403,CHC-00424,85% Extra Bold Dark Chocolate Drops,North America Distribution Center,304,80,2026-06-12,In Stock
+INV-000404,CHC-00168,Original Ruby Chocolate Drops,Latin America Distribution Center,641,186,2026-06-24,In Stock
+INV-000405,CHC-00650,Gianduja Style Hazelnut Chocolate Chips (Baking),Europe Distribution Center,1557,523,2026-07-23,In Stock
+INV-000406,CHC-00119,Soft Caramel Core Chocolate Coated Nuts,Middle East & Africa Distribution Center,300,46,2026-06-11,In Stock
+INV-000407,CHC-00315,70% Intense Dark Chocolate Coated Nuts,Middle East & Africa Distribution Center,716,242,2026-07-17,In Stock
+INV-000408,CHC-01182,Almond Crunch Chocolate Bar,Europe Distribution Center,582,127,2026-06-25,In Stock
+INV-000409,CHC-01019,Roasted Almond Chocolate Drops,North America Distribution Center,286,53,2026-07-25,In Stock
+INV-000410,CHC-00025,85% Extra Bold Dark Chocolate Wafer Bar,Europe Distribution Center,419,94,2026-07-31,In Stock
+INV-000411,CHC-01420,85% Extra Bold Dark Chocolate Gift Box,Europe Distribution Center,245,55,2026-06-19,In Stock
+INV-000412,CHC-01167,Bakers Classic Compound Chocolate Coated Nuts,North America Distribution Center,452,114,2026-06-14,In Stock
+INV-000413,CHC-01048,Cranberry Walnut Fruit & Nut Chocolate Gift Box,Europe Distribution Center,380,87,2026-07-17,In Stock
+INV-000414,CHC-01367,Tropical Mix Fruit & Nut Chocolate Chips (Baking),Europe Distribution Center,444,131,2026-06-11,In Stock
+INV-000415,CHC-00963,Honeycomb Milk Chocolate Truffle Box,Europe Distribution Center,478,142,2026-07-03,In Stock
+INV-000416,CHC-01013,Almond Crunch Chocolate Filled Bar,Asia Pacific Distribution Center,912,304,2026-06-21,In Stock
+INV-000417,CHC-00985,Praline Hazelnut Chocolate Filled Bar,Latin America Distribution Center,688,118,2026-08-02,In Stock
+INV-000418,CHC-00988,Roasted Almond Chocolate Coated Nuts,Asia Pacific Distribution Center,446,76,2026-06-06,In Stock
+INV-000419,CHC-00380,Sea Salt Milk Chocolate Wafer Bar,Middle East & Africa Distribution Center,357,122,2026-07-06,In Stock
+INV-000420,CHC-00307,Bakers Classic Compound Chocolate Wafer Bar,Latin America Distribution Center,374,90,2026-06-08,In Stock
+INV-000421,CHC-00148,85% Extra Bold Dark Chocolate Wafer Bar,Europe Distribution Center,299,94,2026-07-16,In Stock
+INV-000422,CHC-01125,Plant-Based Classic Vegan Dark Chocolate Filled Bar,Middle East & Africa Distribution Center,249,71,2026-07-09,In Stock
+INV-000423,CHC-00674,Espresso Infused Dark Chocolate Filled Bar,North America Distribution Center,422,68,2026-06-05,In Stock
+INV-000424,CHC-00215,Organic Raw Cacao Chocolate Pralines,North America Distribution Center,239,55,2026-07-09,In Stock
+INV-000425,CHC-00483,Biscuit Milk Chocolate Truffle Box,Europe Distribution Center,523,168,2026-07-24,In Stock
+INV-000426,CHC-00388,Praline Hazelnut Chocolate Chips (Baking),Latin America Distribution Center,688,106,2026-06-11,In Stock
+INV-000427,CHC-01190,Classic Sugar-Free Chocolate Chips (Baking),Middle East & Africa Distribution Center,530,178,2026-06-17,In Stock
+INV-000428,CHC-01076,85% Extra Bold Dark Chocolate Coated Nuts,Middle East & Africa Distribution Center,290,53,2026-06-20,In Stock
+INV-000429,CHC-01205,Berry Burst Ruby Chocolate Squares,Asia Pacific Distribution Center,122,27,2026-06-18,In Stock
+INV-000430,CHC-00474,Plant-Based Classic Vegan Dark Chocolate Bar,Middle East & Africa Distribution Center,282,47,2026-06-25,In Stock
+INV-000431,CHC-00596,Sea Salt Caramel Chocolate Filled Bar,Asia Pacific Distribution Center,1831,531,2026-07-09,In Stock
+INV-000432,CHC-00226,Coconut White Chocolate Truffle Box,Middle East & Africa Distribution Center,140,22,2026-07-02,In Stock
+INV-000433,CHC-00830,Whole Hazelnut Chocolate Bar,Asia Pacific Distribution Center,1371,365,2026-06-10,In Stock
+INV-000434,CHC-01097,70% Intense Dark Chocolate Truffle Box,Asia Pacific Distribution Center,863,218,2026-07-05,In Stock
+INV-000435,CHC-01322,Honeycomb Milk Chocolate Filled Bar,Europe Distribution Center,346,68,2026-06-20,In Stock
+INV-000436,CHC-01368,Marzipan Style Almond Chocolate Truffle Box,Europe Distribution Center,614,127,2026-06-16,In Stock
+INV-000437,CHC-00083,Coconut White Chocolate Coated Nuts,Asia Pacific Distribution Center,199,47,2026-07-09,In Stock
+INV-000438,CHC-01369,Classic Milk Chocolate Drops,Asia Pacific Distribution Center,327,80,2026-07-21,In Stock
+INV-000439,CHC-00209,Berry Burst Ruby Chocolate Pralines,Latin America Distribution Center,152,47,2026-07-12,In Stock
+INV-000440,CHC-00691,Berry Burst Ruby Chocolate Chips (Baking),Middle East & Africa Distribution Center,123,33,2026-06-16,In Stock
+INV-000441,CHC-00568,Classic Milk Chocolate Filled Bar,Europe Distribution Center,922,254,2026-07-04,In Stock
+INV-000442,CHC-00524,Sea Salt Milk Chocolate Truffle Box,Latin America Distribution Center,146,30,2026-06-05,In Stock
+INV-000443,CHC-00041,Almond Crunch Chocolate Drops,Europe Distribution Center,267,73,2026-07-27,In Stock
+INV-000444,CHC-01455,Tropical Mix Fruit & Nut Chocolate Truffle Box,Europe Distribution Center,272,81,2026-06-20,In Stock
+INV-000445,CHC-01012,Bakers Classic Compound Chocolate Squares,Europe Distribution Center,152,37,2026-07-14,In Stock
+INV-000446,CHC-00573,70% Intense Dark Chocolate Drops,Middle East & Africa Distribution Center,621,129,2026-06-28,In Stock
+INV-000447,CHC-01425,Sea Salt Milk Chocolate Drops,Asia Pacific Distribution Center,557,129,2026-06-09,In Stock
+INV-000448,CHC-00131,Coconut White Chocolate Drops,Middle East & Africa Distribution Center,1467,375,2026-07-28,In Stock
+INV-000449,CHC-01349,Coconut White Chocolate Drops,Europe Distribution Center,255,46,2026-06-14,In Stock
+INV-000450,CHC-00946,Espresso Infused Dark Chocolate Coated Nuts,Latin America Distribution Center,1063,308,2026-07-30,In Stock
+INV-000451,CHC-00551,Stevia Sweetened Sugar-Free Chocolate Pralines,North America Distribution Center,103,35,2026-07-18,In Stock
+INV-000452,CHC-01200,Gianduja Style Hazelnut Chocolate Pralines,Latin America Distribution Center,733,249,2026-06-30,In Stock
+INV-000453,CHC-00258,Sea Salt Milk Chocolate Wafer Bar,Asia Pacific Distribution Center,808,171,2026-06-21,In Stock
+INV-000454,CHC-00609,Marzipan Style Almond Chocolate Filled Bar,Latin America Distribution Center,798,183,2026-06-29,In Stock
+INV-000455,CHC-01346,Whole Hazelnut Chocolate Truffle Box,Asia Pacific Distribution Center,723,186,2026-07-25,In Stock
+INV-000456,CHC-00316,Organic Raw Cacao Chocolate Pralines,Latin America Distribution Center,487,150,2026-06-30,In Stock
+INV-000457,CHC-01011,Organic Fair-Trade Chocolate Pralines,Latin America Distribution Center,422,126,2026-06-06,In Stock
+INV-000458,CHC-01312,Citrus Ruby Chocolate Squares,Middle East & Africa Distribution Center,519,116,2026-06-17,In Stock
+INV-000459,CHC-01426,Cranberry Walnut Fruit & Nut Chocolate Gift Box,Latin America Distribution Center,717,116,2026-06-23,In Stock
+INV-000460,CHC-00794,Soft Caramel Core Chocolate Gift Box,Europe Distribution Center,120,35,2026-06-25,In Stock
+INV-000461,CHC-00889,Whole Hazelnut Chocolate Gift Box,Europe Distribution Center,776,223,2026-07-08,In Stock
+INV-000462,CHC-00961,Raspberry Swirl White Chocolate Coated Nuts,Europe Distribution Center,335,108,2026-06-09,In Stock
+INV-000463,CHC-00206,Tropical Mix Fruit & Nut Chocolate Gift Box,North America Distribution Center,2914,550,2026-07-21,In Stock
+INV-000464,CHC-00269,Organic Fair-Trade Chocolate Drops,Europe Distribution Center,223,43,2026-07-11,In Stock
+INV-000465,CHC-00769,Roasted Almond Chocolate Pralines,Asia Pacific Distribution Center,108,31,2026-08-01,In Stock
+INV-000466,CHC-00857,Biscuit Milk Chocolate Drops,Europe Distribution Center,431,99,2026-06-06,In Stock
+INV-000467,CHC-01247,Biscuit Milk Chocolate Coated Nuts,Asia Pacific Distribution Center,221,63,2026-07-22,In Stock
+INV-000468,CHC-01015,Organic Single Origin Chocolate Bar,Middle East & Africa Distribution Center,271,59,2026-07-07,In Stock
+INV-000469,CHC-00841,Organic Raw Cacao Chocolate Squares,Asia Pacific Distribution Center,646,142,2026-06-11,In Stock
+INV-000470,CHC-00766,Whole Hazelnut Chocolate Wafer Bar,Middle East & Africa Distribution Center,88,27,2026-07-22,In Stock
+INV-000471,CHC-01177,Plant-Based Classic Vegan Dark Chocolate Filled Bar,Europe Distribution Center,498,142,2026-07-10,In Stock
+INV-000472,CHC-00004,Cranberry Walnut Fruit & Nut Chocolate Pralines,Asia Pacific Distribution Center,172,47,2026-07-02,In Stock
+INV-000473,CHC-01426,Cranberry Walnut Fruit & Nut Chocolate Gift Box,Asia Pacific Distribution Center,177,59,2026-07-01,In Stock
+INV-000474,CHC-01349,Coconut White Chocolate Drops,Latin America Distribution Center,502,107,2026-07-17,In Stock
+INV-000475,CHC-00438,Bakers Classic Compound Chocolate Truffle Box,Europe Distribution Center,414,115,2026-07-08,In Stock
+INV-000476,CHC-00738,Espresso Infused Dark Chocolate Wafer Bar,Asia Pacific Distribution Center,218,66,2026-07-26,In Stock
+INV-000477,CHC-00075,Salted Butter Caramel Chocolate Gift Box,Europe Distribution Center,1311,401,2026-06-20,In Stock
+INV-000478,CHC-01328,Raspberry Swirl White Chocolate Coated Nuts,Asia Pacific Distribution Center,314,67,2026-06-18,In Stock
+INV-000479,CHC-00367,Raspberry Swirl White Chocolate Squares,Asia Pacific Distribution Center,1576,433,2026-07-06,In Stock
+INV-000480,CHC-01000,Citrus Ruby Chocolate Filled Bar,Asia Pacific Distribution Center,172,35,2026-07-18,In Stock
+INV-000481,CHC-01491,Organic Raw Cacao Chocolate Pralines,Europe Distribution Center,181,60,2026-07-20,In Stock
+INV-000482,CHC-01165,Vanilla Bean White Chocolate Chips (Baking),Europe Distribution Center,623,130,2026-07-29,In Stock
+INV-000483,CHC-00654,Espresso Infused Dark Chocolate Filled Bar,Europe Distribution Center,203,39,2026-07-27,In Stock
+INV-000484,CHC-00177,Berry Burst Ruby Chocolate Coated Nuts,Latin America Distribution Center,733,155,2026-07-23,In Stock
+INV-000485,CHC-01096,70% Intense Dark Chocolate Bar,Europe Distribution Center,118,34,2026-07-10,In Stock
+INV-000486,CHC-00481,Honeycomb Milk Chocolate Pralines,Europe Distribution Center,298,88,2026-06-11,In Stock
+INV-000487,CHC-00059,Value Pack Compound Chocolate Gift Box,North America Distribution Center,1208,374,2026-06-24,In Stock
+INV-000488,CHC-01390,Espresso Infused Dark Chocolate Bar,Middle East & Africa Distribution Center,153,39,2026-07-06,In Stock
+INV-000489,CHC-00860,Coconut Sugar Vegan Dark Chocolate Wafer Bar,Europe Distribution Center,255,64,2026-06-09,In Stock
+INV-000490,CHC-00247,Oat Milk Blend Vegan Dark Chocolate Bar,North America Distribution Center,459,144,2026-06-08,In Stock
+INV-000491,CHC-01401,Berry Burst Ruby Chocolate Wafer Bar,Middle East & Africa Distribution Center,381,77,2026-07-30,In Stock
+INV-000492,CHC-00505,Sea Salt Caramel Chocolate Gift Box,Latin America Distribution Center,342,97,2026-07-26,In Stock
+INV-000493,CHC-00538,Sea Salt Milk Chocolate Truffle Box,Asia Pacific Distribution Center,845,201,2026-07-08,In Stock
+INV-000494,CHC-00035,Single Origin Dark Chocolate Truffle Box,Asia Pacific Distribution Center,1040,191,2026-06-22,In Stock
+INV-000495,CHC-01275,Honeycomb Milk Chocolate Drops,Europe Distribution Center,773,203,2026-07-17,In Stock
+INV-000496,CHC-00974,Berry Burst Ruby Chocolate Squares,Middle East & Africa Distribution Center,83,24,2026-07-25,In Stock
+INV-000497,CHC-00826,Marzipan Style Almond Chocolate Bar,Europe Distribution Center,629,180,2026-07-18,In Stock
+INV-000498,CHC-00911,Berry Burst Ruby Chocolate Filled Bar,Middle East & Africa Distribution Center,628,183,2026-07-27,In Stock
+INV-000499,CHC-01364,Tropical Mix Fruit & Nut Chocolate Gift Box,Asia Pacific Distribution Center,103,31,2026-06-23,In Stock
+INV-000500,CHC-01200,Gianduja Style Hazelnut Chocolate Pralines,Asia Pacific Distribution Center,228,45,2026-07-22,In Stock
+INV-000501,CHC-00900,Classic Milk Chocolate Filled Bar,North America Distribution Center,1475,394,2026-06-30,In Stock
+INV-000502,CHC-01426,Cranberry Walnut Fruit & Nut Chocolate Gift Box,North America Distribution Center,205,41,2026-07-07,In Stock
+INV-000503,CHC-01000,Citrus Ruby Chocolate Filled Bar,Middle East & Africa Distribution Center,630,197,2026-07-28,In Stock
+INV-000504,CHC-00383,85% Extra Bold Dark Chocolate Pralines,North America Distribution Center,1030,357,2026-07-05,In Stock
+INV-000505,CHC-00825,85% Extra Bold Dark Chocolate Gift Box,Latin America Distribution Center,203,34,2026-06-22,In Stock
+INV-000506,CHC-00488,Stevia Sweetened Sugar-Free Chocolate Gift Box,Asia Pacific Distribution Center,825,150,2026-07-29,In Stock
+INV-000507,CHC-00730,Organic Fair-Trade Chocolate Truffle Box,North America Distribution Center,301,103,2026-06-23,In Stock
+INV-000508,CHC-00898,Single Origin Dark Chocolate Coated Nuts,Europe Distribution Center,191,33,2026-07-20,In Stock
+INV-000509,CHC-00316,Organic Raw Cacao Chocolate Pralines,Asia Pacific Distribution Center,384,59,2026-06-17,In Stock
+INV-000510,CHC-00528,Single Origin Dark Chocolate Chips (Baking),North America Distribution Center,526,181,2026-06-15,In Stock
+INV-000511,CHC-00543,85% Extra Bold Dark Chocolate Drops,Europe Distribution Center,704,171,2026-07-07,In Stock
+INV-000512,CHC-00301,Single Origin Dark Chocolate Truffle Box,Asia Pacific Distribution Center,1210,342,2026-07-20,In Stock
+INV-000513,CHC-01032,Plant-Based Classic Vegan Dark Chocolate Chips (Baking),Europe Distribution Center,266,58,2026-07-10,In Stock
+INV-000514,CHC-00646,Biscuit Milk Chocolate Gift Box,Asia Pacific Distribution Center,681,180,2026-07-17,In Stock
+INV-000515,CHC-01440,Sea Salt Milk Chocolate Truffle Box,Europe Distribution Center,254,57,2026-07-13,In Stock
+INV-000516,CHC-01464,Espresso Infused Dark Chocolate Truffle Box,Europe Distribution Center,302,100,2026-06-12,In Stock
+INV-000517,CHC-00450,Classic Milk Chocolate Gift Box,Asia Pacific Distribution Center,1041,171,2026-06-29,In Stock
+INV-000518,CHC-00598,Confectionery Grade Compound Chocolate Bar,Asia Pacific Distribution Center,2149,330,2026-06-30,In Stock
+INV-000519,CHC-00051,Tropical Mix Fruit & Nut Chocolate Pralines,Middle East & Africa Distribution Center,216,67,2026-07-24,In Stock
+INV-000520,CHC-01274,Classic Sugar-Free Chocolate Drops,North America Distribution Center,205,47,2026-06-06,In Stock
+INV-000521,CHC-00036,Almond Crunch Chocolate Gift Box,Asia Pacific Distribution Center,511,81,2026-06-23,In Stock
+INV-000522,CHC-00815,Honeycomb Milk Chocolate Chips (Baking),Asia Pacific Distribution Center,839,126,2026-07-29,In Stock
+INV-000523,CHC-01396,Roasted Almond Chocolate Truffle Box,Europe Distribution Center,1397,393,2026-07-16,In Stock
+INV-000524,CHC-00441,Lemon Zest White Chocolate Coated Nuts,Europe Distribution Center,186,53,2026-06-19,In Stock
+INV-000525,CHC-01273,Sea Salt Milk Chocolate Gift Box,North America Distribution Center,264,52,2026-06-29,In Stock
+INV-000526,CHC-00251,Raisin & Almond Fruit & Nut Chocolate Bar,Middle East & Africa Distribution Center,243,58,2026-07-09,In Stock
+INV-000527,CHC-00533,Gianduja Style Hazelnut Chocolate Pralines,North America Distribution Center,140,35,2026-07-17,In Stock
+INV-000528,CHC-00899,Single Origin Dark Chocolate Pralines,Europe Distribution Center,350,93,2026-06-17,In Stock
+INV-000529,CHC-01358,Marzipan Style Almond Chocolate Truffle Box,Asia Pacific Distribution Center,948,294,2026-07-18,In Stock
+INV-000530,CHC-00320,Classic Sugar-Free Chocolate Wafer Bar,Europe Distribution Center,204,49,2026-07-11,In Stock
+INV-000531,CHC-00869,Sea Salt Caramel Chocolate Truffle Box,Middle East & Africa Distribution Center,130,36,2026-07-16,In Stock
+INV-000532,CHC-00940,Berry Burst Ruby Chocolate Truffle Box,Europe Distribution Center,478,84,2026-06-29,In Stock
+INV-000533,CHC-00531,Bakers Classic Compound Chocolate Bar,Latin America Distribution Center,402,95,2026-06-19,In Stock
+INV-000534,CHC-00391,Lemon Zest White Chocolate Coated Nuts,Middle East & Africa Distribution Center,208,69,2026-06-06,In Stock
+INV-000535,CHC-00954,Whole Hazelnut Chocolate Wafer Bar,Europe Distribution Center,314,70,2026-07-21,In Stock
+INV-000536,CHC-01048,Cranberry Walnut Fruit & Nut Chocolate Gift Box,Asia Pacific Distribution Center,231,61,2026-06-09,In Stock
+INV-000537,CHC-00626,Coconut White Chocolate Wafer Bar,Middle East & Africa Distribution Center,284,69,2026-06-12,In Stock
+INV-000538,CHC-00771,Organic Single Origin Chocolate Bar,Asia Pacific Distribution Center,223,62,2026-07-04,In Stock
+INV-000539,CHC-01443,Plant-Based Classic Vegan Dark Chocolate Drops,Europe Distribution Center,2810,532,2026-07-15,In Stock
+INV-000540,CHC-00107,85% Extra Bold Dark Chocolate Coated Nuts,Europe Distribution Center,130,33,2026-07-01,In Stock
+INV-000541,CHC-01437,Almond Crunch Chocolate Pralines,Asia Pacific Distribution Center,194,35,2026-06-26,In Stock
+INV-000542,CHC-00200,Biscuit Milk Chocolate Coated Nuts,Europe Distribution Center,219,76,2026-06-20,In Stock
+INV-000543,CHC-00077,70% Intense Dark Chocolate Wafer Bar,Asia Pacific Distribution Center,334,63,2026-06-14,In Stock
+INV-000544,CHC-01245,Whole Hazelnut Chocolate Truffle Box,Latin America Distribution Center,178,57,2026-06-19,In Stock
+INV-000545,CHC-00139,Coconut White Chocolate Wafer Bar,Middle East & Africa Distribution Center,147,38,2026-07-29,In Stock
+INV-000546,CHC-01002,Stevia Sweetened Sugar-Free Chocolate Pralines,Europe Distribution Center,156,36,2026-06-19,In Stock
+INV-000547,CHC-01060,85% Extra Bold Dark Chocolate Drops,Europe Distribution Center,141,38,2026-07-02,In Stock
+INV-000548,CHC-00118,70% Intense Dark Chocolate Wafer Bar,Europe Distribution Center,439,112,2026-06-12,In Stock
+INV-000549,CHC-01052,Single Origin Dark Chocolate Drops,Latin America Distribution Center,125,23,2026-06-19,In Stock
+INV-000550,CHC-00329,Honeycomb Milk Chocolate Filled Bar,Europe Distribution Center,508,86,2026-06-13,In Stock
+INV-000551,CHC-00131,Coconut White Chocolate Drops,Asia Pacific Distribution Center,219,54,2026-07-11,In Stock
+INV-000552,CHC-01090,Salted Butter Caramel Chocolate Squares,Middle East & Africa Distribution Center,230,67,2026-07-16,In Stock
+INV-000553,CHC-01377,Classic Milk Chocolate Bar,Middle East & Africa Distribution Center,275,54,2026-06-07,In Stock
+INV-000554,CHC-01465,Gianduja Style Hazelnut Chocolate Truffle Box,North America Distribution Center,1279,426,2026-06-29,In Stock
+INV-000555,CHC-00311,Classic Sugar-Free Chocolate Filled Bar,Europe Distribution Center,662,147,2026-07-17,In Stock
+INV-000556,CHC-01052,Single Origin Dark Chocolate Drops,Middle East & Africa Distribution Center,2032,673,2026-07-15,In Stock
+INV-000557,CHC-00643,Confectionery Grade Compound Chocolate Pralines,North America Distribution Center,343,84,2026-07-08,In Stock
+INV-000558,CHC-00505,Sea Salt Caramel Chocolate Gift Box,Latin America Distribution Center,715,245,2026-06-09,In Stock
+INV-000559,CHC-01241,Vanilla Bean White Chocolate Pralines,Latin America Distribution Center,339,112,2026-07-02,In Stock
+INV-000560,CHC-01279,Praline Hazelnut Chocolate Chips (Baking),Europe Distribution Center,247,42,2026-07-31,In Stock
+INV-000561,CHC-00336,Salted Butter Caramel Chocolate Chips (Baking),Europe Distribution Center,1771,326,2026-07-30,In Stock
+INV-000562,CHC-01397,85% Extra Bold Dark Chocolate Filled Bar,Middle East & Africa Distribution Center,484,109,2026-06-07,In Stock
+INV-000563,CHC-01205,Berry Burst Ruby Chocolate Squares,North America Distribution Center,213,55,2026-06-23,In Stock
+INV-000564,CHC-00917,Sea Salt Caramel Chocolate Bar,Middle East & Africa Distribution Center,105,16,2026-07-30,In Stock
+INV-000565,CHC-01436,Sea Salt Caramel Chocolate Squares,Latin America Distribution Center,223,57,2026-06-28,In Stock
+INV-000566,CHC-00517,Biscuit Milk Chocolate Drops,Latin America Distribution Center,238,72,2026-07-28,In Stock
+INV-000567,CHC-01273,Sea Salt Milk Chocolate Gift Box,Europe Distribution Center,259,65,2026-06-10,In Stock
+INV-000568,CHC-00187,Roasted Almond Chocolate Drops,Europe Distribution Center,397,78,2026-06-09,In Stock
+INV-000569,CHC-01228,Marzipan Style Almond Chocolate Coated Nuts,North America Distribution Center,62,20,2026-07-20,In Stock
+INV-000570,CHC-00092,Praline Hazelnut Chocolate Squares,Europe Distribution Center,214,54,2026-06-30,In Stock
+INV-000571,CHC-01092,Single Origin Dark Chocolate Wafer Bar,Asia Pacific Distribution Center,528,103,2026-07-04,In Stock
+INV-000572,CHC-00125,Whole Hazelnut Chocolate Gift Box,Middle East & Africa Distribution Center,152,41,2026-06-13,In Stock
+INV-000573,CHC-01164,Raspberry Swirl White Chocolate Wafer Bar,Latin America Distribution Center,380,129,2026-06-23,In Stock
+INV-000574,CHC-00657,Coconut White Chocolate Filled Bar,Asia Pacific Distribution Center,744,122,2026-07-06,In Stock
+INV-000575,CHC-01308,Berry Burst Ruby Chocolate Pralines,Middle East & Africa Distribution Center,116,34,2026-06-20,In Stock
+INV-000576,CHC-01420,85% Extra Bold Dark Chocolate Gift Box,North America Distribution Center,117,28,2026-07-07,In Stock
+INV-000577,CHC-01168,Sea Salt Caramel Chocolate Drops,Middle East & Africa Distribution Center,151,26,2026-06-14,In Stock
+INV-000578,CHC-01264,85% Extra Bold Dark Chocolate Squares,Europe Distribution Center,151,36,2026-07-09,In Stock
+INV-000579,CHC-00747,Cranberry Walnut Fruit & Nut Chocolate Drops,Asia Pacific Distribution Center,897,232,2026-07-13,In Stock
+INV-000580,CHC-01167,Bakers Classic Compound Chocolate Coated Nuts,Europe Distribution Center,120,39,2026-07-19,In Stock
+INV-000581,CHC-00138,Tropical Mix Fruit & Nut Chocolate Bar,Latin America Distribution Center,1236,247,2026-06-06,In Stock
+INV-000582,CHC-00862,Roasted Almond Chocolate Filled Bar,North America Distribution Center,578,86,2026-06-16,In Stock
+INV-000583,CHC-01223,70% Intense Dark Chocolate Pralines,Asia Pacific Distribution Center,943,204,2026-06-19,In Stock
+INV-000584,CHC-00256,Classic Milk Chocolate Gift Box,Europe Distribution Center,199,49,2026-06-12,In Stock
+INV-000585,CHC-00271,Stevia Sweetened Sugar-Free Chocolate Pralines,Latin America Distribution Center,150,39,2026-07-22,In Stock
+INV-000586,CHC-00014,Sea Salt Milk Chocolate Chips (Baking),Latin America Distribution Center,695,188,2026-07-30,In Stock
+INV-000587,CHC-00484,Honeycomb Milk Chocolate Drops,Asia Pacific Distribution Center,449,128,2026-06-17,In Stock
+INV-000588,CHC-00691,Berry Burst Ruby Chocolate Chips (Baking),North America Distribution Center,300,98,2026-06-18,In Stock
+INV-000589,CHC-01124,Salted Butter Caramel Chocolate Squares,Latin America Distribution Center,388,71,2026-07-17,In Stock
+INV-000590,CHC-00136,Espresso Infused Dark Chocolate Truffle Box,Latin America Distribution Center,539,167,2026-07-03,In Stock
+INV-000591,CHC-00479,Salted Butter Caramel Chocolate Coated Nuts,Middle East & Africa Distribution Center,137,38,2026-07-20,In Stock
+INV-000592,CHC-00871,Cranberry Walnut Fruit & Nut Chocolate Wafer Bar,Asia Pacific Distribution Center,128,23,2026-06-22,In Stock
+INV-000593,CHC-00181,Classic Milk Chocolate Coated Nuts,Asia Pacific Distribution Center,155,37,2026-07-08,In Stock
+INV-000594,CHC-01074,Gianduja Style Hazelnut Chocolate Filled Bar,Latin America Distribution Center,516,133,2026-07-27,In Stock
+INV-000595,CHC-01167,Bakers Classic Compound Chocolate Coated Nuts,Latin America Distribution Center,225,64,2026-07-30,In Stock
+INV-000596,CHC-01331,Single Origin Dark Chocolate Drops,Latin America Distribution Center,358,72,2026-06-19,In Stock
+INV-000597,CHC-00383,85% Extra Bold Dark Chocolate Pralines,Europe Distribution Center,262,62,2026-06-17,In Stock
+INV-000598,CHC-00734,Sea Salt Caramel Chocolate Bar,Asia Pacific Distribution Center,629,134,2026-06-05,In Stock
+INV-000599,CHC-01334,85% Extra Bold Dark Chocolate Coated Nuts,Latin America Distribution Center,499,105,2026-06-24,In Stock
+INV-000600,CHC-00489,85% Extra Bold Dark Chocolate Bar,Asia Pacific Distribution Center,531,167,2026-07-02,In Stock
+INV-000601,CHC-01113,Organic Fair-Trade Chocolate Chips (Baking),Asia Pacific Distribution Center,243,78,2026-06-16,In Stock
+INV-000602,CHC-00320,Classic Sugar-Free Chocolate Wafer Bar,Middle East & Africa Distribution Center,1048,212,2026-07-01,In Stock
+INV-000603,CHC-00676,Cranberry Walnut Fruit & Nut Chocolate Wafer Bar,North America Distribution Center,1112,353,2026-07-11,In Stock
+INV-000604,CHC-00444,Organic Single Origin Chocolate Pralines,North America Distribution Center,445,93,2026-07-01,In Stock
+INV-000605,CHC-01429,Coconut White Chocolate Wafer Bar,North America Distribution Center,371,89,2026-07-31,In Stock
+INV-000606,CHC-00355,Raspberry Swirl White Chocolate Pralines,Asia Pacific Distribution Center,394,75,2026-08-02,In Stock
+INV-000607,CHC-00452,Sea Salt Milk Chocolate Bar,Europe Distribution Center,351,109,2026-06-20,In Stock
+INV-000608,CHC-00609,Marzipan Style Almond Chocolate Filled Bar,Latin America Distribution Center,327,67,2026-06-28,In Stock
+INV-000609,CHC-00135,70% Intense Dark Chocolate Pralines,Asia Pacific Distribution Center,151,24,2026-06-16,In Stock
+INV-000610,CHC-00252,70% Intense Dark Chocolate Drops,Latin America Distribution Center,377,127,2026-07-29,In Stock
+INV-000611,CHC-00176,85% Extra Bold Dark Chocolate Drops,Europe Distribution Center,278,62,2026-06-19,In Stock
+INV-000612,CHC-00697,Salted Butter Caramel Chocolate Filled Bar,Asia Pacific Distribution Center,165,46,2026-06-29,In Stock
+INV-000613,CHC-00546,Raisin & Almond Fruit & Nut Chocolate Chips (Baking),Europe Distribution Center,673,212,2026-07-06,In Stock
+INV-000614,CHC-00656,Confectionery Grade Compound Chocolate Pralines,Europe Distribution Center,224,35,2026-08-02,In Stock
+INV-000615,CHC-00557,Honeycomb Milk Chocolate Truffle Box,Middle East & Africa Distribution Center,174,26,2026-06-19,In Stock
+INV-000616,CHC-00870,Classic Milk Chocolate Bar,Europe Distribution Center,442,125,2026-07-05,In Stock
+INV-000617,CHC-01313,Diabetic Friendly Sugar-Free Chocolate Chips (Baking),Europe Distribution Center,558,180,2026-07-20,In Stock
+INV-000618,CHC-01377,Classic Milk Chocolate Bar,Europe Distribution Center,349,96,2026-07-15,In Stock
+INV-000619,CHC-00167,Bakers Classic Compound Chocolate Coated Nuts,Asia Pacific Distribution Center,320,54,2026-07-02,In Stock
+INV-000620,CHC-00380,Sea Salt Milk Chocolate Wafer Bar,Latin America Distribution Center,934,164,2026-06-19,In Stock
+INV-000621,CHC-00803,Oat Milk Blend Vegan Dark Chocolate Coated Nuts,North America Distribution Center,264,55,2026-07-10,In Stock
+INV-000622,CHC-01247,Biscuit Milk Chocolate Coated Nuts,Middle East & Africa Distribution Center,126,23,2026-07-25,In Stock
+INV-000623,CHC-00069,Sea Salt Milk Chocolate Pralines,Asia Pacific Distribution Center,741,131,2026-06-23,In Stock
+INV-000624,CHC-01233,Cranberry Walnut Fruit & Nut Chocolate Chips (Baking),Europe Distribution Center,831,223,2026-06-09,In Stock
+INV-000625,CHC-01224,Berry Burst Ruby Chocolate Truffle Box,Asia Pacific Distribution Center,97,21,2026-08-01,In Stock
+INV-000626,CHC-01236,Organic Raw Cacao Chocolate Filled Bar,North America Distribution Center,74,19,2026-07-28,In Stock
+INV-000627,CHC-00230,Sea Salt Caramel Chocolate Squares,Middle East & Africa Distribution Center,330,87,2026-06-16,In Stock
+INV-000628,CHC-01049,Lemon Zest White Chocolate Squares,Latin America Distribution Center,55,14,2026-07-19,In Stock
+INV-000629,CHC-00760,Raspberry Swirl White Chocolate Bar,Asia Pacific Distribution Center,269,45,2026-07-23,In Stock
+INV-000630,CHC-00277,Espresso Infused Dark Chocolate Truffle Box,North America Distribution Center,512,148,2026-06-28,In Stock
+INV-000631,CHC-00033,Single Origin Dark Chocolate Coated Nuts,Latin America Distribution Center,1810,437,2026-06-07,In Stock
+INV-000632,CHC-00987,Gianduja Style Hazelnut Chocolate Bar,Europe Distribution Center,849,171,2026-07-27,In Stock
+INV-000633,CHC-00439,Soft Caramel Core Chocolate Coated Nuts,Latin America Distribution Center,29,10,2026-06-05,In Stock
+INV-000634,CHC-00920,Plant-Based Classic Vegan Dark Chocolate Pralines,Asia Pacific Distribution Center,86,17,2026-06-28,In Stock
+INV-000635,CHC-01256,Sea Salt Caramel Chocolate Pralines,Asia Pacific Distribution Center,596,197,2026-06-24,In Stock
+INV-000636,CHC-00525,Biscuit Milk Chocolate Wafer Bar,Europe Distribution Center,588,146,2026-06-10,In Stock
+INV-000637,CHC-01425,Sea Salt Milk Chocolate Drops,North America Distribution Center,1013,155,2026-06-27,In Stock
+INV-000638,CHC-00117,Sea Salt Caramel Chocolate Filled Bar,Middle East & Africa Distribution Center,2140,687,2026-06-05,In Stock
+INV-000639,CHC-00646,Biscuit Milk Chocolate Gift Box,Middle East & Africa Distribution Center,304,102,2026-07-20,In Stock
+INV-000640,CHC-01426,Cranberry Walnut Fruit & Nut Chocolate Gift Box,Europe Distribution Center,328,69,2026-07-11,In Stock
+INV-000641,CHC-01011,Organic Fair-Trade Chocolate Pralines,Latin America Distribution Center,1199,288,2026-07-22,In Stock
+INV-000642,CHC-00053,Organic Raw Cacao Chocolate Bar,Asia Pacific Distribution Center,461,94,2026-07-07,In Stock
+INV-000643,CHC-01307,Roasted Almond Chocolate Truffle Box,Asia Pacific Distribution Center,2473,649,2026-07-14,In Stock
+INV-000644,CHC-00793,Coconut White Chocolate Drops,North America Distribution Center,566,185,2026-07-05,In Stock
+INV-000645,CHC-00819,Gianduja Style Hazelnut Chocolate Drops,Middle East & Africa Distribution Center,327,92,2026-06-13,In Stock
+INV-000646,CHC-00085,Classic Milk Chocolate Bar,Middle East & Africa Distribution Center,455,137,2026-06-26,In Stock
+INV-000647,CHC-00422,Biscuit Milk Chocolate Squares,North America Distribution Center,101,17,2026-07-18,In Stock
+INV-000648,CHC-00478,Value Pack Compound Chocolate Squares,Middle East & Africa Distribution Center,499,100,2026-07-14,In Stock
+INV-000649,CHC-01241,Vanilla Bean White Chocolate Pralines,Middle East & Africa Distribution Center,1507,422,2026-06-28,In Stock
+INV-000650,CHC-00389,Whole Hazelnut Chocolate Drops,Europe Distribution Center,803,203,2026-07-05,In Stock
+INV-000651,CHC-00039,Almond Crunch Chocolate Truffle Box,Middle East & Africa Distribution Center,495,140,2026-07-05,In Stock
+INV-000652,CHC-00859,Classic Milk Chocolate Gift Box,Europe Distribution Center,108,24,2026-07-28,In Stock
+INV-000653,CHC-00057,85% Extra Bold Dark Chocolate Filled Bar,North America Distribution Center,1152,401,2026-06-18,In Stock
+INV-000654,CHC-00997,Vanilla Bean White Chocolate Wafer Bar,Europe Distribution Center,442,76,2026-07-24,In Stock
+INV-000655,CHC-00129,70% Intense Dark Chocolate Truffle Box,North America Distribution Center,112,19,2026-07-06,In Stock
+INV-000656,CHC-00013,70% Intense Dark Chocolate Wafer Bar,Latin America Distribution Center,93,27,2026-08-01,In Stock
+INV-000657,CHC-00564,Sea Salt Milk Chocolate Coated Nuts,Asia Pacific Distribution Center,473,124,2026-06-15,In Stock
+INV-000658,CHC-00682,Soft Caramel Core Chocolate Drops,Latin America Distribution Center,1012,182,2026-06-15,In Stock
+INV-000659,CHC-01014,Organic Raw Cacao Chocolate Chips (Baking),Asia Pacific Distribution Center,916,262,2026-07-30,In Stock
+INV-000660,CHC-01132,Coconut White Chocolate Bar,Asia Pacific Distribution Center,220,33,2026-06-19,In Stock
+INV-000661,CHC-01012,Bakers Classic Compound Chocolate Squares,North America Distribution Center,166,28,2026-06-14,In Stock
+INV-000662,CHC-00264,Classic Milk Chocolate Truffle Box,Europe Distribution Center,133,28,2026-06-13,In Stock
+INV-000663,CHC-00610,Single Origin Dark Chocolate Wafer Bar,North America Distribution Center,308,56,2026-07-25,In Stock
+INV-000664,CHC-01309,Vanilla Bean White Chocolate Truffle Box,Asia Pacific Distribution Center,764,168,2026-06-22,In Stock
+INV-000665,CHC-00940,Berry Burst Ruby Chocolate Truffle Box,Asia Pacific Distribution Center,858,216,2026-07-21,In Stock
+INV-000666,CHC-00036,Almond Crunch Chocolate Gift Box,North America Distribution Center,172,41,2026-07-13,In Stock
+INV-000667,CHC-01022,85% Extra Bold Dark Chocolate Truffle Box,Europe Distribution Center,218,73,2026-06-21,In Stock
+INV-000668,CHC-01468,Soft Caramel Core Chocolate Truffle Box,Europe Distribution Center,509,84,2026-06-27,In Stock
+INV-000669,CHC-00892,Diabetic Friendly Sugar-Free Chocolate Wafer Bar,North America Distribution Center,397,76,2026-06-14,In Stock
+INV-000670,CHC-01007,Cranberry Walnut Fruit & Nut Chocolate Gift Box,Asia Pacific Distribution Center,207,38,2026-07-08,In Stock
+INV-000671,CHC-00035,Single Origin Dark Chocolate Truffle Box,Middle East & Africa Distribution Center,478,152,2026-07-18,In Stock
+INV-000672,CHC-00243,Coconut Sugar Vegan Dark Chocolate Coated Nuts,Europe Distribution Center,370,110,2026-06-26,In Stock
+INV-000673,CHC-00942,Classic Milk Chocolate Wafer Bar,Latin America Distribution Center,170,42,2026-07-30,In Stock
+INV-000674,CHC-00509,85% Extra Bold Dark Chocolate Chips (Baking),Latin America Distribution Center,595,136,2026-06-12,In Stock
+INV-000675,CHC-00542,Tropical Mix Fruit & Nut Chocolate Bar,Asia Pacific Distribution Center,2698,786,2026-06-06,In Stock
+INV-000676,CHC-01190,Classic Sugar-Free Chocolate Chips (Baking),Latin America Distribution Center,750,249,2026-06-16,In Stock
+INV-000677,CHC-01059,Confectionery Grade Compound Chocolate Truffle Box,Europe Distribution Center,87,29,2026-07-23,In Stock
+INV-000678,CHC-00439,Soft Caramel Core Chocolate Coated Nuts,Europe Distribution Center,521,171,2026-06-22,In Stock
+INV-000679,CHC-01299,Organic Fair-Trade Chocolate Gift Box,Asia Pacific Distribution Center,1038,284,2026-07-19,In Stock
+INV-000680,CHC-00853,Single Origin Dark Chocolate Truffle Box,Latin America Distribution Center,390,97,2026-07-09,In Stock
+INV-000681,CHC-01423,Honeycomb Milk Chocolate Gift Box,Europe Distribution Center,281,60,2026-06-13,In Stock
+INV-000682,CHC-00042,Gianduja Style Hazelnut Chocolate Filled Bar,Asia Pacific Distribution Center,388,96,2026-06-28,In Stock
+INV-000683,CHC-00269,Organic Fair-Trade Chocolate Drops,Europe Distribution Center,758,162,2026-08-02,In Stock
+INV-000684,CHC-00106,Classic Sugar-Free Chocolate Coated Nuts,Latin America Distribution Center,239,39,2026-06-23,In Stock
+INV-000685,CHC-01047,Praline Hazelnut Chocolate Squares,Latin America Distribution Center,2429,516,2026-07-08,In Stock
+INV-000686,CHC-00678,Espresso Infused Dark Chocolate Squares,Europe Distribution Center,123,41,2026-07-05,In Stock
+INV-000687,CHC-00886,Coconut Sugar Vegan Dark Chocolate Filled Bar,Latin America Distribution Center,231,45,2026-07-05,In Stock
+INV-000688,CHC-01367,Tropical Mix Fruit & Nut Chocolate Chips (Baking),Asia Pacific Distribution Center,233,35,2026-06-16,In Stock
+INV-000689,CHC-00141,70% Intense Dark Chocolate Coated Nuts,Latin America Distribution Center,255,75,2026-06-12,In Stock
+INV-000690,CHC-01076,85% Extra Bold Dark Chocolate Coated Nuts,Middle East & Africa Distribution Center,718,212,2026-07-31,In Stock
+INV-000691,CHC-00318,Espresso Infused Dark Chocolate Wafer Bar,Middle East & Africa Distribution Center,360,122,2026-07-30,In Stock
+INV-000692,CHC-00035,Single Origin Dark Chocolate Truffle Box,Europe Distribution Center,127,26,2026-07-15,In Stock
+INV-000693,CHC-01411,Stevia Sweetened Sugar-Free Chocolate Coated Nuts,Middle East & Africa Distribution Center,254,82,2026-06-09,In Stock
+INV-000694,CHC-00492,Biscuit Milk Chocolate Coated Nuts,Latin America Distribution Center,249,80,2026-07-10,In Stock
+INV-000695,CHC-00616,Tropical Mix Fruit & Nut Chocolate Pralines,Europe Distribution Center,488,164,2026-07-29,In Stock
+INV-000696,CHC-00643,Confectionery Grade Compound Chocolate Pralines,Middle East & Africa Distribution Center,113,21,2026-07-09,In Stock
+INV-000697,CHC-01379,Sea Salt Milk Chocolate Chips (Baking),Latin America Distribution Center,148,34,2026-07-03,In Stock
+INV-000698,CHC-00660,Honeycomb Milk Chocolate Filled Bar,Latin America Distribution Center,505,138,2026-06-11,In Stock
+INV-000699,CHC-00618,Whole Hazelnut Chocolate Filled Bar,Asia Pacific Distribution Center,318,68,2026-07-28,In Stock
+INV-000700,CHC-00780,Cranberry Walnut Fruit & Nut Chocolate Chips (Baking),Middle East & Africa Distribution Center,1055,233,2026-07-09,In Stock
+INV-000701,CHC-00332,Whole Hazelnut Chocolate Bar,Asia Pacific Distribution Center,811,214,2026-07-22,In Stock
+INV-000702,CHC-00643,Confectionery Grade Compound Chocolate Pralines,Europe Distribution Center,863,287,2026-07-25,In Stock
+INV-000703,CHC-01458,Classic Sugar-Free Chocolate Wafer Bar,North America Distribution Center,864,150,2026-06-23,In Stock
+INV-000704,CHC-00005,Roasted Almond Chocolate Wafer Bar,Asia Pacific Distribution Center,362,82,2026-06-11,In Stock
+INV-000705,CHC-00003,Confectionery Grade Compound Chocolate Pralines,North America Distribution Center,65,17,2026-07-08,In Stock
+INV-000706,CHC-00460,70% Intense Dark Chocolate Filled Bar,Latin America Distribution Center,207,39,2026-06-29,In Stock
+INV-000707,CHC-00906,Coconut White Chocolate Coated Nuts,North America Distribution Center,521,118,2026-08-02,In Stock
+INV-000708,CHC-01094,Gianduja Style Hazelnut Chocolate Pralines,Middle East & Africa Distribution Center,393,64,2026-07-23,In Stock
+INV-000709,CHC-00715,70% Intense Dark Chocolate Pralines,Europe Distribution Center,590,188,2026-07-23,In Stock
+INV-000710,CHC-00704,Original Ruby Chocolate Chips (Baking),Latin America Distribution Center,427,127,2026-07-03,In Stock
+INV-000711,CHC-01036,Honeycomb Milk Chocolate Truffle Box,Asia Pacific Distribution Center,700,197,2026-07-06,In Stock
+INV-000712,CHC-01235,Stevia Sweetened Sugar-Free Chocolate Pralines,Europe Distribution Center,429,99,2026-07-02,In Stock
+INV-000713,CHC-00565,Roasted Almond Chocolate Pralines,Europe Distribution Center,1478,256,2026-07-09,In Stock
+INV-000714,CHC-01476,Organic Raw Cacao Chocolate Gift Box,Asia Pacific Distribution Center,166,44,2026-08-02,In Stock
+INV-000715,CHC-00875,Raisin & Almond Fruit & Nut Chocolate Chips (Baking),Latin America Distribution Center,604,194,2026-07-13,In Stock
+INV-000716,CHC-00832,Sea Salt Caramel Chocolate Coated Nuts,Europe Distribution Center,299,86,2026-07-12,In Stock
+INV-000717,CHC-01326,Coconut White Chocolate Wafer Bar,Middle East & Africa Distribution Center,952,280,2026-07-25,In Stock
+INV-000718,CHC-00981,Classic Milk Chocolate Truffle Box,Asia Pacific Distribution Center,527,170,2026-06-22,In Stock
+INV-000719,CHC-00130,Praline Hazelnut Chocolate Gift Box,Latin America Distribution Center,372,83,2026-06-25,In Stock
+INV-000720,CHC-00566,Honeycomb Milk Chocolate Squares,Europe Distribution Center,452,101,2026-07-21,In Stock
+INV-000721,CHC-00389,Whole Hazelnut Chocolate Drops,Latin America Distribution Center,227,50,2026-06-15,In Stock
+INV-000722,CHC-00761,70% Intense Dark Chocolate Coated Nuts,Latin America Distribution Center,167,48,2026-07-17,In Stock
+INV-000723,CHC-01435,85% Extra Bold Dark Chocolate Pralines,Europe Distribution Center,69,23,2026-06-27,In Stock
+INV-000724,CHC-00819,Gianduja Style Hazelnut Chocolate Drops,Asia Pacific Distribution Center,299,81,2026-07-01,In Stock
+INV-000725,CHC-00150,Coconut Sugar Vegan Dark Chocolate Chips (Baking),Latin America Distribution Center,2065,336,2026-07-06,In Stock
+INV-000726,CHC-00234,Coconut Sugar Vegan Dark Chocolate Drops,Latin America Distribution Center,640,186,2026-06-30,In Stock
+INV-000727,CHC-00331,70% Intense Dark Chocolate Drops,Middle East & Africa Distribution Center,369,104,2026-08-02,In Stock
+INV-000728,CHC-00459,Diabetic Friendly Sugar-Free Chocolate Gift Box,Latin America Distribution Center,488,128,2026-06-13,In Stock
+INV-000729,CHC-01489,Classic Milk Chocolate Chips (Baking),Latin America Distribution Center,87,24,2026-07-30,In Stock
+INV-000730,CHC-00751,Organic Raw Cacao Chocolate Truffle Box,Asia Pacific Distribution Center,282,83,2026-06-23,In Stock
+INV-000731,CHC-00837,Cranberry Walnut Fruit & Nut Chocolate Chips (Baking),Latin America Distribution Center,523,97,2026-07-26,In Stock
+INV-000732,CHC-01295,Organic Raw Cacao Chocolate Bar,Europe Distribution Center,779,180,2026-07-11,In Stock
+INV-000733,CHC-00731,Praline Hazelnut Chocolate Drops,Latin America Distribution Center,296,67,2026-07-26,In Stock
+INV-000734,CHC-01352,Marzipan Style Almond Chocolate Coated Nuts,Middle East & Africa Distribution Center,165,46,2026-07-18,In Stock
+INV-000735,CHC-00162,Biscuit Milk Chocolate Filled Bar,North America Distribution Center,100,19,2026-06-10,In Stock
+INV-000736,CHC-00802,Single Origin Dark Chocolate Gift Box,Europe Distribution Center,189,64,2026-08-02,In Stock
+INV-000737,CHC-00335,Soft Caramel Core Chocolate Drops,Middle East & Africa Distribution Center,363,82,2026-07-29,In Stock
+INV-000738,CHC-01080,Classic Sugar-Free Chocolate Wafer Bar,Middle East & Africa Distribution Center,775,123,2026-07-04,In Stock
+INV-000739,CHC-01014,Organic Raw Cacao Chocolate Chips (Baking),North America Distribution Center,1347,363,2026-06-30,In Stock
+INV-000740,CHC-01428,Lemon Zest White Chocolate Coated Nuts,Middle East & Africa Distribution Center,556,169,2026-07-28,In Stock
+INV-000741,CHC-00095,70% Intense Dark Chocolate Truffle Box,Latin America Distribution Center,566,124,2026-06-25,In Stock
+INV-000742,CHC-00098,Oat Milk Blend Vegan Dark Chocolate Pralines,North America Distribution Center,566,97,2026-06-26,In Stock
+INV-000743,CHC-00289,Citrus Ruby Chocolate Truffle Box,Latin America Distribution Center,309,93,2026-07-25,In Stock
+INV-000744,CHC-00103,Almond Crunch Chocolate Squares,Asia Pacific Distribution Center,120,34,2026-06-16,In Stock
+INV-000745,CHC-01250,Organic Single Origin Chocolate Bar,Latin America Distribution Center,235,57,2026-06-07,In Stock
+INV-000746,CHC-00680,Soft Caramel Core Chocolate Chips (Baking),Europe Distribution Center,367,95,2026-06-20,In Stock
+INV-000747,CHC-01192,70% Intense Dark Chocolate Coated Nuts,Asia Pacific Distribution Center,445,133,2026-06-09,In Stock
+INV-000748,CHC-00479,Salted Butter Caramel Chocolate Coated Nuts,Latin America Distribution Center,365,83,2026-07-16,In Stock
+INV-000749,CHC-00535,Marzipan Style Almond Chocolate Squares,North America Distribution Center,318,50,2026-06-21,In Stock
+INV-000750,CHC-01441,Organic Fair-Trade Chocolate Squares,Latin America Distribution Center,759,164,2026-06-29,In Stock
+INV-000751,CHC-00613,Marzipan Style Almond Chocolate Wafer Bar,Asia Pacific Distribution Center,722,214,2026-06-27,In Stock
+INV-000752,CHC-00130,Praline Hazelnut Chocolate Gift Box,North America Distribution Center,79,13,2026-07-26,In Stock
+INV-000753,CHC-01174,Biscuit Milk Chocolate Coated Nuts,Asia Pacific Distribution Center,384,107,2026-07-23,In Stock
+INV-000754,CHC-01114,Classic Milk Chocolate Pralines,Middle East & Africa Distribution Center,306,93,2026-07-21,In Stock
+INV-000755,CHC-01460,Sea Salt Caramel Chocolate Gift Box,Europe Distribution Center,419,129,2026-07-08,In Stock
+INV-000756,CHC-00138,Tropical Mix Fruit & Nut Chocolate Bar,Europe Distribution Center,1172,300,2026-07-15,In Stock
+INV-000757,CHC-00262,Biscuit Milk Chocolate Drops,Asia Pacific Distribution Center,295,67,2026-06-14,In Stock
+INV-000758,CHC-00019,Biscuit Milk Chocolate Gift Box,North America Distribution Center,280,68,2026-06-27,In Stock
+INV-000759,CHC-01238,Classic Sugar-Free Chocolate Bar,Asia Pacific Distribution Center,210,52,2026-07-28,In Stock
+INV-000760,CHC-01221,85% Extra Bold Dark Chocolate Coated Nuts,Asia Pacific Distribution Center,493,102,2026-06-17,In Stock
+INV-000761,CHC-01459,Roasted Almond Chocolate Drops,North America Distribution Center,112,23,2026-07-12,In Stock
+INV-000762,CHC-00315,70% Intense Dark Chocolate Coated Nuts,Middle East & Africa Distribution Center,527,88,2026-07-25,In Stock
+INV-000763,CHC-00001,Berry Burst Ruby Chocolate Pralines,Middle East & Africa Distribution Center,935,185,2026-08-02,In Stock
+INV-000764,CHC-00969,Biscuit Milk Chocolate Truffle Box,Europe Distribution Center,540,136,2026-07-12,In Stock
+INV-000765,CHC-01322,Honeycomb Milk Chocolate Filled Bar,Europe Distribution Center,793,128,2026-07-20,In Stock
+INV-000766,CHC-00752,Almond Crunch Chocolate Pralines,Europe Distribution Center,1075,302,2026-07-02,In Stock
+INV-000767,CHC-00492,Biscuit Milk Chocolate Coated Nuts,Middle East & Africa Distribution Center,465,78,2026-07-29,In Stock
+INV-000768,CHC-01200,Gianduja Style Hazelnut Chocolate Pralines,North America Distribution Center,1316,378,2026-06-26,In Stock
+INV-000769,CHC-01393,Bakers Classic Compound Chocolate Wafer Bar,Middle East & Africa Distribution Center,355,70,2026-06-14,In Stock
+INV-000770,CHC-00978,Soft Caramel Core Chocolate Truffle Box,North America Distribution Center,528,121,2026-07-08,In Stock
+INV-000771,CHC-00311,Classic Sugar-Free Chocolate Filled Bar,Europe Distribution Center,603,94,2026-07-26,In Stock
+INV-000772,CHC-00304,Espresso Infused Dark Chocolate Bar,Middle East & Africa Distribution Center,648,119,2026-06-26,In Stock
+INV-000773,CHC-00247,Oat Milk Blend Vegan Dark Chocolate Bar,North America Distribution Center,616,107,2026-06-06,In Stock
+INV-000774,CHC-00741,Coconut White Chocolate Gift Box,Asia Pacific Distribution Center,487,81,2026-06-18,In Stock
+INV-000775,CHC-00658,Whole Hazelnut Chocolate Wafer Bar,Middle East & Africa Distribution Center,336,50,2026-07-12,In Stock
+INV-000776,CHC-00632,Honeycomb Milk Chocolate Bar,Asia Pacific Distribution Center,452,129,2026-07-21,In Stock
+INV-000777,CHC-00011,Biscuit Milk Chocolate Bar,Latin America Distribution Center,217,56,2026-06-13,In Stock
+INV-000778,CHC-01196,Tropical Mix Fruit & Nut Chocolate Coated Nuts,Asia Pacific Distribution Center,69,12,2026-07-26,In Stock
+INV-000779,CHC-01379,Sea Salt Milk Chocolate Chips (Baking),Europe Distribution Center,1020,293,2026-06-07,In Stock
+INV-000780,CHC-01311,Bakers Classic Compound Chocolate Pralines,Europe Distribution Center,455,123,2026-07-23,In Stock
+INV-000781,CHC-00474,Plant-Based Classic Vegan Dark Chocolate Bar,Europe Distribution Center,2725,915,2026-07-10,In Stock
+INV-000782,CHC-00503,Honeycomb Milk Chocolate Drops,Middle East & Africa Distribution Center,165,26,2026-07-19,In Stock
+INV-000783,CHC-00905,Organic Fair-Trade Chocolate Squares,Middle East & Africa Distribution Center,620,200,2026-06-12,In Stock
+INV-000784,CHC-01336,Sea Salt Caramel Chocolate Chips (Baking),Asia Pacific Distribution Center,434,107,2026-07-02,In Stock
+INV-000785,CHC-01454,Classic Milk Chocolate Bar,North America Distribution Center,559,109,2026-07-24,In Stock
+INV-000786,CHC-01099,Raspberry Swirl White Chocolate Drops,Europe Distribution Center,731,234,2026-07-08,In Stock
+INV-000787,CHC-01135,Praline Hazelnut Chocolate Truffle Box,Europe Distribution Center,837,144,2026-07-01,In Stock
+INV-000788,CHC-01213,Praline Hazelnut Chocolate Wafer Bar,Europe Distribution Center,408,98,2026-07-01,In Stock
+INV-000789,CHC-01023,Confectionery Grade Compound Chocolate Chips (Baking),Asia Pacific Distribution Center,179,44,2026-07-11,In Stock
+INV-000790,CHC-00006,Stevia Sweetened Sugar-Free Chocolate Filled Bar,Latin America Distribution Center,527,94,2026-06-14,In Stock
+INV-000791,CHC-00683,Praline Hazelnut Chocolate Filled Bar,Latin America Distribution Center,103,32,2026-07-12,In Stock
+INV-000792,CHC-00932,Diabetic Friendly Sugar-Free Chocolate Coated Nuts,Europe Distribution Center,1777,300,2026-07-17,In Stock
+INV-000793,CHC-00873,Honeycomb Milk Chocolate Filled Bar,Latin America Distribution Center,627,119,2026-07-02,In Stock
+INV-000794,CHC-00566,Honeycomb Milk Chocolate Squares,North America Distribution Center,424,143,2026-06-10,In Stock
+INV-000795,CHC-00746,Gianduja Style Hazelnut Chocolate Bar,Europe Distribution Center,1037,240,2026-06-23,In Stock
+INV-000796,CHC-00052,85% Extra Bold Dark Chocolate Pralines,Europe Distribution Center,235,48,2026-07-21,In Stock
+INV-000797,CHC-00152,Single Origin Dark Chocolate Chips (Baking),Middle East & Africa Distribution Center,308,70,2026-07-30,In Stock
+INV-000798,CHC-00622,Value Pack Compound Chocolate Gift Box,Latin America Distribution Center,256,40,2026-07-24,In Stock
+INV-000799,CHC-01239,Stevia Sweetened Sugar-Free Chocolate Wafer Bar,Europe Distribution Center,217,48,2026-07-10,In Stock
+INV-000800,CHC-01201,85% Extra Bold Dark Chocolate Gift Box,Asia Pacific Distribution Center,957,307,2026-07-05,In Stock
+INV-000801,CHC-00905,Organic Fair-Trade Chocolate Squares,Middle East & Africa Distribution Center,1032,253,2026-07-23,In Stock
+INV-000802,CHC-01335,Organic Single Origin Chocolate Wafer Bar,Latin America Distribution Center,262,64,2026-08-01,In Stock
+INV-000803,CHC-01078,Original Ruby Chocolate Truffle Box,Europe Distribution Center,325,63,2026-06-07,In Stock
+INV-000804,CHC-01351,Espresso Infused Dark Chocolate Drops,Middle East & Africa Distribution Center,478,72,2026-07-16,In Stock
+INV-000805,CHC-01257,Praline Hazelnut Chocolate Drops,North America Distribution Center,291,56,2026-07-03,In Stock
+INV-000806,CHC-00086,85% Extra Bold Dark Chocolate Bar,Europe Distribution Center,360,66,2026-06-25,In Stock
+INV-000807,CHC-00034,Soft Caramel Core Chocolate Gift Box,Asia Pacific Distribution Center,4092,1404,2026-06-22,In Stock
+INV-000808,CHC-00885,Marzipan Style Almond Chocolate Drops,Middle East & Africa Distribution Center,946,269,2026-07-23,In Stock
+INV-000809,CHC-00202,Marzipan Style Almond Chocolate Gift Box,North America Distribution Center,322,104,2026-06-06,In Stock
+INV-000810,CHC-00125,Whole Hazelnut Chocolate Gift Box,Asia Pacific Distribution Center,522,81,2026-06-24,In Stock
+INV-000811,CHC-01300,Espresso Infused Dark Chocolate Drops,Middle East & Africa Distribution Center,88,27,2026-07-01,In Stock
+INV-000812,CHC-01485,Espresso Infused Dark Chocolate Drops,North America Distribution Center,182,33,2026-06-22,In Stock
+INV-000813,CHC-00182,Lemon Zest White Chocolate Chips (Baking),Europe Distribution Center,243,41,2026-06-25,In Stock
+INV-000814,CHC-01254,Coconut White Chocolate Truffle Box,Latin America Distribution Center,381,106,2026-06-05,In Stock
+INV-000815,CHC-00032,Espresso Infused Dark Chocolate Truffle Box,Middle East & Africa Distribution Center,450,127,2026-06-08,In Stock
+INV-000816,CHC-01363,Stevia Sweetened Sugar-Free Chocolate Pralines,North America Distribution Center,195,45,2026-06-25,In Stock
+INV-000817,CHC-00878,Almond Crunch Chocolate Bar,Asia Pacific Distribution Center,133,30,2026-07-03,In Stock
+INV-000818,CHC-00240,Coconut Sugar Vegan Dark Chocolate Bar,Middle East & Africa Distribution Center,2403,489,2026-07-06,In Stock
+INV-000819,CHC-00597,Soft Caramel Core Chocolate Pralines,Europe Distribution Center,527,104,2026-07-12,In Stock
+INV-000820,CHC-01233,Cranberry Walnut Fruit & Nut Chocolate Chips (Baking),Latin America Distribution Center,364,60,2026-07-22,In Stock
+INV-000821,CHC-01280,Stevia Sweetened Sugar-Free Chocolate Coated Nuts,Latin America Distribution Center,682,199,2026-07-18,In Stock
+INV-000822,CHC-01182,Almond Crunch Chocolate Bar,Europe Distribution Center,321,55,2026-06-10,In Stock
+INV-000823,CHC-01432,Roasted Almond Chocolate Filled Bar,North America Distribution Center,117,22,2026-06-23,In Stock
+INV-000824,CHC-00313,Organic Single Origin Chocolate Coated Nuts,Europe Distribution Center,81,15,2026-06-16,In Stock
+INV-000825,CHC-00684,Cranberry Walnut Fruit & Nut Chocolate Filled Bar,Asia Pacific Distribution Center,303,88,2026-07-22,In Stock
+INV-000826,CHC-00645,85% Extra Bold Dark Chocolate Filled Bar,Middle East & Africa Distribution Center,480,157,2026-06-05,In Stock
+INV-000827,CHC-00067,Honeycomb Milk Chocolate Squares,Asia Pacific Distribution Center,605,200,2026-06-14,In Stock
+INV-000828,CHC-00809,Classic Sugar-Free Chocolate Chips (Baking),Europe Distribution Center,241,37,2026-07-10,In Stock
+INV-000829,CHC-00587,Marzipan Style Almond Chocolate Gift Box,Asia Pacific Distribution Center,1793,444,2026-07-31,In Stock
+INV-000830,CHC-00905,Organic Fair-Trade Chocolate Squares,Europe Distribution Center,779,216,2026-06-27,In Stock
+INV-000831,CHC-01300,Espresso Infused Dark Chocolate Drops,Latin America Distribution Center,372,125,2026-07-03,In Stock
+INV-000832,CHC-00571,Oat Milk Blend Vegan Dark Chocolate Coated Nuts,Europe Distribution Center,374,83,2026-06-11,In Stock
+INV-000833,CHC-00691,Berry Burst Ruby Chocolate Chips (Baking),Latin America Distribution Center,281,83,2026-06-30,In Stock
+INV-000834,CHC-01090,Salted Butter Caramel Chocolate Squares,Europe Distribution Center,288,89,2026-06-11,In Stock
+INV-000835,CHC-01321,Sea Salt Caramel Chocolate Wafer Bar,North America Distribution Center,75,15,2026-07-28,In Stock
+INV-000836,CHC-00239,85% Extra Bold Dark Chocolate Filled Bar,Europe Distribution Center,46,10,2026-06-20,In Stock
+INV-000837,CHC-00074,85% Extra Bold Dark Chocolate Bar,Middle East & Africa Distribution Center,280,77,2026-06-29,In Stock
+INV-000838,CHC-00699,Sea Salt Caramel Chocolate Wafer Bar,Asia Pacific Distribution Center,353,67,2026-06-22,In Stock
+INV-000839,CHC-01389,Berry Burst Ruby Chocolate Bar,North America Distribution Center,1916,670,2026-08-02,In Stock
+INV-000840,CHC-00734,Sea Salt Caramel Chocolate Bar,Middle East & Africa Distribution Center,518,156,2026-07-24,In Stock
+INV-000841,CHC-00229,Cranberry Walnut Fruit & Nut Chocolate Wafer Bar,Asia Pacific Distribution Center,406,110,2026-06-19,In Stock
+INV-000842,CHC-01283,Sea Salt Caramel Chocolate Squares,Middle East & Africa Distribution Center,283,89,2026-08-02,In Stock
+INV-000843,CHC-00299,Confectionery Grade Compound Chocolate Wafer Bar,Europe Distribution Center,700,215,2026-07-06,In Stock
+INV-000844,CHC-00964,Classic Milk Chocolate Wafer Bar,Middle East & Africa Distribution Center,809,201,2026-07-12,In Stock
+INV-000845,CHC-00067,Honeycomb Milk Chocolate Squares,Europe Distribution Center,197,45,2026-06-26,In Stock
+INV-000846,CHC-00883,Honeycomb Milk Chocolate Squares,Middle East & Africa Distribution Center,506,166,2026-06-11,In Stock
+INV-000847,CHC-00910,Classic Milk Chocolate Coated Nuts,Asia Pacific Distribution Center,159,28,2026-07-03,In Stock
+INV-000848,CHC-00238,Original Ruby Chocolate Chips (Baking),Latin America Distribution Center,417,145,2026-06-21,In Stock
+INV-000849,CHC-00077,70% Intense Dark Chocolate Wafer Bar,North America Distribution Center,549,145,2026-07-25,In Stock
+INV-000850,CHC-00805,Single Origin Dark Chocolate Chips (Baking),Latin America Distribution Center,1271,396,2026-07-10,In Stock
+INV-000851,CHC-01479,Sea Salt Milk Chocolate Coated Nuts,Asia Pacific Distribution Center,472,143,2026-06-09,In Stock
+INV-000852,CHC-01386,Oat Milk Blend Vegan Dark Chocolate Drops,North America Distribution Center,598,147,2026-07-01,In Stock
+INV-000853,CHC-00454,Biscuit Milk Chocolate Pralines,Middle East & Africa Distribution Center,413,105,2026-07-12,In Stock
+INV-000854,CHC-00600,Diabetic Friendly Sugar-Free Chocolate Pralines,Europe Distribution Center,1158,274,2026-07-15,In Stock
+INV-000855,CHC-01066,Honeycomb Milk Chocolate Truffle Box,Latin America Distribution Center,327,102,2026-06-24,In Stock
+INV-000856,CHC-00604,Roasted Almond Chocolate Chips (Baking),Europe Distribution Center,143,49,2026-07-21,In Stock
+INV-000857,CHC-01265,Gianduja Style Hazelnut Chocolate Pralines,Asia Pacific Distribution Center,690,236,2026-07-14,In Stock
+INV-000858,CHC-00435,Honeycomb Milk Chocolate Truffle Box,Latin America Distribution Center,560,131,2026-06-28,In Stock
+INV-000859,CHC-00197,Citrus Ruby Chocolate Filled Bar,Asia Pacific Distribution Center,147,26,2026-07-13,In Stock
+INV-000860,CHC-00079,Classic Milk Chocolate Coated Nuts,Europe Distribution Center,233,72,2026-07-30,In Stock
+INV-000861,CHC-00296,Single Origin Dark Chocolate Filled Bar,Europe Distribution Center,2568,843,2026-06-05,In Stock
+INV-000862,CHC-01056,Biscuit Milk Chocolate Filled Bar,Asia Pacific Distribution Center,545,113,2026-08-02,In Stock
+INV-000863,CHC-00510,Oat Milk Blend Vegan Dark Chocolate Gift Box,Europe Distribution Center,1947,676,2026-07-23,In Stock
+INV-000864,CHC-00052,85% Extra Bold Dark Chocolate Pralines,Middle East & Africa Distribution Center,392,129,2026-06-27,In Stock
+INV-000865,CHC-00032,Espresso Infused Dark Chocolate Truffle Box,Latin America Distribution Center,621,175,2026-07-03,In Stock
+INV-000866,CHC-00097,Whole Hazelnut Chocolate Chips (Baking),Latin America Distribution Center,322,60,2026-06-26,In Stock
+INV-000867,CHC-00920,Plant-Based Classic Vegan Dark Chocolate Pralines,Asia Pacific Distribution Center,99,30,2026-07-28,In Stock
+INV-000868,CHC-00504,Soft Caramel Core Chocolate Wafer Bar,Europe Distribution Center,575,128,2026-07-01,In Stock
+INV-000869,CHC-00993,Espresso Infused Dark Chocolate Coated Nuts,Latin America Distribution Center,593,89,2026-07-18,In Stock
+INV-000870,CHC-01471,Lemon Zest White Chocolate Wafer Bar,Europe Distribution Center,616,213,2026-07-02,In Stock
+INV-000871,CHC-01258,Marzipan Style Almond Chocolate Squares,Latin America Distribution Center,316,49,2026-07-06,In Stock
+INV-000872,CHC-00741,Coconut White Chocolate Gift Box,North America Distribution Center,320,69,2026-07-19,In Stock
+INV-000873,CHC-01299,Organic Fair-Trade Chocolate Gift Box,Europe Distribution Center,294,79,2026-06-23,In Stock
+INV-000874,CHC-01467,Gianduja Style Hazelnut Chocolate Squares,Latin America Distribution Center,257,54,2026-06-07,In Stock
+INV-000875,CHC-00857,Biscuit Milk Chocolate Drops,Middle East & Africa Distribution Center,345,111,2026-06-25,In Stock
+INV-000876,CHC-01360,Cranberry Walnut Fruit & Nut Chocolate Gift Box,Middle East & Africa Distribution Center,630,106,2026-07-06,In Stock
+INV-000877,CHC-00596,Sea Salt Caramel Chocolate Filled Bar,Europe Distribution Center,188,57,2026-07-14,In Stock
+INV-000878,CHC-01073,Honeycomb Milk Chocolate Drops,Europe Distribution Center,888,169,2026-07-15,In Stock
+INV-000879,CHC-01500,Praline Hazelnut Chocolate Drops,Europe Distribution Center,333,85,2026-07-10,In Stock
+INV-000880,CHC-00522,Biscuit Milk Chocolate Chips (Baking),North America Distribution Center,697,138,2026-06-05,In Stock
+INV-000881,CHC-00516,Biscuit Milk Chocolate Coated Nuts,Europe Distribution Center,164,39,2026-06-16,In Stock
+INV-000882,CHC-00945,Biscuit Milk Chocolate Chips (Baking),Europe Distribution Center,928,179,2026-06-11,In Stock
+INV-000883,CHC-00204,Stevia Sweetened Sugar-Free Chocolate Squares,Asia Pacific Distribution Center,556,174,2026-07-10,In Stock
+INV-000884,CHC-00415,Tropical Mix Fruit & Nut Chocolate Filled Bar,Europe Distribution Center,862,248,2026-06-18,In Stock
+INV-000885,CHC-00620,Bakers Classic Compound Chocolate Chips (Baking),Europe Distribution Center,199,59,2026-06-09,In Stock
+INV-000886,CHC-00293,Coconut White Chocolate Squares,Europe Distribution Center,258,86,2026-07-30,In Stock
+INV-000887,CHC-00943,Praline Hazelnut Chocolate Coated Nuts,Europe Distribution Center,363,92,2026-06-24,In Stock
+INV-000888,CHC-01361,Almond Crunch Chocolate Filled Bar,Latin America Distribution Center,351,115,2026-07-30,In Stock
+INV-000889,CHC-01126,Vanilla Bean White Chocolate Drops,Latin America Distribution Center,620,121,2026-06-08,In Stock
+INV-000890,CHC-00191,Classic Sugar-Free Chocolate Filled Bar,Asia Pacific Distribution Center,911,289,2026-07-16,In Stock
+INV-000891,CHC-01222,Soft Caramel Core Chocolate Chips (Baking),Latin America Distribution Center,779,235,2026-06-20,In Stock
+INV-000892,CHC-00831,Citrus Ruby Chocolate Bar,Latin America Distribution Center,312,75,2026-06-24,In Stock
+INV-000893,CHC-00835,70% Intense Dark Chocolate Bar,Europe Distribution Center,150,51,2026-06-28,In Stock
+INV-000894,CHC-00234,Coconut Sugar Vegan Dark Chocolate Drops,Europe Distribution Center,371,78,2026-06-23,In Stock
+INV-000895,CHC-00681,Coconut White Chocolate Squares,Asia Pacific Distribution Center,96,24,2026-07-04,In Stock
+INV-000896,CHC-00536,Soft Caramel Core Chocolate Truffle Box,Asia Pacific Distribution Center,328,63,2026-06-21,In Stock
+INV-000897,CHC-00947,Citrus Ruby Chocolate Bar,Middle East & Africa Distribution Center,609,113,2026-06-30,In Stock
+INV-000898,CHC-00092,Praline Hazelnut Chocolate Squares,Latin America Distribution Center,129,30,2026-06-05,In Stock
+INV-000899,CHC-01197,Espresso Infused Dark Chocolate Wafer Bar,Latin America Distribution Center,399,86,2026-07-21,In Stock
+INV-000900,CHC-00395,Espresso Infused Dark Chocolate Gift Box,Middle East & Africa Distribution Center,227,77,2026-07-11,In Stock
+INV-000901,CHC-01332,Raisin & Almond Fruit & Nut Chocolate Gift Box,Europe Distribution Center,294,95,2026-07-06,In Stock
+INV-000902,CHC-00207,Classic Sugar-Free Chocolate Truffle Box,North America Distribution Center,519,98,2026-06-15,In Stock
+INV-000903,CHC-01271,Roasted Almond Chocolate Drops,North America Distribution Center,441,115,2026-07-20,In Stock
+INV-000904,CHC-01187,Classic Milk Chocolate Bar,Middle East & Africa Distribution Center,3115,983,2026-06-11,In Stock
+INV-000905,CHC-00719,Coconut White Chocolate Truffle Box,Middle East & Africa Distribution Center,2610,482,2026-07-13,In Stock
+INV-000906,CHC-01317,Confectionery Grade Compound Chocolate Bar,Asia Pacific Distribution Center,342,58,2026-07-12,In Stock
+INV-000907,CHC-00858,85% Extra Bold Dark Chocolate Wafer Bar,Europe Distribution Center,169,45,2026-06-30,In Stock
+INV-000908,CHC-00020,Lemon Zest White Chocolate Chips (Baking),Europe Distribution Center,450,105,2026-06-17,In Stock
+INV-000909,CHC-00628,Gianduja Style Hazelnut Chocolate Squares,Middle East & Africa Distribution Center,250,59,2026-07-18,In Stock
+INV-000910,CHC-01046,Whole Hazelnut Chocolate Pralines,Europe Distribution Center,209,40,2026-06-16,In Stock
+INV-000911,CHC-00941,Classic Sugar-Free Chocolate Truffle Box,Europe Distribution Center,287,99,2026-07-21,In Stock
+INV-000912,CHC-00199,Praline Hazelnut Chocolate Wafer Bar,Middle East & Africa Distribution Center,576,106,2026-07-09,In Stock
+INV-000913,CHC-00839,Cranberry Walnut Fruit & Nut Chocolate Bar,Europe Distribution Center,294,93,2026-07-04,In Stock
+INV-000914,CHC-01330,Praline Hazelnut Chocolate Chips (Baking),Latin America Distribution Center,77,15,2026-07-15,In Stock
+INV-000915,CHC-01123,Bakers Classic Compound Chocolate Truffle Box,Latin America Distribution Center,144,30,2026-06-29,In Stock
+INV-000916,CHC-00683,Praline Hazelnut Chocolate Filled Bar,Latin America Distribution Center,509,162,2026-07-21,In Stock
+INV-000917,CHC-01012,Bakers Classic Compound Chocolate Squares,Europe Distribution Center,1033,295,2026-06-30,In Stock
+INV-000918,CHC-01144,Cranberry Walnut Fruit & Nut Chocolate Filled Bar,Asia Pacific Distribution Center,856,132,2026-06-23,In Stock
+INV-000919,CHC-00661,Sea Salt Caramel Chocolate Truffle Box,Middle East & Africa Distribution Center,628,104,2026-06-08,In Stock
+INV-000920,CHC-00532,Bakers Classic Compound Chocolate Coated Nuts,Latin America Distribution Center,1020,161,2026-06-21,In Stock
+INV-000921,CHC-00694,Tropical Mix Fruit & Nut Chocolate Drops,Asia Pacific Distribution Center,447,72,2026-07-27,In Stock
+INV-000922,CHC-00044,Raspberry Swirl White Chocolate Chips (Baking),North America Distribution Center,209,70,2026-07-04,In Stock
+INV-000923,CHC-01004,Cranberry Walnut Fruit & Nut Chocolate Squares,Middle East & Africa Distribution Center,335,89,2026-07-20,In Stock
+INV-000924,CHC-00650,Gianduja Style Hazelnut Chocolate Chips (Baking),Europe Distribution Center,487,74,2026-07-20,In Stock
+INV-000925,CHC-00642,Sea Salt Milk Chocolate Squares,Asia Pacific Distribution Center,179,51,2026-07-17,In Stock
+INV-000926,CHC-01179,Single Origin Dark Chocolate Filled Bar,Europe Distribution Center,249,54,2026-07-17,In Stock
+INV-000927,CHC-01112,Berry Burst Ruby Chocolate Chips (Baking),North America Distribution Center,407,83,2026-07-20,In Stock
+INV-000928,CHC-00341,Organic Single Origin Chocolate Squares,Europe Distribution Center,426,83,2026-06-26,In Stock
+INV-000929,CHC-00760,Raspberry Swirl White Chocolate Bar,Latin America Distribution Center,935,255,2026-06-18,In Stock
+INV-000930,CHC-00190,70% Intense Dark Chocolate Gift Box,Middle East & Africa Distribution Center,879,275,2026-06-15,In Stock
+INV-000931,CHC-01219,Espresso Infused Dark Chocolate Squares,Europe Distribution Center,505,105,2026-06-16,In Stock
+INV-000932,CHC-01215,Sea Salt Caramel Chocolate Squares,Asia Pacific Distribution Center,1615,534,2026-07-18,In Stock
+INV-000933,CHC-00528,Single Origin Dark Chocolate Chips (Baking),Europe Distribution Center,495,128,2026-06-30,In Stock
+INV-000934,CHC-01207,Confectionery Grade Compound Chocolate Gift Box,Latin America Distribution Center,942,202,2026-08-01,In Stock
+INV-000935,CHC-00999,Single Origin Dark Chocolate Coated Nuts,Europe Distribution Center,1746,397,2026-07-23,In Stock
+INV-000936,CHC-00857,Biscuit Milk Chocolate Drops,Europe Distribution Center,201,48,2026-07-29,In Stock
+INV-000937,CHC-00604,Roasted Almond Chocolate Chips (Baking),Europe Distribution Center,253,72,2026-07-20,In Stock
+INV-000938,CHC-01486,Classic Sugar-Free Chocolate Bar,Europe Distribution Center,219,50,2026-07-28,In Stock
+INV-000939,CHC-00055,Classic Milk Chocolate Drops,Europe Distribution Center,432,94,2026-07-10,In Stock
+INV-000940,CHC-00239,85% Extra Bold Dark Chocolate Filled Bar,Asia Pacific Distribution Center,290,85,2026-07-20,In Stock
+INV-000941,CHC-00362,Whole Hazelnut Chocolate Pralines,North America Distribution Center,148,26,2026-06-19,In Stock
+INV-000942,CHC-01343,Gianduja Style Hazelnut Chocolate Drops,Europe Distribution Center,549,155,2026-06-07,In Stock
+INV-000943,CHC-00169,Diabetic Friendly Sugar-Free Chocolate Bar,Europe Distribution Center,218,66,2026-07-08,In Stock
+INV-000944,CHC-00218,70% Intense Dark Chocolate Truffle Box,Latin America Distribution Center,231,74,2026-07-10,In Stock
+INV-000945,CHC-00625,Single Origin Dark Chocolate Gift Box,Europe Distribution Center,399,118,2026-07-22,In Stock
+INV-000946,CHC-01459,Roasted Almond Chocolate Drops,North America Distribution Center,470,90,2026-07-13,In Stock
+INV-000947,CHC-00091,Sea Salt Caramel Chocolate Bar,Latin America Distribution Center,630,123,2026-07-12,In Stock
+INV-000948,CHC-01484,Almond Crunch Chocolate Truffle Box,Europe Distribution Center,152,28,2026-07-05,In Stock
+INV-000949,CHC-00833,Cranberry Walnut Fruit & Nut Chocolate Drops,Europe Distribution Center,524,128,2026-06-19,In Stock
+INV-000950,CHC-00947,Citrus Ruby Chocolate Bar,Europe Distribution Center,381,85,2026-06-28,In Stock
+INV-000951,CHC-01493,Bakers Classic Compound Chocolate Wafer Bar,Europe Distribution Center,190,36,2026-07-04,In Stock
+INV-000952,CHC-01078,Original Ruby Chocolate Truffle Box,Latin America Distribution Center,1531,339,2026-07-06,In Stock
+INV-000953,CHC-01305,Biscuit Milk Chocolate Pralines,Europe Distribution Center,678,126,2026-07-07,In Stock
+INV-000954,CHC-00504,Soft Caramel Core Chocolate Wafer Bar,Latin America Distribution Center,1173,295,2026-07-10,In Stock
+INV-000955,CHC-00661,Sea Salt Caramel Chocolate Truffle Box,Europe Distribution Center,532,142,2026-07-09,In Stock
+INV-000956,CHC-01407,Tropical Mix Fruit & Nut Chocolate Truffle Box,Europe Distribution Center,202,47,2026-07-28,In Stock
+INV-000957,CHC-00357,Lemon Zest White Chocolate Drops,North America Distribution Center,303,93,2026-07-10,In Stock
+INV-000958,CHC-00814,Honeycomb Milk Chocolate Truffle Box,Asia Pacific Distribution Center,585,185,2026-07-14,In Stock
+INV-000959,CHC-00808,Raspberry Swirl White Chocolate Filled Bar,Asia Pacific Distribution Center,230,44,2026-06-14,In Stock
+INV-000960,CHC-00344,Espresso Infused Dark Chocolate Squares,Latin America Distribution Center,588,148,2026-06-21,In Stock
+INV-000961,CHC-01496,Sea Salt Caramel Chocolate Wafer Bar,Europe Distribution Center,470,151,2026-07-05,In Stock
+INV-000962,CHC-00151,Almond Crunch Chocolate Gift Box,Europe Distribution Center,825,212,2026-07-21,In Stock
+INV-000963,CHC-01316,Honeycomb Milk Chocolate Drops,Middle East & Africa Distribution Center,252,77,2026-07-08,In Stock
+INV-000964,CHC-01446,70% Intense Dark Chocolate Filled Bar,Europe Distribution Center,91,16,2026-07-27,In Stock
+INV-000965,CHC-00828,Soft Caramel Core Chocolate Squares,Middle East & Africa Distribution Center,254,46,2026-06-29,In Stock
+INV-000966,CHC-00690,Single Origin Dark Chocolate Truffle Box,Europe Distribution Center,739,210,2026-07-27,In Stock
+INV-000967,CHC-01068,Vanilla Bean White Chocolate Filled Bar,Latin America Distribution Center,547,187,2026-06-15,In Stock
+INV-000968,CHC-00815,Honeycomb Milk Chocolate Chips (Baking),Asia Pacific Distribution Center,175,46,2026-06-13,In Stock
+INV-000969,CHC-00973,Organic Raw Cacao Chocolate Gift Box,Latin America Distribution Center,1007,254,2026-07-30,In Stock
+INV-000970,CHC-00729,Roasted Almond Chocolate Gift Box,Europe Distribution Center,367,104,2026-07-22,In Stock
+INV-000971,CHC-00245,Sea Salt Milk Chocolate Wafer Bar,North America Distribution Center,406,119,2026-07-08,In Stock
+INV-000972,CHC-00187,Roasted Almond Chocolate Drops,North America Distribution Center,589,175,2026-07-18,In Stock
+INV-000973,CHC-00813,Lemon Zest White Chocolate Filled Bar,Middle East & Africa Distribution Center,1615,404,2026-06-07,In Stock
+INV-000974,CHC-01059,Confectionery Grade Compound Chocolate Truffle Box,Middle East & Africa Distribution Center,350,113,2026-07-19,In Stock
+INV-000975,CHC-01135,Praline Hazelnut Chocolate Truffle Box,Europe Distribution Center,68,16,2026-06-09,In Stock
+INV-000976,CHC-00200,Biscuit Milk Chocolate Coated Nuts,North America Distribution Center,1017,277,2026-07-26,In Stock
+INV-000977,CHC-01256,Sea Salt Caramel Chocolate Pralines,Middle East & Africa Distribution Center,208,60,2026-06-26,In Stock
+INV-000978,CHC-00441,Lemon Zest White Chocolate Coated Nuts,Latin America Distribution Center,320,70,2026-06-07,In Stock
+INV-000979,CHC-00177,Berry Burst Ruby Chocolate Coated Nuts,Europe Distribution Center,1120,300,2026-07-02,In Stock
+INV-000980,CHC-00431,Salted Butter Caramel Chocolate Coated Nuts,Europe Distribution Center,267,53,2026-07-02,In Stock
+INV-000981,CHC-00596,Sea Salt Caramel Chocolate Filled Bar,North America Distribution Center,294,90,2026-07-18,In Stock
+INV-000982,CHC-01394,Citrus Ruby Chocolate Squares,Latin America Distribution Center,206,63,2026-07-12,In Stock
+INV-000983,CHC-01202,85% Extra Bold Dark Chocolate Coated Nuts,Latin America Distribution Center,541,141,2026-07-31,In Stock
+INV-000984,CHC-00067,Honeycomb Milk Chocolate Squares,Asia Pacific Distribution Center,380,105,2026-06-23,In Stock
+INV-000985,CHC-00190,70% Intense Dark Chocolate Gift Box,Europe Distribution Center,130,41,2026-07-24,In Stock
+INV-000986,CHC-00388,Praline Hazelnut Chocolate Chips (Baking),North America Distribution Center,1517,244,2026-07-29,In Stock
+INV-000987,CHC-00441,Lemon Zest White Chocolate Coated Nuts,Latin America Distribution Center,2380,826,2026-07-14,In Stock
+INV-000988,CHC-01006,Raspberry Swirl White Chocolate Filled Bar,Europe Distribution Center,275,90,2026-07-20,In Stock
+INV-000989,CHC-01333,Organic Raw Cacao Chocolate Pralines,Europe Distribution Center,327,83,2026-07-02,In Stock
+INV-000990,CHC-00797,70% Intense Dark Chocolate Coated Nuts,Asia Pacific Distribution Center,1176,240,2026-07-03,In Stock
+INV-000991,CHC-00478,Value Pack Compound Chocolate Squares,Middle East & Africa Distribution Center,281,85,2026-07-19,In Stock
+INV-000992,CHC-01379,Sea Salt Milk Chocolate Chips (Baking),Asia Pacific Distribution Center,303,66,2026-07-31,In Stock
+INV-000993,CHC-01278,Organic Single Origin Chocolate Truffle Box,Europe Distribution Center,126,35,2026-07-29,In Stock
+INV-000994,CHC-01058,Vanilla Bean White Chocolate Coated Nuts,Middle East & Africa Distribution Center,504,145,2026-06-22,In Stock
+INV-000995,CHC-00967,Raspberry Swirl White Chocolate Pralines,Europe Distribution Center,418,131,2026-06-10,In Stock
+INV-000996,CHC-00802,Single Origin Dark Chocolate Gift Box,Asia Pacific Distribution Center,734,253,2026-07-19,In Stock
+INV-000997,CHC-00842,Oat Milk Blend Vegan Dark Chocolate Drops,Europe Distribution Center,160,42,2026-06-24,In Stock
+INV-000998,CHC-00504,Soft Caramel Core Chocolate Wafer Bar,Middle East & Africa Distribution Center,1197,320,2026-07-05,In Stock
+INV-000999,CHC-01481,Cranberry Walnut Fruit & Nut Chocolate Truffle Box,Europe Distribution Center,290,95,2026-07-24,In Stock
+INV-001000,CHC-01422,Confectionery Grade Compound Chocolate Drops,North America Distribution Center,1047,240,2026-06-05,In Stock
+INV-001001,CHC-00642,Sea Salt Milk Chocolate Squares,Middle East & Africa Distribution Center,498,89,2026-07-20,In Stock
+INV-001002,CHC-00268,Whole Hazelnut Chocolate Coated Nuts,North America Distribution Center,826,210,2026-07-18,In Stock
+INV-001003,CHC-01397,85% Extra Bold Dark Chocolate Filled Bar,Europe Distribution Center,214,50,2026-06-24,In Stock
+INV-001004,CHC-00080,Honeycomb Milk Chocolate Bar,Europe Distribution Center,2489,485,2026-06-13,In Stock
+INV-001005,CHC-00697,Salted Butter Caramel Chocolate Filled Bar,Asia Pacific Distribution Center,277,63,2026-07-28,In Stock
+INV-001006,CHC-00965,Espresso Infused Dark Chocolate Drops,Latin America Distribution Center,275,47,2026-06-09,In Stock
+INV-001007,CHC-00509,85% Extra Bold Dark Chocolate Chips (Baking),Asia Pacific Distribution Center,159,26,2026-07-22,In Stock
+INV-001008,CHC-00699,Sea Salt Caramel Chocolate Wafer Bar,Asia Pacific Distribution Center,1373,318,2026-07-04,In Stock
+INV-001009,CHC-00187,Roasted Almond Chocolate Drops,North America Distribution Center,607,109,2026-07-28,In Stock
+INV-001010,CHC-00977,Single Origin Dark Chocolate Chips (Baking),Europe Distribution Center,309,98,2026-07-18,In Stock
+INV-001011,CHC-00069,Sea Salt Milk Chocolate Pralines,Asia Pacific Distribution Center,176,40,2026-06-08,In Stock
+INV-001012,CHC-00009,Confectionery Grade Compound Chocolate Drops,Latin America Distribution Center,528,106,2026-07-25,In Stock
+INV-001013,CHC-01309,Vanilla Bean White Chocolate Truffle Box,Europe Distribution Center,351,99,2026-06-06,In Stock
+INV-001014,CHC-00046,Plant-Based Classic Vegan Dark Chocolate Filled Bar,Europe Distribution Center,150,50,2026-08-02,In Stock
+INV-001015,CHC-00493,Soft Caramel Core Chocolate Bar,Latin America Distribution Center,717,125,2026-07-11,In Stock
+INV-001016,CHC-00048,Citrus Ruby Chocolate Filled Bar,Europe Distribution Center,1159,259,2026-06-22,In Stock
+INV-001017,CHC-00379,Biscuit Milk Chocolate Gift Box,North America Distribution Center,809,129,2026-06-18,In Stock
+INV-001018,CHC-01128,Honeycomb Milk Chocolate Gift Box,Europe Distribution Center,598,174,2026-07-27,In Stock
+INV-001019,CHC-00981,Classic Milk Chocolate Truffle Box,Middle East & Africa Distribution Center,168,51,2026-07-05,In Stock
+INV-001020,CHC-01393,Bakers Classic Compound Chocolate Wafer Bar,Middle East & Africa Distribution Center,588,120,2026-07-25,In Stock
+INV-001021,CHC-00531,Bakers Classic Compound Chocolate Bar,Europe Distribution Center,341,108,2026-06-28,In Stock
+INV-001022,CHC-00262,Biscuit Milk Chocolate Drops,Europe Distribution Center,645,225,2026-06-28,In Stock
+INV-001023,CHC-00314,Marzipan Style Almond Chocolate Gift Box,North America Distribution Center,445,98,2026-06-14,In Stock
+INV-001024,CHC-00465,Diabetic Friendly Sugar-Free Chocolate Wafer Bar,Europe Distribution Center,440,68,2026-07-16,In Stock
+INV-001025,CHC-00644,Almond Crunch Chocolate Truffle Box,North America Distribution Center,483,102,2026-07-01,In Stock
+INV-001026,CHC-00425,Almond Crunch Chocolate Chips (Baking),Europe Distribution Center,506,129,2026-06-19,In Stock
+INV-001027,CHC-00792,Lemon Zest White Chocolate Wafer Bar,Europe Distribution Center,477,107,2026-07-05,In Stock
+INV-001028,CHC-00085,Classic Milk Chocolate Bar,Middle East & Africa Distribution Center,554,155,2026-07-13,In Stock
+INV-001029,CHC-00519,Cranberry Walnut Fruit & Nut Chocolate Pralines,North America Distribution Center,590,127,2026-06-07,In Stock
+INV-001030,CHC-01334,85% Extra Bold Dark Chocolate Coated Nuts,Asia Pacific Distribution Center,241,69,2026-07-14,In Stock
+INV-001031,CHC-01147,Confectionery Grade Compound Chocolate Gift Box,Middle East & Africa Distribution Center,196,61,2026-08-02,In Stock
+INV-001032,CHC-00960,70% Intense Dark Chocolate Filled Bar,Europe Distribution Center,1584,358,2026-06-29,In Stock
+INV-001033,CHC-00247,Oat Milk Blend Vegan Dark Chocolate Bar,Europe Distribution Center,332,72,2026-06-14,In Stock
+INV-001034,CHC-01285,85% Extra Bold Dark Chocolate Wafer Bar,Asia Pacific Distribution Center,431,92,2026-07-17,In Stock
+INV-001035,CHC-00693,Espresso Infused Dark Chocolate Filled Bar,Latin America Distribution Center,447,128,2026-06-14,In Stock
+INV-001036,CHC-01036,Honeycomb Milk Chocolate Truffle Box,Europe Distribution Center,184,54,2026-07-20,In Stock
+INV-001037,CHC-01029,Original Ruby Chocolate Bar,Middle East & Africa Distribution Center,939,182,2026-06-07,In Stock
+INV-001038,CHC-00696,85% Extra Bold Dark Chocolate Coated Nuts,Europe Distribution Center,542,187,2026-07-16,In Stock
+INV-001039,CHC-00182,Lemon Zest White Chocolate Chips (Baking),North America Distribution Center,171,44,2026-07-06,In Stock
+INV-001040,CHC-00243,Coconut Sugar Vegan Dark Chocolate Coated Nuts,Asia Pacific Distribution Center,273,71,2026-06-21,In Stock
+INV-001041,CHC-01086,Honeycomb Milk Chocolate Filled Bar,Asia Pacific Distribution Center,583,88,2026-07-10,In Stock
+INV-001042,CHC-00481,Honeycomb Milk Chocolate Pralines,North America Distribution Center,520,84,2026-06-12,In Stock
+INV-001043,CHC-00229,Cranberry Walnut Fruit & Nut Chocolate Wafer Bar,Middle East & Africa Distribution Center,260,68,2026-07-19,In Stock
+INV-001044,CHC-01079,Organic Fair-Trade Chocolate Squares,North America Distribution Center,299,97,2026-07-12,In Stock
+INV-001045,CHC-00113,Biscuit Milk Chocolate Gift Box,Europe Distribution Center,588,127,2026-06-11,In Stock
+INV-001046,CHC-00632,Honeycomb Milk Chocolate Bar,Asia Pacific Distribution Center,169,54,2026-07-01,In Stock
+INV-001047,CHC-00237,Classic Milk Chocolate Squares,Latin America Distribution Center,384,113,2026-06-09,In Stock
+INV-001048,CHC-01488,Coconut White Chocolate Squares,North America Distribution Center,915,299,2026-07-31,In Stock
+INV-001049,CHC-00306,Organic Single Origin Chocolate Filled Bar,Europe Distribution Center,380,74,2026-06-28,In Stock
+INV-001050,CHC-00384,Bakers Classic Compound Chocolate Gift Box,Asia Pacific Distribution Center,377,60,2026-06-28,In Stock
+INV-001051,CHC-00248,Confectionery Grade Compound Chocolate Gift Box,Middle East & Africa Distribution Center,1259,395,2026-07-15,In Stock
+INV-001052,CHC-01309,Vanilla Bean White Chocolate Truffle Box,Europe Distribution Center,726,118,2026-06-22,In Stock
+INV-001053,CHC-00981,Classic Milk Chocolate Truffle Box,North America Distribution Center,103,31,2026-07-16,In Stock
+INV-001054,CHC-01067,85% Extra Bold Dark Chocolate Chips (Baking),Europe Distribution Center,220,39,2026-07-20,In Stock
+INV-001055,CHC-00538,Sea Salt Milk Chocolate Truffle Box,Europe Distribution Center,214,38,2026-07-27,In Stock
+INV-001056,CHC-00937,Citrus Ruby Chocolate Gift Box,Europe Distribution Center,1300,438,2026-07-21,In Stock
+INV-001057,CHC-00694,Tropical Mix Fruit & Nut Chocolate Drops,Europe Distribution Center,1295,436,2026-07-07,In Stock
+INV-001058,CHC-01149,Classic Milk Chocolate Truffle Box,Europe Distribution Center,357,55,2026-06-09,In Stock
+INV-001059,CHC-00174,Honeycomb Milk Chocolate Pralines,Middle East & Africa Distribution Center,130,29,2026-07-12,In Stock
+INV-001060,CHC-01472,Honeycomb Milk Chocolate Truffle Box,Asia Pacific Distribution Center,465,149,2026-07-17,In Stock
+INV-001061,CHC-00022,Classic Milk Chocolate Truffle Box,Asia Pacific Distribution Center,789,236,2026-06-10,In Stock
+INV-001062,CHC-00579,70% Intense Dark Chocolate Pralines,Europe Distribution Center,3153,840,2026-07-13,In Stock
+INV-001063,CHC-00371,Soft Caramel Core Chocolate Pralines,Europe Distribution Center,259,76,2026-06-26,In Stock
+INV-001064,CHC-00530,Cranberry Walnut Fruit & Nut Chocolate Chips (Baking),Europe Distribution Center,524,133,2026-07-20,In Stock
+INV-001065,CHC-01471,Lemon Zest White Chocolate Wafer Bar,Middle East & Africa Distribution Center,372,60,2026-07-06,In Stock
+INV-001066,CHC-01031,Gianduja Style Hazelnut Chocolate Gift Box,Europe Distribution Center,113,32,2026-06-24,In Stock
+INV-001067,CHC-00595,Single Origin Dark Chocolate Gift Box,Asia Pacific Distribution Center,595,90,2026-06-17,In Stock
+INV-001068,CHC-00257,Confectionery Grade Compound Chocolate Coated Nuts,Asia Pacific Distribution Center,401,106,2026-06-17,In Stock
+INV-001069,CHC-00967,Raspberry Swirl White Chocolate Pralines,Middle East & Africa Distribution Center,549,149,2026-06-14,In Stock
+INV-001070,CHC-01005,85% Extra Bold Dark Chocolate Filled Bar,North America Distribution Center,1259,254,2026-08-01,In Stock
+INV-001071,CHC-01321,Sea Salt Caramel Chocolate Wafer Bar,Europe Distribution Center,91,22,2026-07-30,In Stock
+INV-001072,CHC-00204,Stevia Sweetened Sugar-Free Chocolate Squares,Asia Pacific Distribution Center,86,13,2026-08-01,In Stock
+INV-001073,CHC-00728,Organic Raw Cacao Chocolate Filled Bar,Asia Pacific Distribution Center,342,66,2026-07-23,In Stock
+INV-001074,CHC-01387,Praline Hazelnut Chocolate Coated Nuts,North America Distribution Center,542,170,2026-07-26,In Stock
+INV-001075,CHC-00419,Sea Salt Caramel Chocolate Truffle Box,Europe Distribution Center,648,220,2026-06-22,In Stock
+INV-001076,CHC-01049,Lemon Zest White Chocolate Squares,North America Distribution Center,144,29,2026-06-20,In Stock
+INV-001077,CHC-01286,Espresso Infused Dark Chocolate Drops,Europe Distribution Center,317,90,2026-06-07,In Stock
+INV-001078,CHC-00431,Salted Butter Caramel Chocolate Coated Nuts,Middle East & Africa Distribution Center,1201,192,2026-06-29,In Stock
+INV-001079,CHC-00487,Tropical Mix Fruit & Nut Chocolate Truffle Box,North America Distribution Center,211,54,2026-06-22,In Stock
+INV-001080,CHC-00593,Soft Caramel Core Chocolate Wafer Bar,Asia Pacific Distribution Center,199,55,2026-06-29,In Stock
+INV-001081,CHC-00777,Sea Salt Milk Chocolate Coated Nuts,North America Distribution Center,1359,396,2026-07-30,In Stock
+INV-001082,CHC-00643,Confectionery Grade Compound Chocolate Pralines,Latin America Distribution Center,372,127,2026-06-15,In Stock
+INV-001083,CHC-00737,Sea Salt Caramel Chocolate Coated Nuts,Latin America Distribution Center,57,14,2026-07-21,In Stock
+INV-001084,CHC-00522,Biscuit Milk Chocolate Chips (Baking),Asia Pacific Distribution Center,576,187,2026-06-08,In Stock
+INV-001085,CHC-01331,Single Origin Dark Chocolate Drops,North America Distribution Center,62,16,2026-07-13,In Stock
+INV-001086,CHC-00105,70% Intense Dark Chocolate Chips (Baking),North America Distribution Center,154,26,2026-08-02,In Stock
+INV-001087,CHC-00156,Plant-Based Classic Vegan Dark Chocolate Filled Bar,Latin America Distribution Center,117,18,2026-06-28,In Stock
+INV-001088,CHC-01315,Almond Crunch Chocolate Drops,Asia Pacific Distribution Center,630,167,2026-07-10,In Stock
+INV-001089,CHC-00688,Raspberry Swirl White Chocolate Bar,Latin America Distribution Center,236,43,2026-07-18,In Stock
+INV-001090,CHC-01128,Honeycomb Milk Chocolate Gift Box,Europe Distribution Center,208,39,2026-06-15,In Stock
+INV-001091,CHC-00160,Marzipan Style Almond Chocolate Filled Bar,North America Distribution Center,222,56,2026-08-02,In Stock
+INV-001092,CHC-01053,Berry Burst Ruby Chocolate Gift Box,Europe Distribution Center,875,210,2026-07-24,In Stock
+INV-001093,CHC-00168,Original Ruby Chocolate Drops,Europe Distribution Center,256,50,2026-06-14,In Stock
+INV-001094,CHC-01437,Almond Crunch Chocolate Pralines,Middle East & Africa Distribution Center,181,38,2026-07-10,In Stock
+INV-001095,CHC-01479,Sea Salt Milk Chocolate Coated Nuts,North America Distribution Center,363,106,2026-06-17,In Stock
+INV-001096,CHC-00161,Single Origin Dark Chocolate Chips (Baking),Europe Distribution Center,449,92,2026-07-31,In Stock
+INV-001097,CHC-01105,Biscuit Milk Chocolate Wafer Bar,Asia Pacific Distribution Center,775,147,2026-07-05,In Stock
+INV-001098,CHC-00326,Roasted Almond Chocolate Chips (Baking),Asia Pacific Distribution Center,186,58,2026-06-27,In Stock
+INV-001099,CHC-00842,Oat Milk Blend Vegan Dark Chocolate Drops,Latin America Distribution Center,2051,501,2026-07-16,In Stock
+INV-001100,CHC-01388,70% Intense Dark Chocolate Filled Bar,Latin America Distribution Center,1338,430,2026-07-05,In Stock
+INV-001101,CHC-00786,Cranberry Walnut Fruit & Nut Chocolate Drops,North America Distribution Center,379,98,2026-07-16,In Stock
+INV-001102,CHC-00825,85% Extra Bold Dark Chocolate Gift Box,Middle East & Africa Distribution Center,105,36,2026-06-29,In Stock
+INV-001103,CHC-00949,Tropical Mix Fruit & Nut Chocolate Squares,Middle East & Africa Distribution Center,563,157,2026-07-18,In Stock
+INV-001104,CHC-00332,Whole Hazelnut Chocolate Bar,Europe Distribution Center,483,121,2026-06-17,In Stock
+INV-001105,CHC-00117,Sea Salt Caramel Chocolate Filled Bar,Asia Pacific Distribution Center,326,102,2026-06-20,In Stock
+INV-001106,CHC-00695,Diabetic Friendly Sugar-Free Chocolate Drops,Asia Pacific Distribution Center,139,32,2026-07-05,In Stock
+INV-001107,CHC-00173,Stevia Sweetened Sugar-Free Chocolate Drops,Europe Distribution Center,670,136,2026-06-29,In Stock
+INV-001108,CHC-00387,Original Ruby Chocolate Bar,Latin America Distribution Center,926,217,2026-07-09,In Stock
+INV-001109,CHC-00577,Tropical Mix Fruit & Nut Chocolate Bar,North America Distribution Center,1121,345,2026-07-04,In Stock
+INV-001110,CHC-00177,Berry Burst Ruby Chocolate Coated Nuts,Europe Distribution Center,124,25,2026-07-07,In Stock
+INV-001111,CHC-00770,Stevia Sweetened Sugar-Free Chocolate Squares,Latin America Distribution Center,563,130,2026-07-09,In Stock
+INV-001112,CHC-00642,Sea Salt Milk Chocolate Squares,North America Distribution Center,2298,351,2026-07-11,In Stock
+INV-001113,CHC-00645,85% Extra Bold Dark Chocolate Filled Bar,Asia Pacific Distribution Center,256,69,2026-07-02,In Stock
+INV-001114,CHC-00332,Whole Hazelnut Chocolate Bar,Asia Pacific Distribution Center,1603,529,2026-07-19,In Stock
+INV-001115,CHC-01158,Almond Crunch Chocolate Chips (Baking),Europe Distribution Center,309,65,2026-07-07,In Stock
+INV-001116,CHC-00101,Biscuit Milk Chocolate Gift Box,Middle East & Africa Distribution Center,239,52,2026-07-08,In Stock
+INV-001117,CHC-00658,Whole Hazelnut Chocolate Wafer Bar,Asia Pacific Distribution Center,429,84,2026-07-30,In Stock
+INV-001118,CHC-01066,Honeycomb Milk Chocolate Truffle Box,Latin America Distribution Center,288,55,2026-07-24,In Stock
+INV-001119,CHC-01132,Coconut White Chocolate Bar,Middle East & Africa Distribution Center,1719,314,2026-06-17,In Stock
+INV-001120,CHC-01190,Classic Sugar-Free Chocolate Chips (Baking),Europe Distribution Center,776,218,2026-06-06,In Stock
+INV-001121,CHC-00040,Confectionery Grade Compound Chocolate Coated Nuts,Middle East & Africa Distribution Center,428,133,2026-07-22,In Stock
+INV-001122,CHC-00856,Sea Salt Caramel Chocolate Truffle Box,Middle East & Africa Distribution Center,501,160,2026-06-27,In Stock
+INV-001123,CHC-00549,Sea Salt Caramel Chocolate Gift Box,Europe Distribution Center,702,180,2026-07-07,In Stock
+INV-001124,CHC-00681,Coconut White Chocolate Squares,Latin America Distribution Center,253,67,2026-07-29,In Stock
+INV-001125,CHC-00561,70% Intense Dark Chocolate Drops,Europe Distribution Center,1161,252,2026-06-11,In Stock
+INV-001126,CHC-01427,Coconut Sugar Vegan Dark Chocolate Pralines,Latin America Distribution Center,1304,419,2026-07-17,In Stock
+INV-001127,CHC-00143,Soft Caramel Core Chocolate Coated Nuts,Asia Pacific Distribution Center,382,115,2026-07-18,In Stock
+INV-001128,CHC-00529,Oat Milk Blend Vegan Dark Chocolate Squares,Middle East & Africa Distribution Center,501,80,2026-06-12,In Stock
+INV-001129,CHC-00315,70% Intense Dark Chocolate Coated Nuts,Latin America Distribution Center,168,54,2026-06-16,In Stock
+INV-001130,CHC-01076,85% Extra Bold Dark Chocolate Coated Nuts,Europe Distribution Center,1033,226,2026-06-19,In Stock
+INV-001131,CHC-00385,Berry Burst Ruby Chocolate Gift Box,Europe Distribution Center,882,166,2026-06-24,In Stock
+INV-001132,CHC-01495,Sea Salt Caramel Chocolate Drops,North America Distribution Center,244,78,2026-07-15,In Stock
+INV-001133,CHC-00380,Sea Salt Milk Chocolate Wafer Bar,Latin America Distribution Center,1412,231,2026-06-17,In Stock
+INV-001134,CHC-00971,Cranberry Walnut Fruit & Nut Chocolate Truffle Box,Europe Distribution Center,938,264,2026-07-18,In Stock
+INV-001135,CHC-00985,Praline Hazelnut Chocolate Filled Bar,Europe Distribution Center,676,216,2026-07-09,In Stock
+INV-001136,CHC-00172,Marzipan Style Almond Chocolate Squares,Middle East & Africa Distribution Center,293,99,2026-07-24,In Stock
+INV-001137,CHC-00770,Stevia Sweetened Sugar-Free Chocolate Squares,Middle East & Africa Distribution Center,459,149,2026-07-29,In Stock
+INV-001138,CHC-01347,Cranberry Walnut Fruit & Nut Chocolate Bar,Europe Distribution Center,1134,370,2026-07-14,In Stock
+INV-001139,CHC-01343,Gianduja Style Hazelnut Chocolate Drops,Europe Distribution Center,654,213,2026-07-28,In Stock
+INV-001140,CHC-00263,Roasted Almond Chocolate Coated Nuts,Latin America Distribution Center,281,73,2026-07-20,In Stock
+INV-001141,CHC-01363,Stevia Sweetened Sugar-Free Chocolate Pralines,Asia Pacific Distribution Center,480,80,2026-08-02,In Stock
+INV-001142,CHC-00693,Espresso Infused Dark Chocolate Filled Bar,Latin America Distribution Center,357,90,2026-07-28,In Stock
+INV-001143,CHC-01123,Bakers Classic Compound Chocolate Truffle Box,Latin America Distribution Center,948,315,2026-07-19,In Stock
+INV-001144,CHC-01229,Salted Butter Caramel Chocolate Filled Bar,Asia Pacific Distribution Center,462,89,2026-07-23,In Stock
+INV-001145,CHC-01306,Classic Milk Chocolate Bar,Europe Distribution Center,175,59,2026-08-01,In Stock
+INV-001146,CHC-00455,Coconut White Chocolate Filled Bar,Europe Distribution Center,250,78,2026-07-07,In Stock
+INV-001147,CHC-01187,Classic Milk Chocolate Bar,Middle East & Africa Distribution Center,254,46,2026-07-13,In Stock
+INV-001148,CHC-01308,Berry Burst Ruby Chocolate Pralines,Middle East & Africa Distribution Center,918,255,2026-07-30,In Stock
+INV-001149,CHC-01177,Plant-Based Classic Vegan Dark Chocolate Filled Bar,Latin America Distribution Center,444,94,2026-06-09,In Stock
+INV-001150,CHC-01368,Marzipan Style Almond Chocolate Truffle Box,Asia Pacific Distribution Center,280,69,2026-07-03,In Stock
+INV-001151,CHC-01391,Single Origin Dark Chocolate Wafer Bar,Latin America Distribution Center,339,55,2026-07-28,In Stock
+INV-001152,CHC-00633,Soft Caramel Core Chocolate Filled Bar,Europe Distribution Center,2135,642,2026-06-22,In Stock
+INV-001153,CHC-00408,Salted Butter Caramel Chocolate Truffle Box,Asia Pacific Distribution Center,1017,241,2026-07-04,In Stock
+INV-001154,CHC-00722,Single Origin Dark Chocolate Gift Box,Latin America Distribution Center,424,122,2026-08-02,In Stock
+INV-001155,CHC-00865,Sea Salt Milk Chocolate Coated Nuts,Europe Distribution Center,158,52,2026-06-17,In Stock
+INV-001156,CHC-01484,Almond Crunch Chocolate Truffle Box,Latin America Distribution Center,830,143,2026-06-16,In Stock
+INV-001157,CHC-00891,Roasted Almond Chocolate Drops,Asia Pacific Distribution Center,479,158,2026-07-07,In Stock
+INV-001158,CHC-01400,Tropical Mix Fruit & Nut Chocolate Drops,Asia Pacific Distribution Center,301,74,2026-06-23,In Stock
+INV-001159,CHC-00488,Stevia Sweetened Sugar-Free Chocolate Gift Box,Europe Distribution Center,317,101,2026-07-03,In Stock
+INV-001160,CHC-00565,Roasted Almond Chocolate Pralines,Latin America Distribution Center,130,30,2026-07-20,In Stock
+INV-001161,CHC-00256,Classic Milk Chocolate Gift Box,North America Distribution Center,277,82,2026-06-17,In Stock
+INV-001162,CHC-00809,Classic Sugar-Free Chocolate Chips (Baking),North America Distribution Center,385,65,2026-06-24,In Stock
+INV-001163,CHC-01166,Cranberry Walnut Fruit & Nut Chocolate Truffle Box,Middle East & Africa Distribution Center,970,243,2026-06-24,In Stock
+INV-001164,CHC-00383,85% Extra Bold Dark Chocolate Pralines,Europe Distribution Center,987,176,2026-07-30,In Stock
+INV-001165,CHC-00133,Classic Sugar-Free Chocolate Truffle Box,Europe Distribution Center,291,88,2026-06-19,In Stock
+INV-001166,CHC-00181,Classic Milk Chocolate Coated Nuts,Europe Distribution Center,1049,227,2026-06-20,In Stock
+INV-001167,CHC-00844,85% Extra Bold Dark Chocolate Drops,Middle East & Africa Distribution Center,426,108,2026-06-12,In Stock
+INV-001168,CHC-01132,Coconut White Chocolate Bar,Middle East & Africa Distribution Center,204,64,2026-07-25,In Stock
+INV-001169,CHC-00924,Tropical Mix Fruit & Nut Chocolate Wafer Bar,Latin America Distribution Center,129,33,2026-06-18,In Stock
+INV-001170,CHC-00405,Organic Raw Cacao Chocolate Squares,Asia Pacific Distribution Center,196,36,2026-07-08,In Stock
+INV-001171,CHC-01464,Espresso Infused Dark Chocolate Truffle Box,Asia Pacific Distribution Center,121,24,2026-07-26,In Stock
+INV-001172,CHC-00339,Biscuit Milk Chocolate Bar,Europe Distribution Center,591,177,2026-07-07,In Stock
+INV-001173,CHC-01011,Organic Fair-Trade Chocolate Pralines,North America Distribution Center,45,10,2026-06-16,In Stock
+INV-001174,CHC-00628,Gianduja Style Hazelnut Chocolate Squares,Europe Distribution Center,739,220,2026-07-27,In Stock
+INV-001175,CHC-00021,Espresso Infused Dark Chocolate Wafer Bar,Europe Distribution Center,157,36,2026-06-06,In Stock
+INV-001176,CHC-00757,Raisin & Almond Fruit & Nut Chocolate Drops,Asia Pacific Distribution Center,247,81,2026-06-15,In Stock
+INV-001177,CHC-00191,Classic Sugar-Free Chocolate Filled Bar,Europe Distribution Center,169,46,2026-06-07,In Stock
+INV-001178,CHC-01469,Soft Caramel Core Chocolate Drops,Europe Distribution Center,1275,341,2026-06-20,In Stock
+INV-001179,CHC-00669,Plant-Based Classic Vegan Dark Chocolate Bar,Asia Pacific Distribution Center,302,80,2026-07-13,In Stock
+INV-001180,CHC-00447,Espresso Infused Dark Chocolate Gift Box,Asia Pacific Distribution Center,312,71,2026-06-09,In Stock
+INV-001181,CHC-00326,Roasted Almond Chocolate Chips (Baking),Asia Pacific Distribution Center,99,22,2026-06-22,In Stock
+INV-001182,CHC-00533,Gianduja Style Hazelnut Chocolate Pralines,Europe Distribution Center,1001,218,2026-06-28,In Stock
+INV-001183,CHC-01418,Coconut White Chocolate Pralines,North America Distribution Center,324,57,2026-06-20,In Stock
+INV-001184,CHC-00057,85% Extra Bold Dark Chocolate Filled Bar,Europe Distribution Center,180,34,2026-07-21,In Stock
+INV-001185,CHC-00124,Gianduja Style Hazelnut Chocolate Gift Box,Europe Distribution Center,308,85,2026-07-02,In Stock
+INV-001186,CHC-00683,Praline Hazelnut Chocolate Filled Bar,Europe Distribution Center,1311,398,2026-07-06,In Stock
+INV-001187,CHC-00347,Stevia Sweetened Sugar-Free Chocolate Gift Box,Latin America Distribution Center,251,56,2026-06-10,In Stock
+INV-001188,CHC-01200,Gianduja Style Hazelnut Chocolate Pralines,North America Distribution Center,275,84,2026-06-17,In Stock
+INV-001189,CHC-00741,Coconut White Chocolate Gift Box,Europe Distribution Center,171,26,2026-07-12,In Stock
+INV-001190,CHC-00714,Espresso Infused Dark Chocolate Squares,North America Distribution Center,285,68,2026-08-01,In Stock
+INV-001191,CHC-00140,Organic Single Origin Chocolate Coated Nuts,North America Distribution Center,1281,405,2026-06-10,In Stock
+INV-001192,CHC-00530,Cranberry Walnut Fruit & Nut Chocolate Chips (Baking),Asia Pacific Distribution Center,205,66,2026-07-06,In Stock
+INV-001193,CHC-00128,Berry Burst Ruby Chocolate Truffle Box,Latin America Distribution Center,458,97,2026-06-06,In Stock
+INV-001194,CHC-00299,Confectionery Grade Compound Chocolate Wafer Bar,Latin America Distribution Center,579,103,2026-06-11,In Stock
+INV-001195,CHC-00284,Sea Salt Milk Chocolate Truffle Box,Europe Distribution Center,236,81,2026-07-15,In Stock
+INV-001196,CHC-01282,Soft Caramel Core Chocolate Gift Box,Middle East & Africa Distribution Center,168,35,2026-06-06,In Stock
+INV-001197,CHC-01442,Salted Butter Caramel Chocolate Bar,Europe Distribution Center,719,154,2026-07-23,In Stock
+INV-001198,CHC-00497,Single Origin Dark Chocolate Squares,North America Distribution Center,302,81,2026-07-20,In Stock
+INV-001199,CHC-00988,Roasted Almond Chocolate Coated Nuts,Asia Pacific Distribution Center,639,104,2026-07-13,In Stock
+INV-001200,CHC-00915,Praline Hazelnut Chocolate Wafer Bar,North America Distribution Center,181,33,2026-07-02,In Stock

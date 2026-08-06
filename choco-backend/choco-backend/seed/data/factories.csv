@@ -1,0 +1,31 @@
+FactoryID,FactoryName,Location,Country,Region,CapacityTonsPerMonth,OutputTonsPerMonth,EmployeeCount,EfficiencyScore,Status
+FAC-001,Portland Factory A,Portland,USA,North America,575,446,187,88.8,Active
+FAC-002,Toronto Factory B,Toronto,Canada,North America,935,790,162,91.0,Active
+FAC-003,Guadalajara Factory C,Guadalajara,Mexico,North America,1492,1398,120,88.2,Maintenance
+FAC-004,Bruges Factory D,Bruges,Belgium,Europe,1468,1183,432,87.3,Maintenance
+FAC-005,Zurich Factory E,Zurich,Switzerland,Europe,1349,1224,309,93.4,Active
+FAC-006,Cologne Factory F,Cologne,Germany,Europe,1496,1210,377,89.5,Active
+FAC-007,Lyon Factory G,Lyon,France,Europe,1340,1089,191,82.5,Active
+FAC-008,Bristol Factory H,Bristol,United Kingdom,Europe,492,424,269,84.6,Active
+FAC-009,Amsterdam Factory I,Amsterdam,Netherlands,Europe,881,712,339,91.1,Active
+FAC-010,Turin Factory J,Turin,Italy,Europe,1141,1047,250,87.9,Active
+FAC-011,Pune Factory K,Pune,India,Asia Pacific,802,704,187,86.0,Active
+FAC-012,Shanghai Factory L,Shanghai,China,Asia Pacific,507,454,452,81.4,Active
+FAC-013,Osaka Factory M,Osaka,Japan,Asia Pacific,1054,1010,429,92.8,Active
+FAC-014,Melbourne Factory N,Melbourne,Australia,Asia Pacific,1407,1311,159,99.0,Active
+FAC-015,Jakarta Factory O,Jakarta,Indonesia,Asia Pacific,860,685,256,97.3,Active
+FAC-016,Sao Paulo Factory P,Sao Paulo,Brazil,Latin America,895,711,300,84.6,Maintenance
+FAC-017,Guayaquil Factory Q,Guayaquil,Ecuador,Latin America,429,356,372,88.4,Active
+FAC-018,Medellin Factory R,Medellin,Colombia,Latin America,843,711,469,94.4,Active
+FAC-019,Lima Factory S,Lima,Peru,Latin America,929,723,169,87.1,Active
+FAC-020,Accra Factory T,Accra,Ghana,Middle East & Africa,821,738,269,92.2,Active
+FAC-021,Abidjan Factory U,Abidjan,Cote d'Ivoire,Middle East & Africa,988,728,382,77.9,Maintenance
+FAC-022,Cape Town Factory V,Cape Town,South Africa,Middle East & Africa,876,790,367,77.4,Active
+FAC-023,Dubai Factory W,Dubai,UAE,Middle East & Africa,1332,1089,306,89.3,Active
+FAC-024,Hershey Falls Factory X,Hershey Falls,USA,North America,975,845,155,85.6,Active
+FAC-025,Montreal Factory Y,Montreal,Canada,North America,1029,910,281,90.0,Active
+FAC-026,Oaxaca Factory Z,Oaxaca,Mexico,North America,1273,1165,410,96.0,Active
+FAC-027,Antwerp Factory A,Antwerp,Belgium,Europe,583,497,385,80.7,Active
+FAC-028,Bern Factory B,Bern,Switzerland,Europe,1310,1230,273,99.0,Active
+FAC-029,Munich Factory C,Munich,Germany,Europe,1379,1240,184,83.1,Active
+FAC-030,Bordeaux Factory D,Bordeaux,France,Europe,939,805,367,90.5,Active

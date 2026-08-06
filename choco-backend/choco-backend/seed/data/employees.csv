@@ -1,0 +1,501 @@
+EmployeeID,FullName,Role,Department,FactoryName,Country,HireDate,AnnualSalaryUSD,PerformanceScore,Status
+EMP-00001,Chris Curtis,Quality Inspector,Quality Assurance,Osaka Factory M,Japan,2025-05-17,46483.8,87.4,Active
+EMP-00002,Joshua Diaz,Factory Manager,Management,Dubai Factory W,UAE,2024-08-03,97841.48,78.3,Active
+EMP-00003,Jordan Johnson,Factory Manager,Management,Antwerp Factory A,Belgium,2025-02-24,77649.84,92.8,Active
+EMP-00004,Benjamin Davis,Sustainability Analyst,Sustainability,Accra Factory T,Ghana,2023-08-07,67985.35,84.9,Active
+EMP-00005,Ronald Martinez,R&D Chocolatier,Research & Development,Abidjan Factory U,Cote d'Ivoire,2026-02-26,64783.47,99.6,Active
+EMP-00006,Mark Meza,Factory Manager,Management,Oaxaca Factory Z,Mexico,2025-05-14,90652.51,86.9,Active
+EMP-00007,Jennifer Cherry,Quality Inspector,Quality Assurance,Amsterdam Factory I,Netherlands,2022-03-17,34263.81,91.7,Active
+EMP-00008,Scott Roberts,R&D Chocolatier,Research & Development,Shanghai Factory L,China,2025-02-12,63367.13,100.0,Active
+EMP-00009,Bruce Parker,Quality Inspector,Quality Assurance,Shanghai Factory L,China,2021-08-07,40816.43,80.3,Active
+EMP-00010,Catherine Perkins,Sustainability Analyst,Sustainability,Sao Paulo Factory P,Brazil,2022-06-27,54339.62,85.6,Active
+EMP-00011,Jacqueline Kelley,Maintenance Technician,Maintenance,Guadalajara Factory C,Mexico,2022-01-11,42890.3,82.7,Active
+EMP-00012,Anthony Harris,Factory Manager,Management,Lyon Factory G,France,2023-07-10,72442.3,87.4,Active
+EMP-00013,Jessica Edwards,Factory Manager,Management,Jakarta Factory O,Indonesia,2024-11-10,92717.16,84.3,Active
+EMP-00014,Jody Evans,Factory Manager,Management,Osaka Factory M,Japan,2025-06-13,88487.94,82.0,Active
+EMP-00015,Melissa Sanchez,Production Operator,Production,Toronto Factory B,Canada,2023-07-09,38564.25,84.2,Active
+EMP-00016,Kelly Golden,Quality Inspector,Quality Assurance,Hershey Falls Factory X,USA,2025-12-29,36614.27,94.8,Active
+EMP-00017,Donna Baird,Logistics Coordinator,Logistics,Melbourne Factory N,Australia,2024-06-20,53166.43,99.1,Active
+EMP-00018,Jason Sherman,Packaging Associate,Packaging,Amsterdam Factory I,Netherlands,2020-07-18,34941.45,81.3,Active
+EMP-00019,John Williams,Production Operator,Production,Lima Factory S,Peru,2022-02-07,31923.36,90.6,Active
+EMP-00020,Pamela Berry,Procurement Officer,Procurement,Bordeaux Factory D,France,2022-10-28,58535.5,83.1,Active
+EMP-00021,Emily Dominguez,Procurement Officer,Procurement,Jakarta Factory O,Indonesia,2019-12-05,61685.23,79.7,Active
+EMP-00022,Lauren Bryant,R&D Chocolatier,Research & Development,Portland Factory A,USA,2025-10-30,67762.68,85.9,Active
+EMP-00023,Theresa Wells,Quality Inspector,Quality Assurance,Cape Town Factory V,South Africa,2024-05-01,44917.53,85.0,Active
+EMP-00024,Amy Miles,Line Supervisor,Production,Cologne Factory F,Germany,2026-05-29,51161.99,63.2,Active
+EMP-00025,Wendy Short,Logistics Coordinator,Logistics,Toronto Factory B,Canada,2025-03-26,39320.9,68.2,Active
+EMP-00026,James Barnett,Maintenance Technician,Maintenance,Bordeaux Factory D,France,2020-09-09,50695.16,75.1,On Leave
+EMP-00027,Joel Jackson,Logistics Coordinator,Logistics,Bruges Factory D,Belgium,2021-06-13,38514.64,86.7,Active
+EMP-00028,Anthony Tate,Factory Manager,Management,Abidjan Factory U,Cote d'Ivoire,2022-07-05,70302.18,79.5,Active
+EMP-00029,David Myers,Production Operator,Production,Osaka Factory M,Japan,2021-07-29,32999.61,77.0,Active
+EMP-00030,Angela Cole,Sustainability Analyst,Sustainability,Toronto Factory B,Canada,2023-02-13,62313.35,77.0,Active
+EMP-00031,Sophia Fuentes,Sustainability Analyst,Sustainability,Shanghai Factory L,China,2023-04-01,50611.43,83.6,Active
+EMP-00032,Diana Perry,Sustainability Analyst,Sustainability,Zurich Factory E,Switzerland,2020-10-18,56456.84,74.1,Active
+EMP-00033,Stephen Rosario,Production Operator,Production,Pune Factory K,India,2022-09-14,40153.42,86.9,Active
+EMP-00034,Christopher Hall,Logistics Coordinator,Logistics,Lima Factory S,Peru,2020-01-05,40013.82,99.5,Active
+EMP-00035,John Lawrence,Factory Manager,Management,Amsterdam Factory I,Netherlands,2021-06-18,85440.93,88.4,Active
+EMP-00036,Aaron Barnes,Production Operator,Production,Lima Factory S,Peru,2021-12-26,35420.63,81.4,Active
+EMP-00037,Keith Benton,Logistics Coordinator,Logistics,Toronto Factory B,Canada,2023-04-10,47508.09,79.6,Active
+EMP-00038,Kaylee Williamson,Logistics Coordinator,Logistics,Shanghai Factory L,China,2020-03-01,53272.44,74.0,Active
+EMP-00039,Amy Lam,R&D Chocolatier,Research & Development,Antwerp Factory A,Belgium,2020-01-26,64007.47,82.7,Active
+EMP-00040,Shelly Yates,Sustainability Analyst,Sustainability,Bordeaux Factory D,France,2021-08-03,60754.75,87.9,Active
+EMP-00041,James Garcia,Quality Inspector,Quality Assurance,Osaka Factory M,Japan,2021-12-15,35894.97,67.5,Active
+EMP-00042,Amy Jones,Sustainability Analyst,Sustainability,Hershey Falls Factory X,USA,2025-02-09,55018.68,84.0,Active
+EMP-00043,Christopher Peterson,Packaging Associate,Packaging,Pune Factory K,India,2025-05-10,29974.71,75.8,Active
+EMP-00044,Aaron Hernandez,Quality Inspector,Quality Assurance,Hershey Falls Factory X,USA,2021-03-04,36735.6,93.0,Active
+EMP-00045,Jack Johnson,Maintenance Technician,Maintenance,Dubai Factory W,UAE,2024-07-24,39695.67,84.6,Active
+EMP-00046,Lisa Hernandez,Production Operator,Production,Toronto Factory B,Canada,2026-03-28,34707.59,86.4,Active
+EMP-00047,Gregory Diaz,Logistics Coordinator,Logistics,Bordeaux Factory D,France,2020-01-31,38602.8,71.7,Active
+EMP-00048,Samuel Kaiser,Maintenance Technician,Maintenance,Lima Factory S,Peru,2019-12-21,41951.99,76.5,Active
+EMP-00049,John Miller,Packaging Associate,Packaging,Munich Factory C,Germany,2021-01-21,34068.42,64.1,Active
+EMP-00050,Grant Baker,Line Supervisor,Production,Cape Town Factory V,South Africa,2023-03-15,50027.46,61.5,Active
+EMP-00051,Candice Johnson,Packaging Associate,Packaging,Antwerp Factory A,Belgium,2021-05-14,32104.31,78.9,Active
+EMP-00052,Kelsey Thomas,Quality Inspector,Quality Assurance,Cologne Factory F,Germany,2022-10-08,46809.81,89.6,Active
+EMP-00053,Alyssa Rice,R&D Chocolatier,Research & Development,Dubai Factory W,UAE,2023-06-17,55135.84,90.0,Active
+EMP-00054,Sharon Horton,Production Operator,Production,Montreal Factory Y,Canada,2021-11-21,30402.65,79.5,Active
+EMP-00055,Jacob Jackson,Line Supervisor,Production,Accra Factory T,Ghana,2021-05-14,54555.51,90.8,Active
+EMP-00056,Kim Maxwell,Quality Inspector,Quality Assurance,Bordeaux Factory D,France,2022-09-16,46069.71,100.0,Active
+EMP-00057,Daniel Cain,Production Operator,Production,Oaxaca Factory Z,Mexico,2022-11-13,35053.72,80.1,Active
+EMP-00058,Dr. Renee Cardenas,Quality Inspector,Quality Assurance,Oaxaca Factory Z,Mexico,2020-04-28,42365.17,68.0,Active
+EMP-00059,Cristina Holmes,Production Operator,Production,Bern Factory B,Switzerland,2022-05-07,36996.67,93.6,Active
+EMP-00060,Allen Johnson,Production Operator,Production,Cape Town Factory V,South Africa,2021-12-13,39151.01,91.2,Active
+EMP-00061,David Schwartz,Production Operator,Production,Cape Town Factory V,South Africa,2024-10-04,38231.81,67.2,Active
+EMP-00062,Jillian Giles,Procurement Officer,Procurement,Shanghai Factory L,China,2020-02-16,55095.89,93.0,Active
+EMP-00063,Tina Diaz MD,Quality Inspector,Quality Assurance,Bern Factory B,Switzerland,2021-05-23,43701.6,84.7,Active
+EMP-00064,Craig Harris,Quality Inspector,Quality Assurance,Lyon Factory G,France,2022-01-11,41747.78,72.3,Active
+EMP-00065,Stephanie Pittman,Procurement Officer,Procurement,Shanghai Factory L,China,2025-03-20,58559.91,80.4,Active
+EMP-00066,Matthew Marsh,Quality Inspector,Quality Assurance,Melbourne Factory N,Australia,2021-07-22,42359.57,99.2,On Leave
+EMP-00067,Matthew Browning,Production Operator,Production,Guayaquil Factory Q,Ecuador,2022-07-01,33621.63,86.0,Active
+EMP-00068,Nicole Woods,Quality Inspector,Quality Assurance,Turin Factory J,Italy,2022-09-26,40206.65,86.0,Active
+EMP-00069,Richard Cook,Quality Inspector,Quality Assurance,Toronto Factory B,Canada,2020-06-10,42488.81,88.9,Active
+EMP-00070,Valerie Foster,Production Operator,Production,Montreal Factory Y,Canada,2022-01-30,34017.4,74.6,Active
+EMP-00071,Travis Hardy,Sustainability Analyst,Sustainability,Bruges Factory D,Belgium,2022-01-05,59032.28,78.9,On Leave
+EMP-00072,Cameron Hernandez,Procurement Officer,Procurement,Cologne Factory F,Germany,2021-02-04,61616.88,64.1,Active
+EMP-00073,Renee Thomas,Logistics Coordinator,Logistics,Jakarta Factory O,Indonesia,2022-05-09,50032.49,93.4,Active
+EMP-00074,Veronica Sandoval,Procurement Officer,Procurement,Toronto Factory B,Canada,2021-12-11,57783.39,82.9,On Leave
+EMP-00075,Joshua Anderson,Packaging Associate,Packaging,Jakarta Factory O,Indonesia,2023-03-08,35494.53,87.5,Active
+EMP-00076,Wesley Santos,Quality Inspector,Quality Assurance,Cologne Factory F,Germany,2026-01-30,37091.66,78.5,Active
+EMP-00077,Taylor Hamilton,Line Supervisor,Production,Guadalajara Factory C,Mexico,2020-10-22,45577.8,86.7,On Leave
+EMP-00078,Samantha Clark,Logistics Coordinator,Logistics,Bristol Factory H,United Kingdom,2023-11-27,43240.87,93.6,Active
+EMP-00079,Edward Allen,Quality Inspector,Quality Assurance,Cape Town Factory V,South Africa,2022-08-06,40580.88,78.4,Active
+EMP-00080,Deanna Barnes,Factory Manager,Management,Shanghai Factory L,China,2022-08-23,81012.63,89.4,Active
+EMP-00081,Thomas Gomez,Line Supervisor,Production,Pune Factory K,India,2025-01-30,54625.58,69.7,Active
+EMP-00082,Kevin Strong,Production Operator,Production,Cape Town Factory V,South Africa,2023-03-11,40924.29,85.4,Active
+EMP-00083,Thomas Shaw,Procurement Officer,Procurement,Zurich Factory E,Switzerland,2019-12-25,48531.17,67.4,Active
+EMP-00084,Kelly Smith,Line Supervisor,Production,Jakarta Factory O,Indonesia,2021-11-21,48434.26,86.2,Active
+EMP-00085,Clayton Smith,Production Operator,Production,Montreal Factory Y,Canada,2020-01-02,36015.21,85.1,Active
+EMP-00086,Carrie Wells,Packaging Associate,Packaging,Lyon Factory G,France,2023-05-17,37789.9,82.8,Active
+EMP-00087,Kristie Nguyen,R&D Chocolatier,Research & Development,Hershey Falls Factory X,USA,2021-10-30,54913.73,69.9,Active
+EMP-00088,Kristi Mueller,Procurement Officer,Procurement,Zurich Factory E,Switzerland,2020-03-01,51596.39,96.2,Active
+EMP-00089,Justin Wright,Production Operator,Production,Osaka Factory M,Japan,2025-04-23,30618.53,68.3,Active
+EMP-00090,Raymond Romero,Procurement Officer,Procurement,Cologne Factory F,Germany,2025-06-29,52072.97,82.8,Active
+EMP-00091,Olivia Gaines,Maintenance Technician,Maintenance,Munich Factory C,Germany,2023-07-12,41255.59,97.6,Active
+EMP-00092,Lonnie Wagner,Packaging Associate,Packaging,Portland Factory A,USA,2020-06-11,37624.67,77.5,Active
+EMP-00093,Melissa Chavez,Quality Inspector,Quality Assurance,Hershey Falls Factory X,USA,2025-05-10,40696.35,77.4,Active
+EMP-00094,Karen David,Quality Inspector,Quality Assurance,Accra Factory T,Ghana,2019-12-27,44600.52,78.1,Active
+EMP-00095,Sherri Dunlap,Maintenance Technician,Maintenance,Bristol Factory H,United Kingdom,2025-09-29,49886.54,82.7,Active
+EMP-00096,Justin Harding,Factory Manager,Management,Bern Factory B,Switzerland,2022-10-08,73808.32,89.6,Active
+EMP-00097,Breanna Martinez,Production Operator,Production,Toronto Factory B,Canada,2025-09-29,33141.75,80.3,Active
+EMP-00098,Benjamin Allen,Logistics Coordinator,Logistics,Portland Factory A,USA,2020-07-31,52151.85,89.9,Active
+EMP-00099,Michael Bowers,Maintenance Technician,Maintenance,Lima Factory S,Peru,2024-12-23,50296.26,93.4,Active
+EMP-00100,Brittany Moran,Factory Manager,Management,Melbourne Factory N,Australia,2023-01-13,68432.93,83.8,Active
+EMP-00101,Brenda Andrade,Production Operator,Production,Pune Factory K,India,2021-05-06,32681.61,95.7,Active
+EMP-00102,Colleen Cisneros,Quality Inspector,Quality Assurance,Dubai Factory W,UAE,2020-02-06,40769.45,77.1,Active
+EMP-00103,John Fritz,Production Operator,Production,Munich Factory C,Germany,2023-08-11,33073.53,77.9,Active
+EMP-00104,Candice Reynolds,Procurement Officer,Procurement,Oaxaca Factory Z,Mexico,2022-09-15,52235.6,82.7,Active
+EMP-00105,Gina Gonzalez,Procurement Officer,Procurement,Bruges Factory D,Belgium,2025-08-25,58386.82,76.5,Active
+EMP-00106,Nathan Smith,Line Supervisor,Production,Melbourne Factory N,Australia,2021-11-06,49676.39,80.4,Active
+EMP-00107,Jessica Smith,Quality Inspector,Quality Assurance,Bruges Factory D,Belgium,2025-03-16,41770.4,73.8,Active
+EMP-00108,Marcus Hunt,Quality Inspector,Quality Assurance,Hershey Falls Factory X,USA,2022-10-31,37099.65,92.8,Active
+EMP-00109,William Kramer,Logistics Coordinator,Logistics,Sao Paulo Factory P,Brazil,2022-11-03,47961.28,83.9,Active
+EMP-00110,Ashley Baker,Procurement Officer,Procurement,Portland Factory A,USA,2026-06-15,55867.22,74.9,Active
+EMP-00111,Richard Nelson,Production Operator,Production,Dubai Factory W,UAE,2021-01-17,39456.94,87.2,Active
+EMP-00112,Jay Pruitt,Packaging Associate,Packaging,Bruges Factory D,Belgium,2024-08-09,37307.04,55.8,Active
+EMP-00113,Deanna Hernandez,Production Operator,Production,Guadalajara Factory C,Mexico,2023-04-20,38801.84,96.0,Active
+EMP-00114,Laura Graves,Packaging Associate,Packaging,Bruges Factory D,Belgium,2025-06-23,26275.53,79.5,Active
+EMP-00115,Anthony Watts,Line Supervisor,Production,Munich Factory C,Germany,2021-02-13,44122.36,77.2,Active
+EMP-00116,Benjamin Mays,Quality Inspector,Quality Assurance,Portland Factory A,USA,2023-06-21,43556.9,88.8,Active
+EMP-00117,Rebecca Miller,Sustainability Analyst,Sustainability,Hershey Falls Factory X,USA,2024-10-21,51221.06,70.3,Active
+EMP-00118,Andrea Roy,Maintenance Technician,Maintenance,Oaxaca Factory Z,Mexico,2023-09-10,41747.77,80.6,Active
+EMP-00119,Gerald Tran,Quality Inspector,Quality Assurance,Antwerp Factory A,Belgium,2023-05-09,43706.96,91.3,Active
+EMP-00120,Debra Anderson,Logistics Coordinator,Logistics,Bern Factory B,Switzerland,2020-10-13,48013.69,69.4,Active
+EMP-00121,Cynthia Rodriguez,Quality Inspector,Quality Assurance,Bordeaux Factory D,France,2024-04-14,44486.71,76.0,Active
+EMP-00122,Anthony Harris,Packaging Associate,Packaging,Bruges Factory D,Belgium,2022-05-19,27830.21,76.9,Active
+EMP-00123,Eric Malone,Maintenance Technician,Maintenance,Pune Factory K,India,2022-06-06,42005.45,61.9,Active
+EMP-00124,Jonathan Thompson,Line Supervisor,Production,Sao Paulo Factory P,Brazil,2023-06-12,53275.21,97.5,Active
+EMP-00125,Albert King,Production Operator,Production,Antwerp Factory A,Belgium,2021-07-25,32756.29,76.0,Active
+EMP-00126,Nicholas Arnold,Maintenance Technician,Maintenance,Portland Factory A,USA,2022-01-02,44234.3,82.6,Active
+EMP-00127,John Michael,Production Operator,Production,Lima Factory S,Peru,2024-07-26,28684.05,86.6,Active
+EMP-00128,Robert Reynolds,R&D Chocolatier,Research & Development,Zurich Factory E,Switzerland,2023-10-21,64649.52,66.8,Active
+EMP-00129,Ruben Long MD,Logistics Coordinator,Logistics,Jakarta Factory O,Indonesia,2025-01-19,47366.01,90.4,Active
+EMP-00130,Vickie Cooper,Procurement Officer,Procurement,Oaxaca Factory Z,Mexico,2020-12-01,49239.89,77.2,Active
+EMP-00131,Michelle Fields,Packaging Associate,Packaging,Hershey Falls Factory X,USA,2024-12-18,27308.59,74.7,Active
+EMP-00132,Gregory Brown,Packaging Associate,Packaging,Pune Factory K,India,2025-05-05,28932.28,93.5,Active
+EMP-00133,Benjamin Yang,Sustainability Analyst,Sustainability,Turin Factory J,Italy,2022-09-20,65753.14,88.8,Active
+EMP-00134,Christopher Miller,Quality Inspector,Quality Assurance,Turin Factory J,Italy,2022-03-23,38465.9,84.3,Active
+EMP-00135,Sheila Lambert,Sustainability Analyst,Sustainability,Antwerp Factory A,Belgium,2021-02-03,57759.46,83.5,On Leave
+EMP-00136,David Carter,Maintenance Technician,Maintenance,Hershey Falls Factory X,USA,2024-04-08,40279.24,70.4,Active
+EMP-00137,Christopher Griffin,Maintenance Technician,Maintenance,Cologne Factory F,Germany,2020-12-21,41649.24,88.1,On Leave
+EMP-00138,Vernon Kaufman,Logistics Coordinator,Logistics,Munich Factory C,Germany,2021-03-12,53636.35,89.6,Active
+EMP-00139,Dana Sheppard,Factory Manager,Management,Lima Factory S,Peru,2024-04-04,78075.1,79.1,Active
+EMP-00140,Howard Smith,R&D Chocolatier,Research & Development,Munich Factory C,Germany,2023-12-07,61306.34,67.2,Active
+EMP-00141,John Shaw,Procurement Officer,Procurement,Melbourne Factory N,Australia,2024-12-29,47582.14,86.6,Active
+EMP-00142,Jonathan Smith,Logistics Coordinator,Logistics,Antwerp Factory A,Belgium,2022-06-04,50706.48,99.8,Active
+EMP-00143,Brandon Ross,Procurement Officer,Procurement,Antwerp Factory A,Belgium,2022-05-20,60959.71,73.9,Active
+EMP-00144,Alexander Torres,Procurement Officer,Procurement,Lima Factory S,Peru,2022-05-02,60356.69,73.5,Active
+EMP-00145,Kevin Rice,Procurement Officer,Procurement,Lima Factory S,Peru,2025-05-16,61345.3,82.1,Active
+EMP-00146,Mary Baldwin,Maintenance Technician,Maintenance,Bordeaux Factory D,France,2026-01-15,44032.8,83.4,Active
+EMP-00147,Jean Nguyen,Factory Manager,Management,Cape Town Factory V,South Africa,2020-03-09,80544.71,76.3,Active
+EMP-00148,Mrs. Misty Day,Logistics Coordinator,Logistics,Bristol Factory H,United Kingdom,2024-11-21,50212.34,91.4,On Leave
+EMP-00149,Russell Mcclain,R&D Chocolatier,Research & Development,Lima Factory S,Peru,2022-12-20,73114.67,89.8,Active
+EMP-00150,Morgan Burnett,Line Supervisor,Production,Bordeaux Factory D,France,2024-02-15,49347.38,79.9,Active
+EMP-00151,Joseph Gordon,Quality Inspector,Quality Assurance,Montreal Factory Y,Canada,2024-02-27,40270.77,86.5,On Leave
+EMP-00152,Regina Mckenzie,R&D Chocolatier,Research & Development,Medellin Factory R,Colombia,2020-02-05,70460.66,88.1,Active
+EMP-00153,Stephanie Vega,Maintenance Technician,Maintenance,Dubai Factory W,UAE,2024-10-24,37863.38,95.8,Active
+EMP-00154,Crystal Johnson,Logistics Coordinator,Logistics,Medellin Factory R,Colombia,2025-12-27,45843.94,89.3,Active
+EMP-00155,Isaac Garcia,Maintenance Technician,Maintenance,Bern Factory B,Switzerland,2025-10-10,50675.91,75.5,Active
+EMP-00156,Kristin Burton,Packaging Associate,Packaging,Oaxaca Factory Z,Mexico,2024-09-10,26800.04,85.1,Active
+EMP-00157,Melanie Burns,Sustainability Analyst,Sustainability,Osaka Factory M,Japan,2026-06-27,67823.57,87.1,Active
+EMP-00158,Robert Goodman,Sustainability Analyst,Sustainability,Portland Factory A,USA,2022-09-13,52190.64,84.2,Active
+EMP-00159,Kimberly Hopkins,Factory Manager,Management,Osaka Factory M,Japan,2021-02-27,76713.95,91.7,Active
+EMP-00160,Norman King,Maintenance Technician,Maintenance,Toronto Factory B,Canada,2025-06-05,38935.76,81.6,On Leave
+EMP-00161,Derek Daniel,Line Supervisor,Production,Bordeaux Factory D,France,2021-06-20,50508.35,84.9,On Leave
+EMP-00162,Patrick Daugherty,Line Supervisor,Production,Bordeaux Factory D,France,2023-08-28,48467.0,77.3,Active
+EMP-00163,James Mendoza DDS,Procurement Officer,Procurement,Dubai Factory W,UAE,2024-02-25,50517.05,90.5,Active
+EMP-00164,Lisa Day,Logistics Coordinator,Logistics,Osaka Factory M,Japan,2025-03-05,45004.53,99.8,Active
+EMP-00165,Charles King,Quality Inspector,Quality Assurance,Abidjan Factory U,Cote d'Ivoire,2020-04-27,36379.33,93.4,Active
+EMP-00166,Elizabeth Bradley,Logistics Coordinator,Logistics,Shanghai Factory L,China,2020-01-01,45343.07,87.6,On Leave
+EMP-00167,Antonio Adams,Factory Manager,Management,Pune Factory K,India,2021-02-25,96344.93,92.1,Active
+EMP-00168,Melissa Lowe,Sustainability Analyst,Sustainability,Munich Factory C,Germany,2021-07-15,65111.95,85.1,Active
+EMP-00169,Jose Marshall,Sustainability Analyst,Sustainability,Montreal Factory Y,Canada,2023-07-04,67381.61,85.1,Active
+EMP-00170,Bryan English,Logistics Coordinator,Logistics,Lima Factory S,Peru,2024-08-25,49935.2,81.2,Active
+EMP-00171,William Mayer,Procurement Officer,Procurement,Cape Town Factory V,South Africa,2022-04-23,61458.98,93.6,Active
+EMP-00172,Jimmy Wilkins,Line Supervisor,Production,Shanghai Factory L,China,2022-09-05,47267.05,80.1,Active
+EMP-00173,Joanna Adams,Logistics Coordinator,Logistics,Sao Paulo Factory P,Brazil,2024-01-15,52591.19,84.9,Active
+EMP-00174,Tony Clark,R&D Chocolatier,Research & Development,Cologne Factory F,Germany,2022-07-11,55830.62,68.4,Active
+EMP-00175,Brenda Warren,Production Operator,Production,Bordeaux Factory D,France,2024-03-10,34851.64,76.4,Active
+EMP-00176,Brandi Wilkins,Line Supervisor,Production,Turin Factory J,Italy,2022-12-15,53027.95,75.0,Active
+EMP-00177,Stacie Warner,Factory Manager,Management,Guayaquil Factory Q,Ecuador,2021-03-01,91183.45,74.3,Active
+EMP-00178,Steven Tucker,Factory Manager,Management,Guadalajara Factory C,Mexico,2026-05-25,85680.93,80.9,Active
+EMP-00179,Aaron Vasquez,Quality Inspector,Quality Assurance,Montreal Factory Y,Canada,2023-06-03,42680.84,89.5,Active
+EMP-00180,Eric Taylor,Maintenance Technician,Maintenance,Pune Factory K,India,2025-07-21,39818.19,73.4,Active
+EMP-00181,Eugene Larsen,Logistics Coordinator,Logistics,Bristol Factory H,United Kingdom,2021-04-29,38658.37,65.0,Active
+EMP-00182,Paul Combs,Procurement Officer,Procurement,Abidjan Factory U,Cote d'Ivoire,2022-05-20,53141.61,100.0,Active
+EMP-00183,Timothy Marquez,Line Supervisor,Production,Cologne Factory F,Germany,2022-02-12,54719.94,86.9,Active
+EMP-00184,Donna Watson,Packaging Associate,Packaging,Toronto Factory B,Canada,2020-11-14,37020.79,74.7,Active
+EMP-00185,Zachary Lawrence,Packaging Associate,Packaging,Shanghai Factory L,China,2025-08-15,29748.86,81.2,Active
+EMP-00186,Jeffrey Hill,R&D Chocolatier,Research & Development,Bern Factory B,Switzerland,2021-04-10,74616.6,81.4,Active
+EMP-00187,Brian Davenport,Packaging Associate,Packaging,Pune Factory K,India,2022-06-26,32409.41,82.0,Active
+EMP-00188,Timothy Wright,Factory Manager,Management,Lima Factory S,Peru,2023-07-13,70837.17,93.1,Active
+EMP-00189,Jorge Lee,Maintenance Technician,Maintenance,Medellin Factory R,Colombia,2020-02-24,36310.97,81.8,Active
+EMP-00190,Tyler Henson,Sustainability Analyst,Sustainability,Hershey Falls Factory X,USA,2025-10-20,55459.01,89.4,Active
+EMP-00191,Lynn Gentry,Factory Manager,Management,Montreal Factory Y,Canada,2022-06-19,89955.7,96.5,Active
+EMP-00192,Kirsten Ball,R&D Chocolatier,Research & Development,Turin Factory J,Italy,2022-09-07,74115.37,78.1,Active
+EMP-00193,Nicholas Hayes,Production Operator,Production,Melbourne Factory N,Australia,2024-10-01,28907.2,68.3,Active
+EMP-00194,Maria Mitchell,Procurement Officer,Procurement,Cologne Factory F,Germany,2021-12-02,49067.56,67.4,Active
+EMP-00195,Timothy Anderson,Line Supervisor,Production,Dubai Factory W,UAE,2020-10-26,44577.4,71.2,Active
+EMP-00196,Greg Evans,R&D Chocolatier,Research & Development,Zurich Factory E,Switzerland,2021-06-30,58620.63,82.8,Active
+EMP-00197,Vanessa Green,Production Operator,Production,Jakarta Factory O,Indonesia,2021-11-03,33419.4,86.2,Active
+EMP-00198,Elizabeth Grant,Factory Manager,Management,Oaxaca Factory Z,Mexico,2023-07-05,85876.26,94.1,Active
+EMP-00199,Christopher Martin,Sustainability Analyst,Sustainability,Hershey Falls Factory X,USA,2021-12-08,55141.87,68.3,On Leave
+EMP-00200,Taylor Crawford,Logistics Coordinator,Logistics,Zurich Factory E,Switzerland,2021-12-29,51661.84,70.5,Active
+EMP-00201,Terrance Davies,Sustainability Analyst,Sustainability,Amsterdam Factory I,Netherlands,2021-10-27,64499.61,80.1,Active
+EMP-00202,Charles Lee,Factory Manager,Management,Munich Factory C,Germany,2020-01-26,93447.23,93.9,Active
+EMP-00203,Glenn Davis,Line Supervisor,Production,Munich Factory C,Germany,2023-03-16,48151.6,67.7,Active
+EMP-00204,David Hudson,Logistics Coordinator,Logistics,Osaka Factory M,Japan,2023-10-18,43697.67,86.0,Active
+EMP-00205,Nicole Gutierrez,Logistics Coordinator,Logistics,Montreal Factory Y,Canada,2025-06-22,41509.64,61.3,Active
+EMP-00206,Joseph Bennett,Factory Manager,Management,Bruges Factory D,Belgium,2024-06-19,90015.96,74.8,Active
+EMP-00207,Antonio Ramirez,Logistics Coordinator,Logistics,Jakarta Factory O,Indonesia,2023-05-02,40864.69,72.5,Active
+EMP-00208,Beth Gordon,Production Operator,Production,Amsterdam Factory I,Netherlands,2022-05-09,37044.98,79.2,Active
+EMP-00209,Shari Robinson,Factory Manager,Management,Lyon Factory G,France,2022-09-13,95601.14,91.7,On Leave
+EMP-00210,David Ross,Factory Manager,Management,Melbourne Factory N,Australia,2022-01-02,81387.33,78.4,Active
+EMP-00211,Troy Allison,Packaging Associate,Packaging,Amsterdam Factory I,Netherlands,2021-03-30,29232.31,96.4,Active
+EMP-00212,Alison Johnson,Sustainability Analyst,Sustainability,Bristol Factory H,United Kingdom,2023-03-17,66965.84,78.7,Active
+EMP-00213,Stephanie Kennedy,Line Supervisor,Production,Guadalajara Factory C,Mexico,2024-02-01,43861.87,75.7,Active
+EMP-00214,April Myers,Quality Inspector,Quality Assurance,Abidjan Factory U,Cote d'Ivoire,2025-04-28,34863.61,88.7,Active
+EMP-00215,Samantha Foley,Line Supervisor,Production,Cape Town Factory V,South Africa,2025-06-17,47813.74,84.7,Active
+EMP-00216,Danielle Rodriguez,Line Supervisor,Production,Hershey Falls Factory X,USA,2019-11-26,53468.09,73.3,Active
+EMP-00217,Joseph Fleming,Logistics Coordinator,Logistics,Bruges Factory D,Belgium,2023-11-11,38658.56,88.1,Active
+EMP-00218,Mindy Holland,R&D Chocolatier,Research & Development,Guadalajara Factory C,Mexico,2025-08-30,54259.91,74.1,Active
+EMP-00219,Judith Arnold,Maintenance Technician,Maintenance,Abidjan Factory U,Cote d'Ivoire,2020-02-13,47696.97,75.4,On Leave
+EMP-00220,Richard Hall,R&D Chocolatier,Research & Development,Guadalajara Factory C,Mexico,2026-01-05,59430.35,92.7,Active
+EMP-00221,Maria Torres,Packaging Associate,Packaging,Hershey Falls Factory X,USA,2021-02-24,32648.95,76.2,Active
+EMP-00222,David Fields,Maintenance Technician,Maintenance,Osaka Factory M,Japan,2025-02-06,49349.64,85.7,Active
+EMP-00223,Ashley Jones,Quality Inspector,Quality Assurance,Osaka Factory M,Japan,2020-09-02,42854.11,89.3,Active
+EMP-00224,Lauren Hughes,Line Supervisor,Production,Turin Factory J,Italy,2026-06-19,47987.96,91.6,Active
+EMP-00225,Kyle Smith,Sustainability Analyst,Sustainability,Cologne Factory F,Germany,2024-08-09,61445.41,86.9,Active
+EMP-00226,Joe Haley,Production Operator,Production,Medellin Factory R,Colombia,2026-03-19,36927.19,81.4,Active
+EMP-00227,Stacey Alvarez,Line Supervisor,Production,Bordeaux Factory D,France,2021-06-20,43805.99,76.8,Active
+EMP-00228,David Yu,Packaging Associate,Packaging,Shanghai Factory L,China,2021-01-15,31754.39,80.9,Active
+EMP-00229,Elizabeth Johnson,Quality Inspector,Quality Assurance,Accra Factory T,Ghana,2025-02-27,40268.95,82.1,Active
+EMP-00230,Mr. Jason Scott DDS,Sustainability Analyst,Sustainability,Lyon Factory G,France,2024-09-27,48667.51,75.8,Active
+EMP-00231,Cristina Johnson,Quality Inspector,Quality Assurance,Montreal Factory Y,Canada,2024-08-20,45099.08,80.4,Active
+EMP-00232,Jason Fleming,Line Supervisor,Production,Bruges Factory D,Belgium,2026-05-28,49403.75,78.4,Active
+EMP-00233,Robert Stevenson,Factory Manager,Management,Guadalajara Factory C,Mexico,2019-10-27,70485.05,75.0,Active
+EMP-00234,Christine Booker,Production Operator,Production,Oaxaca Factory Z,Mexico,2021-01-20,32778.95,78.0,Active
+EMP-00235,Robert Hall,Factory Manager,Management,Bruges Factory D,Belgium,2024-11-26,86053.48,80.4,Active
+EMP-00236,Philip Phillips,Line Supervisor,Production,Abidjan Factory U,Cote d'Ivoire,2023-03-20,53317.18,84.2,Active
+EMP-00237,Kathleen Lopez,Logistics Coordinator,Logistics,Melbourne Factory N,Australia,2024-08-19,40125.7,94.6,Active
+EMP-00238,Jason Ortega,Line Supervisor,Production,Melbourne Factory N,Australia,2025-01-25,52301.97,81.5,Active
+EMP-00239,Brianna Long,Sustainability Analyst,Sustainability,Bruges Factory D,Belgium,2026-05-29,58630.33,67.4,Active
+EMP-00240,William Thomas,R&D Chocolatier,Research & Development,Hershey Falls Factory X,USA,2023-02-15,52656.5,80.5,Active
+EMP-00241,Antonio Long,Production Operator,Production,Sao Paulo Factory P,Brazil,2025-12-14,31706.89,68.1,Active
+EMP-00242,Sophia Oconnor,Sustainability Analyst,Sustainability,Hershey Falls Factory X,USA,2021-07-27,58815.1,79.9,Active
+EMP-00243,Dr. Erin Lopez DVM,Maintenance Technician,Maintenance,Guayaquil Factory Q,Ecuador,2026-02-08,43045.16,85.5,Active
+EMP-00244,Amanda Beck,R&D Chocolatier,Research & Development,Lyon Factory G,France,2023-06-03,55513.59,73.2,Active
+EMP-00245,James Rivera,Production Operator,Production,Montreal Factory Y,Canada,2021-12-08,35724.57,80.5,Active
+EMP-00246,Aaron Ramirez,Production Operator,Production,Turin Factory J,Italy,2023-06-21,34210.87,87.6,Active
+EMP-00247,Tyler Martinez,Factory Manager,Management,Accra Factory T,Ghana,2023-10-04,90731.36,80.2,Active
+EMP-00248,Christine Kelly,Packaging Associate,Packaging,Guadalajara Factory C,Mexico,2023-11-19,30476.04,97.7,Active
+EMP-00249,Samantha Reynolds,R&D Chocolatier,Research & Development,Melbourne Factory N,Australia,2025-12-18,73356.04,68.0,Active
+EMP-00250,John Watson,Quality Inspector,Quality Assurance,Jakarta Factory O,Indonesia,2023-09-08,35874.9,78.9,Active
+EMP-00251,Cheryl Diaz,Quality Inspector,Quality Assurance,Portland Factory A,USA,2020-10-27,47994.7,85.8,Active
+EMP-00252,Amanda Jenkins,Procurement Officer,Procurement,Bristol Factory H,United Kingdom,2021-01-29,59675.08,73.8,Active
+EMP-00253,Pamela Williams,R&D Chocolatier,Research & Development,Sao Paulo Factory P,Brazil,2025-01-13,74819.82,82.2,Active
+EMP-00254,Arthur Mora,Quality Inspector,Quality Assurance,Pune Factory K,India,2022-03-25,44877.05,86.6,Active
+EMP-00255,Paul Roach,Line Supervisor,Production,Osaka Factory M,Japan,2026-01-16,56345.63,64.2,Active
+EMP-00256,Dominic Rosario,Line Supervisor,Production,Lima Factory S,Peru,2024-06-29,56581.03,66.8,Active
+EMP-00257,Deborah Moran,Line Supervisor,Production,Sao Paulo Factory P,Brazil,2020-02-24,42238.42,84.3,Active
+EMP-00258,Donald Smith,Production Operator,Production,Dubai Factory W,UAE,2022-07-19,35022.58,84.0,Active
+EMP-00259,Sydney Walters,Maintenance Technician,Maintenance,Lyon Factory G,France,2023-07-28,37287.97,88.4,Active
+EMP-00260,Allison Hall,Factory Manager,Management,Amsterdam Factory I,Netherlands,2024-10-06,87379.24,85.8,Active
+EMP-00261,Tyler Finley,Production Operator,Production,Lyon Factory G,France,2024-07-09,40330.41,77.3,Active
+EMP-00262,David Jordan,Production Operator,Production,Jakarta Factory O,Indonesia,2021-03-17,30697.9,73.7,Active
+EMP-00263,Timothy White PhD,Production Operator,Production,Abidjan Factory U,Cote d'Ivoire,2023-12-04,31318.16,93.5,Active
+EMP-00264,Samantha Mejia,Packaging Associate,Packaging,Munich Factory C,Germany,2022-06-25,35471.28,93.5,Active
+EMP-00265,Erin Flores,Logistics Coordinator,Logistics,Medellin Factory R,Colombia,2025-04-12,53078.14,90.4,Active
+EMP-00266,Richard Miller,Logistics Coordinator,Logistics,Bruges Factory D,Belgium,2025-02-05,46125.16,64.5,Active
+EMP-00267,Paul Wright,Line Supervisor,Production,Abidjan Factory U,Cote d'Ivoire,2021-05-06,55219.34,82.3,Active
+EMP-00268,Andrew Tran,R&D Chocolatier,Research & Development,Sao Paulo Factory P,Brazil,2022-08-10,62462.19,79.0,Active
+EMP-00269,William Stephenson,Sustainability Analyst,Sustainability,Melbourne Factory N,Australia,2019-11-02,48555.88,81.3,Active
+EMP-00270,Deborah Miller MD,Logistics Coordinator,Logistics,Portland Factory A,USA,2024-05-31,43579.29,85.7,Active
+EMP-00271,Dr. Jeremy Young MD,Production Operator,Production,Cologne Factory F,Germany,2025-06-10,32689.68,83.5,Active
+EMP-00272,Megan Adkins,Production Operator,Production,Montreal Factory Y,Canada,2020-11-07,40094.9,89.4,Active
+EMP-00273,Mary Martinez,Maintenance Technician,Maintenance,Oaxaca Factory Z,Mexico,2021-12-17,46801.54,73.2,Active
+EMP-00274,Elizabeth Bradley,Procurement Officer,Procurement,Bern Factory B,Switzerland,2025-03-21,53920.4,77.3,Active
+EMP-00275,Oscar Gonzalez,Procurement Officer,Procurement,Melbourne Factory N,Australia,2025-09-30,46528.77,67.7,Active
+EMP-00276,David Hernandez,Packaging Associate,Packaging,Amsterdam Factory I,Netherlands,2026-02-20,32286.62,92.0,Active
+EMP-00277,Laura Nguyen,Line Supervisor,Production,Turin Factory J,Italy,2024-08-30,42406.78,95.1,Active
+EMP-00278,Willie Romero,Sustainability Analyst,Sustainability,Toronto Factory B,Canada,2024-01-16,59671.28,88.1,Active
+EMP-00279,Robert Valdez,Quality Inspector,Quality Assurance,Shanghai Factory L,China,2023-02-11,36344.09,78.4,On Leave
+EMP-00280,Ashley Wells DVM,Factory Manager,Management,Pune Factory K,India,2024-05-09,94305.38,97.4,On Leave
+EMP-00281,Suzanne Williams,Maintenance Technician,Maintenance,Medellin Factory R,Colombia,2025-06-07,50850.94,84.0,Active
+EMP-00282,Bryan Lopez,Quality Inspector,Quality Assurance,Lima Factory S,Peru,2024-08-21,47251.67,85.4,Active
+EMP-00283,Lauren Conrad,Production Operator,Production,Lyon Factory G,France,2023-01-01,33999.09,82.9,Active
+EMP-00284,Sean Cole,Factory Manager,Management,Lima Factory S,Peru,2024-05-19,80888.72,82.5,Active
+EMP-00285,Richard Bautista,Line Supervisor,Production,Amsterdam Factory I,Netherlands,2024-09-16,57695.89,98.6,Active
+EMP-00286,Kyle Harvey,Factory Manager,Management,Antwerp Factory A,Belgium,2026-06-17,68607.47,82.2,Active
+EMP-00287,Jacob Thomas,Production Operator,Production,Abidjan Factory U,Cote d'Ivoire,2022-06-14,40038.62,93.2,Active
+EMP-00288,David Greene,Quality Inspector,Quality Assurance,Accra Factory T,Ghana,2023-06-18,38007.72,95.3,Active
+EMP-00289,Christina Smith,Maintenance Technician,Maintenance,Pune Factory K,India,2022-03-27,44727.32,86.7,Active
+EMP-00290,Michael Lopez,Maintenance Technician,Maintenance,Accra Factory T,Ghana,2020-07-09,44453.21,77.6,Active
+EMP-00291,Dalton Pope,Maintenance Technician,Maintenance,Osaka Factory M,Japan,2020-05-01,49968.21,73.4,On Leave
+EMP-00292,Amy Garcia,Sustainability Analyst,Sustainability,Lyon Factory G,France,2020-03-10,62911.83,78.4,On Leave
+EMP-00293,Joshua Fowler,Factory Manager,Management,Toronto Factory B,Canada,2022-05-07,88712.57,82.8,Active
+EMP-00294,Christopher Dominguez,Sustainability Analyst,Sustainability,Montreal Factory Y,Canada,2023-09-08,67387.36,91.1,Active
+EMP-00295,Drew Parker,Factory Manager,Management,Amsterdam Factory I,Netherlands,2025-09-12,76314.16,75.9,Active
+EMP-00296,Emily Knight,Production Operator,Production,Portland Factory A,USA,2026-02-19,29138.8,76.0,Active
+EMP-00297,Jason Lin,Sustainability Analyst,Sustainability,Guayaquil Factory Q,Ecuador,2023-03-11,65343.67,81.8,Active
+EMP-00298,Helen Gonzalez PhD,Maintenance Technician,Maintenance,Medellin Factory R,Colombia,2023-09-25,39154.59,81.5,Active
+EMP-00299,Aaron Valenzuela,Factory Manager,Management,Jakarta Factory O,Indonesia,2019-12-22,73689.57,85.6,Active
+EMP-00300,Robert Sullivan,Sustainability Analyst,Sustainability,Toronto Factory B,Canada,2021-02-06,58235.16,72.5,On Leave
+EMP-00301,Julia Martin,R&D Chocolatier,Research & Development,Bruges Factory D,Belgium,2022-05-02,55161.68,81.9,Active
+EMP-00302,Juan Davidson,R&D Chocolatier,Research & Development,Medellin Factory R,Colombia,2021-01-19,54797.68,73.7,Active
+EMP-00303,Ann Dean,R&D Chocolatier,Research & Development,Lyon Factory G,France,2020-10-27,65716.72,96.0,Active
+EMP-00304,Jonathan Thomas,Factory Manager,Management,Turin Factory J,Italy,2023-08-08,79256.61,76.6,Active
+EMP-00305,Joseph Schaefer,Logistics Coordinator,Logistics,Montreal Factory Y,Canada,2023-01-16,48406.58,90.4,Active
+EMP-00306,John Ballard,R&D Chocolatier,Research & Development,Shanghai Factory L,China,2021-10-18,73884.18,74.6,Active
+EMP-00307,Christina Martinez,Quality Inspector,Quality Assurance,Pune Factory K,India,2022-06-24,41229.54,85.6,Active
+EMP-00308,Vanessa Webb,Logistics Coordinator,Logistics,Guayaquil Factory Q,Ecuador,2022-12-01,51386.53,67.0,Active
+EMP-00309,Timothy Hughes,Logistics Coordinator,Logistics,Pune Factory K,India,2025-04-29,50591.94,86.2,Active
+EMP-00310,Lisa Summers,Logistics Coordinator,Logistics,Zurich Factory E,Switzerland,2022-08-22,50369.86,72.4,On Leave
+EMP-00311,Richard Walker,Sustainability Analyst,Sustainability,Guadalajara Factory C,Mexico,2024-06-01,64380.0,92.0,Active
+EMP-00312,Ryan Calderon,R&D Chocolatier,Research & Development,Shanghai Factory L,China,2023-09-12,54372.73,90.4,Active
+EMP-00313,Daniel Ross,Maintenance Technician,Maintenance,Cape Town Factory V,South Africa,2021-07-31,47846.53,75.1,Active
+EMP-00314,Janet Martinez,Sustainability Analyst,Sustainability,Osaka Factory M,Japan,2020-05-27,67160.45,72.8,Active
+EMP-00315,Nathaniel Merritt,Factory Manager,Management,Jakarta Factory O,Indonesia,2021-10-13,70455.27,90.3,Active
+EMP-00316,Justin Todd,R&D Chocolatier,Research & Development,Shanghai Factory L,China,2023-07-10,65350.41,79.5,Active
+EMP-00317,Ryan Wilson,Production Operator,Production,Sao Paulo Factory P,Brazil,2021-11-24,40801.14,71.4,Active
+EMP-00318,Krista Sims,Production Operator,Production,Abidjan Factory U,Cote d'Ivoire,2026-06-24,30957.05,92.5,Active
+EMP-00319,Jason Aguilar,R&D Chocolatier,Research & Development,Osaka Factory M,Japan,2019-12-14,73120.31,74.9,Active
+EMP-00320,Matthew Griffin,Quality Inspector,Quality Assurance,Oaxaca Factory Z,Mexico,2024-09-30,43277.92,81.4,Active
+EMP-00321,Alexander Montgomery,Packaging Associate,Packaging,Guadalajara Factory C,Mexico,2020-09-24,37155.09,67.2,Active
+EMP-00322,David Gallagher DDS,Line Supervisor,Production,Guayaquil Factory Q,Ecuador,2021-06-25,46146.97,77.2,Active
+EMP-00323,Christopher Kennedy,Maintenance Technician,Maintenance,Munich Factory C,Germany,2020-04-27,47282.59,74.9,Active
+EMP-00324,Carl Jordan,R&D Chocolatier,Research & Development,Jakarta Factory O,Indonesia,2021-08-18,60017.95,71.4,Active
+EMP-00325,Jeremy Dixon,Logistics Coordinator,Logistics,Dubai Factory W,UAE,2024-05-27,41458.03,80.7,Active
+EMP-00326,Mark Miller,Production Operator,Production,Oaxaca Factory Z,Mexico,2020-12-05,28052.53,80.3,Active
+EMP-00327,Paula Dixon,Line Supervisor,Production,Bristol Factory H,United Kingdom,2021-12-27,56328.3,59.1,Active
+EMP-00328,Jonathan Gray,Production Operator,Production,Antwerp Factory A,Belgium,2020-11-22,29261.55,85.1,Active
+EMP-00329,Brandy Vincent,Production Operator,Production,Guayaquil Factory Q,Ecuador,2020-11-21,38465.15,81.9,On Leave
+EMP-00330,Monique Briggs MD,Sustainability Analyst,Sustainability,Guadalajara Factory C,Mexico,2022-05-18,65260.5,80.2,Active
+EMP-00331,Mrs. Tina Moon,R&D Chocolatier,Research & Development,Sao Paulo Factory P,Brazil,2022-04-01,65941.23,79.2,On Leave
+EMP-00332,Richard Arias,Sustainability Analyst,Sustainability,Oaxaca Factory Z,Mexico,2022-01-26,58389.12,80.8,Active
+EMP-00333,Gregory Avila,Logistics Coordinator,Logistics,Turin Factory J,Italy,2024-03-06,39526.49,81.8,Active
+EMP-00334,Steven Hill,R&D Chocolatier,Research & Development,Guadalajara Factory C,Mexico,2023-05-11,56487.56,78.8,On Leave
+EMP-00335,Briana Shaw,Procurement Officer,Procurement,Toronto Factory B,Canada,2023-03-06,53158.55,73.4,Active
+EMP-00336,Christine Baker,Logistics Coordinator,Logistics,Guadalajara Factory C,Mexico,2023-08-28,47770.27,94.2,Active
+EMP-00337,Emma Johnson,Logistics Coordinator,Logistics,Accra Factory T,Ghana,2025-11-07,42872.93,58.2,Active
+EMP-00338,Christopher Mayer,Factory Manager,Management,Lima Factory S,Peru,2020-02-09,72544.12,91.0,Active
+EMP-00339,Stephanie Jackson,Line Supervisor,Production,Cape Town Factory V,South Africa,2024-11-16,45114.04,98.1,Active
+EMP-00340,Ashley Schmidt,Maintenance Technician,Maintenance,Osaka Factory M,Japan,2022-10-29,49339.52,96.6,Active
+EMP-00341,Heather Salas,R&D Chocolatier,Research & Development,Dubai Factory W,UAE,2020-07-29,66107.31,74.9,Active
+EMP-00342,Lauren Khan,Production Operator,Production,Bristol Factory H,United Kingdom,2021-08-12,29418.69,87.4,Active
+EMP-00343,Willie Soto,Line Supervisor,Production,Cologne Factory F,Germany,2024-10-18,53865.55,88.7,Active
+EMP-00344,Robert Baker,Packaging Associate,Packaging,Cape Town Factory V,South Africa,2020-09-20,33823.49,82.5,Active
+EMP-00345,Laura Ward PhD,Factory Manager,Management,Guadalajara Factory C,Mexico,2024-01-24,97233.31,87.2,Active
+EMP-00346,Christopher Manning,Logistics Coordinator,Logistics,Jakarta Factory O,Indonesia,2020-10-17,43358.47,58.8,Active
+EMP-00347,Robert King,Sustainability Analyst,Sustainability,Lima Factory S,Peru,2023-04-21,63353.73,83.3,On Leave
+EMP-00348,Victoria Willis,Production Operator,Production,Medellin Factory R,Colombia,2025-02-11,39946.36,79.5,Active
+EMP-00349,Emily Smith,Sustainability Analyst,Sustainability,Bruges Factory D,Belgium,2020-11-02,56618.0,89.0,Active
+EMP-00350,Chase Jensen,Sustainability Analyst,Sustainability,Munich Factory C,Germany,2021-02-07,64008.92,81.2,Active
+EMP-00351,Jose Woodard,Sustainability Analyst,Sustainability,Pune Factory K,India,2020-05-22,56284.59,93.9,Active
+EMP-00352,Darren Delgado,Line Supervisor,Production,Hershey Falls Factory X,USA,2022-06-25,48083.42,88.4,Active
+EMP-00353,Aaron Kelly,Production Operator,Production,Bristol Factory H,United Kingdom,2021-03-26,36672.21,86.7,Active
+EMP-00354,Howard Walker,Logistics Coordinator,Logistics,Osaka Factory M,Japan,2024-04-14,47182.13,83.3,Active
+EMP-00355,Leah Harris,Production Operator,Production,Dubai Factory W,UAE,2026-03-11,29221.25,89.6,Active
+EMP-00356,Karen Taylor,Procurement Officer,Procurement,Shanghai Factory L,China,2025-05-26,45779.05,73.1,Active
+EMP-00357,Dana Hernandez,Factory Manager,Management,Cape Town Factory V,South Africa,2022-07-14,71506.48,84.0,Active
+EMP-00358,Mark Savage,Factory Manager,Management,Lima Factory S,Peru,2025-02-01,72883.36,96.6,Active
+EMP-00359,Jennifer Baker,Factory Manager,Management,Cologne Factory F,Germany,2025-12-09,95746.23,82.4,Active
+EMP-00360,Matthew Hart,Sustainability Analyst,Sustainability,Hershey Falls Factory X,USA,2026-04-06,49044.63,73.4,Active
+EMP-00361,Matthew Wallace,Packaging Associate,Packaging,Guadalajara Factory C,Mexico,2026-04-15,30464.23,80.3,Active
+EMP-00362,Morgan Wright,Quality Inspector,Quality Assurance,Cape Town Factory V,South Africa,2022-09-28,35851.88,79.8,Active
+EMP-00363,Amanda Schmidt,Sustainability Analyst,Sustainability,Pune Factory K,India,2021-04-17,51136.04,76.1,Active
+EMP-00364,David Brown,Logistics Coordinator,Logistics,Dubai Factory W,UAE,2022-04-05,39920.03,86.2,On Leave
+EMP-00365,Alexandria Pierce,Production Operator,Production,Bordeaux Factory D,France,2022-04-25,36523.06,89.1,Active
+EMP-00366,Brenda Gonzalez,Line Supervisor,Production,Guayaquil Factory Q,Ecuador,2020-12-18,54704.92,81.5,Active
+EMP-00367,Katie May,Production Operator,Production,Turin Factory J,Italy,2022-01-18,40683.86,75.3,Active
+EMP-00368,Carrie Parker,R&D Chocolatier,Research & Development,Guadalajara Factory C,Mexico,2024-11-26,61815.46,87.2,Active
+EMP-00369,Anthony Preston,Factory Manager,Management,Munich Factory C,Germany,2024-07-04,93344.81,75.6,Active
+EMP-00370,Michelle Smith,Sustainability Analyst,Sustainability,Dubai Factory W,UAE,2023-11-15,53651.71,87.1,Active
+EMP-00371,Natasha Marshall,Maintenance Technician,Maintenance,Guayaquil Factory Q,Ecuador,2025-11-19,50688.48,84.5,Active
+EMP-00372,Jodi Perez,Quality Inspector,Quality Assurance,Hershey Falls Factory X,USA,2021-04-19,44138.18,95.5,Active
+EMP-00373,David Williams,Sustainability Analyst,Sustainability,Portland Factory A,USA,2023-08-08,62376.71,86.3,On Leave
+EMP-00374,Paul Neal,Logistics Coordinator,Logistics,Bruges Factory D,Belgium,2022-03-22,45059.84,96.5,Active
+EMP-00375,Michelle Adams,Sustainability Analyst,Sustainability,Cologne Factory F,Germany,2024-02-10,57229.59,68.8,Active
+EMP-00376,Jessica Kramer,Quality Inspector,Quality Assurance,Antwerp Factory A,Belgium,2023-06-29,40114.5,82.4,Active
+EMP-00377,Deborah May,R&D Chocolatier,Research & Development,Oaxaca Factory Z,Mexico,2024-02-26,54245.68,73.3,Active
+EMP-00378,Claire Beard,Sustainability Analyst,Sustainability,Portland Factory A,USA,2023-03-06,62341.36,100.0,Active
+EMP-00379,David Young,Procurement Officer,Procurement,Osaka Factory M,Japan,2023-06-08,46368.13,58.2,Active
+EMP-00380,Theresa Reese,Procurement Officer,Procurement,Guadalajara Factory C,Mexico,2023-07-08,58801.59,84.4,Active
+EMP-00381,Spencer Murphy,Maintenance Technician,Maintenance,Shanghai Factory L,China,2022-08-18,36482.88,85.9,Active
+EMP-00382,Terry Mccoy,Quality Inspector,Quality Assurance,Dubai Factory W,UAE,2026-06-16,42007.16,91.7,Active
+EMP-00383,Mary Werner,Quality Inspector,Quality Assurance,Melbourne Factory N,Australia,2020-04-20,46878.28,82.1,Active
+EMP-00384,Ryan Wolfe,Packaging Associate,Packaging,Jakarta Factory O,Indonesia,2024-08-26,29327.52,63.7,Active
+EMP-00385,Jessica Hardy,Logistics Coordinator,Logistics,Accra Factory T,Ghana,2023-10-10,53759.3,78.0,Active
+EMP-00386,Elizabeth Lewis,Logistics Coordinator,Logistics,Montreal Factory Y,Canada,2021-03-10,41711.67,80.3,Active
+EMP-00387,Angela Bartlett,Quality Inspector,Quality Assurance,Munich Factory C,Germany,2024-07-07,36442.44,97.4,Active
+EMP-00388,Alexander Rodriguez,Packaging Associate,Packaging,Guayaquil Factory Q,Ecuador,2022-01-05,26558.67,91.0,Active
+EMP-00389,Haley Thomas,Quality Inspector,Quality Assurance,Melbourne Factory N,Australia,2025-08-05,37887.04,87.4,Active
+EMP-00390,Andrew Schwartz,Quality Inspector,Quality Assurance,Toronto Factory B,Canada,2025-10-22,40765.75,63.4,Active
+EMP-00391,Melissa Doyle,Procurement Officer,Procurement,Guadalajara Factory C,Mexico,2023-06-11,52379.18,78.0,Active
+EMP-00392,Kevin Cox,Production Operator,Production,Toronto Factory B,Canada,2023-06-18,40617.9,86.8,Active
+EMP-00393,Sally Vance,Packaging Associate,Packaging,Oaxaca Factory Z,Mexico,2023-10-22,35988.02,82.4,Active
+EMP-00394,Sean Rocha,Production Operator,Production,Melbourne Factory N,Australia,2021-09-03,41575.67,79.4,Active
+EMP-00395,Ashley Harris,Packaging Associate,Packaging,Munich Factory C,Germany,2022-03-02,35881.53,78.9,Active
+EMP-00396,Andrew Abbott,Maintenance Technician,Maintenance,Munich Factory C,Germany,2022-05-23,38965.34,82.0,Active
+EMP-00397,Madison Bryan,Procurement Officer,Procurement,Turin Factory J,Italy,2022-07-04,57837.87,76.7,Active
+EMP-00398,Donna Garcia,Packaging Associate,Packaging,Jakarta Factory O,Indonesia,2024-09-08,26913.21,80.9,Active
+EMP-00399,Peter Harris,Factory Manager,Management,Sao Paulo Factory P,Brazil,2026-02-16,80200.45,92.9,Active
+EMP-00400,Jeff Smith,R&D Chocolatier,Research & Development,Bern Factory B,Switzerland,2020-05-05,63029.17,79.2,Active
+EMP-00401,Douglas Baldwin,Quality Inspector,Quality Assurance,Osaka Factory M,Japan,2024-05-19,46097.35,86.7,Active
+EMP-00402,Frank Maynard,Maintenance Technician,Maintenance,Lima Factory S,Peru,2025-09-20,48688.81,85.5,Active
+EMP-00403,Sarah Montgomery,Line Supervisor,Production,Lima Factory S,Peru,2024-09-10,44592.98,87.8,Active
+EMP-00404,Jason Graham,Sustainability Analyst,Sustainability,Toronto Factory B,Canada,2020-02-16,58223.16,82.4,On Leave
+EMP-00405,Hannah Bush,R&D Chocolatier,Research & Development,Dubai Factory W,UAE,2021-02-21,59250.82,77.5,On Leave
+EMP-00406,Claire Atkins,Procurement Officer,Procurement,Guadalajara Factory C,Mexico,2020-01-11,61643.76,82.4,Active
+EMP-00407,Robert Jackson,Production Operator,Production,Guadalajara Factory C,Mexico,2025-06-24,38193.01,74.4,Active
+EMP-00408,Dale Gill,Packaging Associate,Packaging,Sao Paulo Factory P,Brazil,2023-11-15,27047.12,85.7,Active
+EMP-00409,April Henry,Factory Manager,Management,Antwerp Factory A,Belgium,2024-12-06,82176.29,98.9,Active
+EMP-00410,Robert Lopez MD,Factory Manager,Management,Guayaquil Factory Q,Ecuador,2024-12-01,93165.8,88.8,Active
+EMP-00411,Ronnie Green,Sustainability Analyst,Sustainability,Zurich Factory E,Switzerland,2022-04-16,60289.94,66.5,Active
+EMP-00412,Diane Lewis,Procurement Officer,Procurement,Bordeaux Factory D,France,2023-01-03,60952.04,87.5,Active
+EMP-00413,Kathleen Rodriguez,Packaging Associate,Packaging,Zurich Factory E,Switzerland,2026-01-07,36788.26,74.1,On Leave
+EMP-00414,Angela French,Maintenance Technician,Maintenance,Jakarta Factory O,Indonesia,2024-04-22,43966.45,79.6,Active
+EMP-00415,Rachel Burton,Maintenance Technician,Maintenance,Cape Town Factory V,South Africa,2025-04-15,37084.81,96.5,Active
+EMP-00416,James Foster,Quality Inspector,Quality Assurance,Montreal Factory Y,Canada,2020-06-12,34777.6,79.5,Active
+EMP-00417,Angelica Beasley,Sustainability Analyst,Sustainability,Oaxaca Factory Z,Mexico,2022-10-06,52387.73,87.3,Active
+EMP-00418,Daniel Baker,R&D Chocolatier,Research & Development,Sao Paulo Factory P,Brazil,2022-12-16,61054.9,82.8,Active
+EMP-00419,Kathryn Gray,Procurement Officer,Procurement,Munich Factory C,Germany,2026-04-25,47747.99,94.8,Active
+EMP-00420,Cynthia Murray,R&D Chocolatier,Research & Development,Pune Factory K,India,2025-04-25,73173.47,88.5,Active
+EMP-00421,Nicole Mullins,Sustainability Analyst,Sustainability,Shanghai Factory L,China,2021-11-10,55553.37,74.6,Active
+EMP-00422,Hannah Murphy,Sustainability Analyst,Sustainability,Jakarta Factory O,Indonesia,2026-05-14,60747.08,79.7,Active
+EMP-00423,Ryan Bates,Sustainability Analyst,Sustainability,Amsterdam Factory I,Netherlands,2021-05-13,52806.03,96.2,Active
+EMP-00424,Carolyn Gonzales,Production Operator,Production,Accra Factory T,Ghana,2022-10-02,28141.91,68.4,On Leave
+EMP-00425,Lauren Martinez,Logistics Coordinator,Logistics,Hershey Falls Factory X,USA,2025-05-29,53274.0,67.7,Active
+EMP-00426,Stephen Young,Factory Manager,Management,Bern Factory B,Switzerland,2025-12-16,74083.78,89.4,Active
+EMP-00427,Eric Warner,Procurement Officer,Procurement,Bern Factory B,Switzerland,2023-02-11,49342.89,89.1,Active
+EMP-00428,Brittney Moore,R&D Chocolatier,Research & Development,Accra Factory T,Ghana,2026-04-03,60573.87,76.8,Active
+EMP-00429,Gabriel Boyd,Sustainability Analyst,Sustainability,Medellin Factory R,Colombia,2025-12-23,52581.84,82.2,Active
+EMP-00430,Garrett Lopez,Production Operator,Production,Jakarta Factory O,Indonesia,2025-06-09,34559.45,72.3,Active
+EMP-00431,Monica Garcia,Maintenance Technician,Maintenance,Jakarta Factory O,Indonesia,2025-11-09,38823.32,85.5,Active
+EMP-00432,Ashley Cruz,Quality Inspector,Quality Assurance,Munich Factory C,Germany,2023-07-03,47265.43,65.0,Active
+EMP-00433,Dr. Morgan Graham,Maintenance Technician,Maintenance,Shanghai Factory L,China,2026-06-15,36119.58,79.6,Active
+EMP-00434,Mark Rodriguez,Procurement Officer,Procurement,Medellin Factory R,Colombia,2021-06-03,51824.88,87.6,Active
+EMP-00435,James Johnson,Line Supervisor,Production,Cologne Factory F,Germany,2020-01-18,45289.97,70.9,Active
+EMP-00436,Richard Steele,Factory Manager,Management,Bruges Factory D,Belgium,2020-09-05,97344.51,85.3,Active
+EMP-00437,Mackenzie Ford,Factory Manager,Management,Montreal Factory Y,Canada,2024-12-19,71129.68,81.3,On Leave
+EMP-00438,Larry Sullivan,Line Supervisor,Production,Zurich Factory E,Switzerland,2025-07-07,42587.33,81.4,Active
+EMP-00439,Susan Jordan,Production Operator,Production,Oaxaca Factory Z,Mexico,2024-09-29,41718.03,73.2,Active
+EMP-00440,Nicole Fisher,Maintenance Technician,Maintenance,Melbourne Factory N,Australia,2023-05-10,48307.47,72.6,Active
+EMP-00441,Nathan Beard,R&D Chocolatier,Research & Development,Melbourne Factory N,Australia,2022-01-13,53024.38,80.8,Active
+EMP-00442,Melissa Phelps,Maintenance Technician,Maintenance,Osaka Factory M,Japan,2022-01-25,41323.51,100.0,Active
+EMP-00443,Margaret Gibson,Factory Manager,Management,Melbourne Factory N,Australia,2025-10-23,89686.25,74.7,Active
+EMP-00444,Mark Garcia,Procurement Officer,Procurement,Abidjan Factory U,Cote d'Ivoire,2022-06-06,57108.34,98.3,Active
+EMP-00445,Richard Marquez,R&D Chocolatier,Research & Development,Sao Paulo Factory P,Brazil,2020-02-17,73889.99,89.4,Active
+EMP-00446,Danielle Henderson,Factory Manager,Management,Bordeaux Factory D,France,2020-08-17,92048.88,81.7,Active
+EMP-00447,Marc Ortiz,Sustainability Analyst,Sustainability,Pune Factory K,India,2022-01-24,56946.98,72.6,Active
+EMP-00448,Tara White,Sustainability Analyst,Sustainability,Bern Factory B,Switzerland,2020-01-22,66392.69,88.9,Active
+EMP-00449,Paula Price,Procurement Officer,Procurement,Jakarta Factory O,Indonesia,2024-07-07,51083.18,72.0,Active
+EMP-00450,William Johnson MD,Factory Manager,Management,Antwerp Factory A,Belgium,2023-12-25,73732.38,87.7,Active
+EMP-00451,Richard Shepard,Logistics Coordinator,Logistics,Lyon Factory G,France,2019-11-08,50464.28,89.0,Active
+EMP-00452,Ashley Andrews,R&D Chocolatier,Research & Development,Cape Town Factory V,South Africa,2020-05-15,53657.25,75.5,Active
+EMP-00453,Michelle Hunt,Packaging Associate,Packaging,Munich Factory C,Germany,2024-01-05,32891.17,75.2,Active
+EMP-00454,Sandra Boyd,Line Supervisor,Production,Melbourne Factory N,Australia,2022-01-28,42072.34,70.0,Active
+EMP-00455,Travis Clark,Maintenance Technician,Maintenance,Guadalajara Factory C,Mexico,2025-10-21,38163.4,100.0,Active
+EMP-00456,Jenna Farmer,Maintenance Technician,Maintenance,Jakarta Factory O,Indonesia,2021-06-29,36859.6,75.3,Active
+EMP-00457,William Kelly,Procurement Officer,Procurement,Melbourne Factory N,Australia,2024-05-19,56644.93,90.2,Active
+EMP-00458,Donald Ross,Quality Inspector,Quality Assurance,Lyon Factory G,France,2021-05-01,39229.64,81.7,Active
+EMP-00459,Jason Fisher,Procurement Officer,Procurement,Bordeaux Factory D,France,2019-10-02,60266.37,87.2,Active
+EMP-00460,Heather Baker,R&D Chocolatier,Research & Development,Montreal Factory Y,Canada,2023-10-13,73199.89,78.1,Active
+EMP-00461,Patrick Case,Factory Manager,Management,Shanghai Factory L,China,2020-12-17,91935.2,100.0,Active
+EMP-00462,Colleen Solis,Line Supervisor,Production,Medellin Factory R,Colombia,2022-10-12,49106.11,83.3,Active
+EMP-00463,Daniel Anderson,R&D Chocolatier,Research & Development,Accra Factory T,Ghana,2024-04-13,54754.66,72.4,Active
+EMP-00464,Rhonda Walters,Factory Manager,Management,Medellin Factory R,Colombia,2023-07-22,74588.41,86.7,Active
+EMP-00465,Justin Perez,Line Supervisor,Production,Guayaquil Factory Q,Ecuador,2021-10-07,57930.78,91.6,Active
+EMP-00466,Heather Fowler,Procurement Officer,Procurement,Amsterdam Factory I,Netherlands,2022-11-15,45437.16,85.1,Active
+EMP-00467,Rose Mcdonald,Sustainability Analyst,Sustainability,Bern Factory B,Switzerland,2025-06-26,55954.67,94.5,Active
+EMP-00468,Joshua Martinez,Maintenance Technician,Maintenance,Cologne Factory F,Germany,2019-10-22,44892.06,84.0,Active
+EMP-00469,Heather Jefferson,Factory Manager,Management,Dubai Factory W,UAE,2021-10-05,78471.9,70.2,Active
+EMP-00470,James King,R&D Chocolatier,Research & Development,Pune Factory K,India,2023-03-19,67860.21,75.6,Active
+EMP-00471,Cody Smith,Procurement Officer,Procurement,Dubai Factory W,UAE,2020-09-21,56324.77,75.5,Active
+EMP-00472,Diana Sanchez,R&D Chocolatier,Research & Development,Melbourne Factory N,Australia,2025-05-25,50682.85,90.6,Active
+EMP-00473,John Patterson,Factory Manager,Management,Lima Factory S,Peru,2024-02-13,70927.93,66.5,Active
+EMP-00474,Mary Cox,Quality Inspector,Quality Assurance,Cape Town Factory V,South Africa,2020-10-05,45121.97,75.5,Active
+EMP-00475,Sarah Brown,R&D Chocolatier,Research & Development,Zurich Factory E,Switzerland,2020-12-06,71017.65,85.6,Active
+EMP-00476,Susan Bowers,Packaging Associate,Packaging,Bristol Factory H,United Kingdom,2022-05-21,32957.8,86.3,Active
+EMP-00477,Ronald Schultz,Packaging Associate,Packaging,Abidjan Factory U,Cote d'Ivoire,2025-08-12,30432.16,82.7,Active
+EMP-00478,Adam Lynn,Production Operator,Production,Lima Factory S,Peru,2020-06-27,28791.73,80.5,Active
+EMP-00479,Danielle Garcia,Line Supervisor,Production,Dubai Factory W,UAE,2021-07-14,54764.49,75.3,Active
+EMP-00480,David Parsons,Maintenance Technician,Maintenance,Hershey Falls Factory X,USA,2024-04-05,48704.65,91.2,Active
+EMP-00481,Christian Strong,Line Supervisor,Production,Melbourne Factory N,Australia,2023-05-20,47775.18,84.9,Active
+EMP-00482,Carol Vance,Factory Manager,Management,Sao Paulo Factory P,Brazil,2023-01-21,90353.73,73.1,Active
+EMP-00483,Rachael Barnett,Procurement Officer,Procurement,Portland Factory A,USA,2025-09-25,52761.93,89.6,Active
+EMP-00484,Rachel Roberson,Sustainability Analyst,Sustainability,Cologne Factory F,Germany,2023-01-02,56889.91,82.8,Active
+EMP-00485,Michael Schmidt,Packaging Associate,Packaging,Medellin Factory R,Colombia,2025-08-14,31266.77,74.4,Active
+EMP-00486,Jessica Andrade,Sustainability Analyst,Sustainability,Guadalajara Factory C,Mexico,2021-10-18,58790.78,71.0,On Leave
+EMP-00487,Deborah Young,Factory Manager,Management,Toronto Factory B,Canada,2022-12-05,75275.77,88.7,Active
+EMP-00488,Johnny Brown,Quality Inspector,Quality Assurance,Guayaquil Factory Q,Ecuador,2021-04-24,46357.43,86.1,Active
+EMP-00489,Charles Henry,R&D Chocolatier,Research & Development,Abidjan Factory U,Cote d'Ivoire,2025-07-06,61542.21,71.3,Active
+EMP-00490,Mr. Scott Smith PhD,Factory Manager,Management,Shanghai Factory L,China,2024-10-03,82723.75,89.2,Active
+EMP-00491,Justin Ortega,Sustainability Analyst,Sustainability,Bristol Factory H,United Kingdom,2024-03-30,53304.08,85.1,On Leave
+EMP-00492,Jaime Barnes,Procurement Officer,Procurement,Jakarta Factory O,Indonesia,2020-10-10,58666.62,77.5,Active
+EMP-00493,Angela Walsh,Quality Inspector,Quality Assurance,Bruges Factory D,Belgium,2026-03-18,40949.55,83.6,Active
+EMP-00494,Alyssa Lynch,Quality Inspector,Quality Assurance,Osaka Factory M,Japan,2024-04-09,45713.49,88.6,Active
+EMP-00495,Tara Rivera,Packaging Associate,Packaging,Bordeaux Factory D,France,2023-02-13,35958.35,90.1,Active
+EMP-00496,Ms. Kari Merritt,Packaging Associate,Packaging,Bristol Factory H,United Kingdom,2022-11-08,37204.18,98.0,Active
+EMP-00497,Nathan Garrett,Production Operator,Production,Turin Factory J,Italy,2022-06-13,32048.84,78.9,Active
+EMP-00498,Scott Diaz,Sustainability Analyst,Sustainability,Osaka Factory M,Japan,2021-02-10,54048.94,99.2,Active
+EMP-00499,Joseph Townsend,Maintenance Technician,Maintenance,Toronto Factory B,Canada,2022-05-24,51802.68,75.6,On Leave
+EMP-00500,Jeffrey Henderson,Logistics Coordinator,Logistics,Guadalajara Factory C,Mexico,2020-09-11,51286.82,96.0,Active
