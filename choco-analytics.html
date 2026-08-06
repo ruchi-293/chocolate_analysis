@@ -854,9 +854,9 @@
         <div class="lo-icon">🛡️</div>
         <div><h5>Admin Login</h5><p>Secure access to dataset management & full admin console.</p></div>
       </div>
-      <p style="font-size:11px;color:var(--cocoa);text-align:center;margin-top:14px;opacity:0.65;">
-        <!-- Connects to <span class="mono" id="api-base-display"></span> -->
-      </p>
+      <!-- <p style="font-size:11px;color:var(--cocoa);text-align:center;margin-top:14px;opacity:0.65;">
+        Connects to <span class="mono" id="api-base-display"></span>
+      </p> -->
     </div>
 
     <!-- Step: user login -->
@@ -1225,9 +1225,15 @@ async function buildCharts(){
    "not connected" message if the API isn't reachable.
 ========================================================= */
 const API_BASE = 'http://localhost:5000/api';
-document.getElementById('api-base-display').textContent = API_BASE;
-document.getElementById('dashboard-api-base-note').textContent = API_BASE;
+const apiBaseDisplay = document.getElementById("api-base-display");
+if (apiBaseDisplay) {
+    apiBaseDisplay.textContent = API_BASE;
+}
 
+const dashboardNote = document.getElementById("dashboard-api-base-note");
+if (dashboardNote) {
+    dashboardNote.textContent = API_BASE;
+}
 let authState = { token: null, user: null };
 
 // ---------- Safe storage (localStorage with a graceful in-memory fallback) ----------
